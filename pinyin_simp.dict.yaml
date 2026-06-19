@@ -6,7 +6,7 @@
 # Derived from android open source project:
 # http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.git
 #
-
+ 
 ---
 name: pinyin_simp
 version: "0.1"
@@ -18705,7 +18705,7 @@ sort: by_weight
 不脱	bu tuo	128
 布托	bu tuo	211
 不妥	bu tuo	644
-不退	bu tui	249
+不退	bu tui	37563
 不拿	bu na	265
 不耐	bu nai	107
 不难	bu nan	1768
@@ -34000,7 +34000,7 @@ sort: by_weight
 结构	jie gou	13384
 解雇	jie gu	291
 接过	jie guo	1049
-结果	jie guo	37326
+结果	jie guo	42439
 接轨	jie gui	781
 借款	jie kuan	901
 解开	jie kai	868
@@ -38619,7 +38619,7 @@ sort: by_weight
 战胜	zhan sheng	1797
 战事	zhan shi	211
 战时	zhan shi	237
-展示	zhan shi	9741
+展示	zhan shi	58105
 战士	zhan shi	7442
 斩首	zhan shou	126
 战术	zhan shu	1961
@@ -38926,7 +38926,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	253490
+这个	zhe ge	253491
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -39628,7 +39628,7 @@ sort: by_weight
 知性	zhi xing	228
 之星	zhi xing	636
 之行	zhi xing	818
-执行	zhi xing	63000
+执行	zhi xing	63001
 只许	zhi xu	123
 只须	zhi xu	163
 只需	zhi xu	2064
@@ -39921,7 +39921,7 @@ sort: by_weight
 中段	zhong duan	253
 中端	zhong duan	289
 中断	zhong duan	1811
-终端	zhong duan	3394
+终端	zhong duan	144494
 肿大	zhong da	140
 中大	zhong da	404
 重大	zhong da	7133
@@ -40690,7 +40690,7 @@ sort: by_weight
 缠身	chan shen	245
 产生	chan sheng	19968
 禅师	chan shi	244
-阐释	chan shi	343
+阐释	chan shi	24993
 阐述	chan shu	1563
 缠绕	chan rao	609
 掺杂	chan za	225
@@ -48694,7 +48694,7 @@ sort: by_weight
 盈利	ying li	3157
 影楼	ying lou	238
 荧光	ying guang	390
-应该	ying gai	373872
+应该	ying gai	373886
 英国	ying guo	8983
 营口	ying kou	179
 盈亏	ying kui	239
@@ -49925,7 +49925,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	31885
+文件	wen jian	31886
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -50365,7 +50365,7 @@ sort: by_weight
 我所	wo suo	1022
 我愿	wo yuan	305
 我院	wo yuan	691
-我要	wo yao	19501
+我要	wo yao	19510
 我也	wo ye	19500
 我已	wo yi	624
 我一	wo yi	846
@@ -57115,7 +57115,7 @@ sort: by_weight
 怎么把	zen me ba	195
 怎么办	zen me ban	6006
 怎么打	zen me da	175
-怎么弄	zen me nong	327
+怎么弄	zen me nong	328
 怎么啦	zen me la	860
 怎么改	zen me gai	133
 怎么搞	zen me gao	275
