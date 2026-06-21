@@ -13,7 +13,7 @@ version: "0.1"
 sort: by_weight
 ...
 
-
+ 
 发什么	fa sheng mo	200
 候选词	hou xuan ci	200
 第一个	di yi ge	200
@@ -270,7 +270,7 @@ sort: by_weight
 保	bao	4532
 抱	bao	4769
 宝	bao	5580
-报	bao	11312
+报	bao	590660
 包	bao	15389
 栟	ben	0
 泍	ben	1
@@ -13023,7 +13023,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1180981
 时	shi	1181021
-是	shi	1181022
+是	shi	1181053
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -13485,7 +13485,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	974751
-在	zai	974752
+在	zai	974818
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -16691,7 +16691,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1192789
+我	wo	1192817
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -30386,7 +30386,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304399
+可以	ke yi	304408
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -38933,7 +38933,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	253514
+这个	zhe ge	974820
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -39635,7 +39635,7 @@ sort: by_weight
 知性	zhi xing	228
 之星	zhi xing	636
 之行	zhi xing	818
-执行	zhi xing	63004
+执行	zhi xing	974819
 只许	zhi xu	123
 只须	zhi xu	163
 只需	zhi xu	2064
@@ -41256,7 +41256,7 @@ sort: by_weight
 成文	cheng wen	147
 称谓	cheng wei	425
 称为	cheng wei	5443
-成为	cheng wei	38459
+成为	cheng wei	126910
 吃吧	chi ba	335
 翅膀	chi bang	1762
 吃饱	chi bao	887
@@ -46029,7 +46029,7 @@ sort: by_weight
 错字	cuo zi	244
 措辞	cuo ci	213
 错位	cuo wei	406
-错误	cuo wu	13552
+错误	cuo wu	126911
 催眠	cui mian	453
 翠绿	cui lv	181
 翠花	cui hua	150
@@ -57120,7 +57120,7 @@ sort: by_weight
 责任书	ze ren shu	146
 责任人	ze ren ren	665
 怎么把	zen me ba	195
-怎么办	zen me ban	6006
+怎么办	zen me ban	974821
 怎么打	zen me da	175
 怎么弄	zen me nong	329
 怎么啦	zen me la	860
