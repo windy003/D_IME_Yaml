@@ -15,6 +15,8 @@ sort: by_weight
 
 
 
+不工作	bu gong zuo	20
+没反应	mei fan yin	20
 返回键	fan hui jian	20
 我说的	wo suo de	200
 捞女	lao nv	200
@@ -104,7 +106,7 @@ sort: by_weight
 这样子	zhe yang zhi	2232
 是什么	shi sheng mo	581
 简拼	jian pin	4632
-安卓	an zhuo	19435
+安卓	an zhuo	19436
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -1632,7 +1634,7 @@ sort: by_weight
 梅	mei	3492
 美	mei	295037
 每	mei	19115
-没	mei	295035
+没	mei	295038
 鸍	mi	0
 麊	mi	0
 塓	mi	0
@@ -4675,7 +4677,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	6513
-了	le	1500188
+了	le	1500200
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -5099,7 +5101,7 @@ sort: by_weight
 靓	liang	1509
 辆	liang	1820
 凉	liang	2197
-良	liang	2770
+良	liang	16586
 梁	liang	4148
 亮	liang	16585
 量	liang	11116
@@ -9521,7 +9523,7 @@ sort: by_weight
 裘	qiu	294
 丘	qiu	725
 邱	qiu	1432
-秋	qiu	3839
+秋	qiu	8742
 求	qiu	8741
 球	qiu	8740
 斪	qu	0
@@ -11584,7 +11586,7 @@ sort: by_weight
 洲	zhou	1298
 粥	zhou	1498
 州	zhou	3193
-周	zhou	16297
+周	zhou	48131
 鼨	zhong	0
 炂	zhong	0
 堹	zhong	0
@@ -21012,7 +21014,7 @@ sort: by_weight
 法学	fa xue	675
 法系	fa xi	234
 罚下	fa xia	148
-发现	fa xian	50596
+发现	fa xian	50597
 发笑	fa xiao	174
 发些	fa xie	119
 发泄	fa xie	1674
@@ -21236,7 +21238,7 @@ sort: by_weight
 翻译	fan yi	13391
 翻印	fan yin	133
 反应	fan ying	9371
-反映	fan ying	10315
+反映	fan ying	13393
 繁育	fan yu	242
 饭碗	fan wan	443
 范文	fan wen	316
@@ -21946,7 +21948,7 @@ sort: by_weight
 肤质	fu zhi	203
 福祉	fu zhi	323
 赋值	fu zhi	476
-复制	fu zhi	54058
+复制	fu zhi	54061
 抚州	fu zhou	114
 符咒	fu zhou	115
 福州	fu zhou	2708
@@ -22583,7 +22585,7 @@ sort: by_weight
 带兵	dai bing	118
 代步	dai bu	152
 逮捕	dai bu	800
-代码	dai ma	12584
+代码	dai ma	4828302
 怠慢	dai man	186
 待命	dai ming	232
 代发	dai fa	146
@@ -23447,7 +23449,7 @@ sort: by_weight
 电极	dian ji	413
 惦记	dian ji	607
 电机	dian ji	1202
-点击	dian ji	67815
+点击	dian ji	67817
 店家	dian jia	317
 电价	dian jia	409
 电教	dian jiao	110
@@ -29365,7 +29367,7 @@ sort: by_weight
 公仔	gong zai	203
 公子	gong zi	2561
 工资	gong zi	13671
-工作	gong zuo	107926
+工作	gong zuo	107928
 共存	gong cun	352
 公厕	gong ce	239
 公测	gong ce	578
@@ -37018,7 +37020,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246365
+现在	xian zai	246366
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -38173,7 +38175,7 @@ sort: by_weight
 秀美	xiu mei	254
 休眠	xiu mian	295
 秀发	xiu fa	257
-修复	xiu fu	16359
+修复	xiu fu	16360
 嗅到	xiu dao	139
 修道	xiu dao	156
 修得	xiu de	116
@@ -38951,7 +38953,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974820
+这个	zhe ge	974835
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -39996,7 +39998,7 @@ sort: by_weight
 重工	zhong gong	243
 中共	zhong gong	3310
 中古	zhong gu	144
-中国	zhong guo	974833
+中国	zhong guo	974834
 终归	zhong gui	287
 肿块	zhong kuai	230
 重卡	zhong ka	119
@@ -47717,7 +47719,7 @@ sort: by_weight
 爷们	ye men	388
 页眉	ye mei	158
 也没	ye mei	14735
-页面	ye mian	11312
+页面	ye mian	14737
 夜幕	ye mu	307
 夜风	ye feng	137
 也非	ye fei	114
@@ -50878,7 +50880,7 @@ sort: by_weight
 安南	an nan	263
 安妮	an ni	385
 安宁	an ning	647
-按钮	an niu	4074
+按钮	an niu	4075
 安乐	an le	205
 按理	an li	142
 安利	an li	849
@@ -53546,7 +53548,7 @@ sort: by_weight
 流通股	liu tong gu	448
 六年级	liu nian ji	156
 浏览量	liu lan liang	166
-浏览器	liu lan qi	4350
+浏览器	liu lan qi	4351
 浏览者	liu lan zhe	132
 流浪猫	liu lang mao	117
 流浪狗	liu lang gou	123
