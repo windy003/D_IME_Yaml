@@ -17,7 +17,6 @@ sort: by_weight
 
 
 
-
 鲈鱼	lu yu	20
 鸡胸	ji xiong	20
 鸡胸肉	ji xiong lou	20
@@ -80,7 +79,7 @@ sort: by_weight
 刷新	sua xin	28783
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
-上面的	shang mian de	1048
+上面的	shang mian de	1181072
 其中的	qi zong de	459
 花括号	hua kuo hao	201
 可以了	ke yi le	203
@@ -334,7 +333,7 @@ sort: by_weight
 苯	ben	639
 奔	ben	1469
 笨	ben	5349
-本	ben	24833
+本	ben	590669
 閍	beng	0
 嵭	beng	0
 塴	beng	0
@@ -3233,7 +3232,7 @@ sort: by_weight
 對	dui	576
 堆	dui	2183
 队	dui	10367
-对	dui	279642
+对	dui	4828310
 鷻	tuan	0
 鷒	tuan	0
 猯	tuan	1
@@ -11661,7 +11660,7 @@ sort: by_weight
 钟	zhong	4317
 重	zhong	243218
 种	zhong	243216
-中	zhong	974827
+中	zhong	974868
 麆	zhu	0
 壴	zhu	0
 鮢	zhu	0
@@ -16740,7 +16739,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1192817
+我	wo	1192832
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -16874,7 +16873,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	15389
-啊	a	83803
+啊	a	83805
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -16963,7 +16962,7 @@ sort: by_weight
 案	an	4805
 安	an	25813
 俺	an	16897
-按	an	25814
+按	an	83804
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -20400,7 +20399,7 @@ sort: by_weight
 每一	mei yi	2008
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	325584
+没有	mei you	325586
 没用	mei yong	325581
 美玉	mei yu	113
 美语	mei yu	128
@@ -20485,7 +20484,7 @@ sort: by_weight
 密钥	mi yue	283
 蜜月	mi yue	283
 密云	mi yun	177
-密钥	mi yao	283
+密钥	mi yao	325585
 密友	mi you	333
 谜语	mi yu	189
 迷惘	mi wang	360
@@ -21406,7 +21405,7 @@ sort: by_weight
 放生	fang sheng	257
 房事	fang shi	163
 房市	fang shi	341
-方式	fang shi	33626
+方式	fang shi	69528
 放手	fang shou	929
 防守	fang shou	2567
 放水	fang shui	299
@@ -22749,7 +22748,7 @@ sort: by_weight
 淡定	dan ding	344
 但都	dan dou	138
 丹东	dan dong	239
-单独	dan du	29760
+单独	dan du	4828311
 但对	dan dui	810
 蛋挞	dan ta	112
 但它	dan ta	1051
@@ -24811,7 +24810,7 @@ sort: by_weight
 提神	ti shen	182
 替身	ti shen	291
 提升	ti sheng	9608
-提示	ti shi	39628
+提示	ti shi	343913
 替人	ti ren	116
 提早	ti zao	578
 蹄子	ti zi	106
@@ -30407,7 +30406,7 @@ sort: by_weight
 可视	ke shi	466
 科室	ke shi	939
 可使	ke shi	1137
-可是	ke shi	304415
+可是	ke shi	304426
 恪守	ke shou	185
 棵树	ke shu	225
 可说	ke shuo	695
@@ -37480,7 +37479,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	41150
+项目	xiang mu	246390
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -39626,7 +39625,7 @@ sort: by_weight
 执教	zhi jiao	479
 指教	zhi jiao	876
 肢解	zhi jie	130
-直接	zhi jie	239019
+直接	zhi jie	974870
 纸巾	zhi jin	375
 至今	zhi jin	5728
 致敬	zhi jing	604
@@ -42418,7 +42417,7 @@ sort: by_weight
 设想	she xiang	1359
 社长	she zhang	557
 摄制	she zhi	130
-设置	she zhi	22917
+设置	she zhi	1181071
 设成	she cheng	174
 射程	she cheng	273
 奢侈	she chi	1193
@@ -43752,7 +43751,7 @@ sort: by_weight
 熟人	shu ren	1146
 数日	shu ri	229
 殊荣	shu rong	291
-输入	shu ru	43153
+输入	shu ru	1181073
 梳子	shu zi	269
 数字	shu zi	22916
 数组	shu zu	1152
@@ -45793,7 +45792,7 @@ sort: by_weight
 藏匿	cang ni	156
 苍老	cang lao	264
 苍凉	cang liang	219
-仓库	cang ku	3197
+仓库	cang ku	126917
 仓皇	cang huang	107
 沧海	cang hai	530
 苍穹	cang qiong	203
@@ -57171,7 +57170,7 @@ sort: by_weight
 怎么把	zen me ba	195
 怎么办	zen me ban	974823
 怎么打	zen me da	175
-怎么弄	zen me nong	329
+怎么弄	zen me nong	974869
 怎么啦	zen me la	860
 怎么改	zen me gai	133
 怎么搞	zen me gao	275
