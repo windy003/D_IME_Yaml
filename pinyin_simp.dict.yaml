@@ -16,7 +16,9 @@ sort: by_weight
 
 
 
-阿里云	a li yun	200
+操作系统	cao zuo xi tong	200
+好几个	hao ji ge	200
+阿里云	a li yun	83806
 周秋良	zhou qiu liang	200
 建德	jian de	200
 在哪里	zai na li	200
@@ -139,7 +141,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	56122
 这样子	zhe yang zhi	2235
-是什么	shi sheng mo	587
+是什么	shi sheng mo	1181076
 简拼	jian pin	4632
 安卓	an zhuo	19444
 就这样子	jiu zhe yang zhi	100
@@ -5958,7 +5960,7 @@ sort: by_weight
 歌	ge	245963
 格	ge	245960
 各	ge	245962
-个	ge	245966
+个	ge	245974
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -5991,7 +5993,7 @@ sort: by_weight
 耕	geng	439
 耿	geng	635
 庚	geng	729
-更	geng	48734
+更	geng	245975
 給	gei	343
 给	gei	191937
 句	gou	0
@@ -7071,8 +7073,8 @@ sort: by_weight
 耗	hao	1100
 豪	hao	1625
 浩	hao	1631
-号	hao	378548
-好	hao	378547
+号	hao	664886
+好	hao	664887
 麧	he	0
 齃	he	0
 鑉	he	0
@@ -7142,7 +7144,7 @@ sort: by_weight
 合	he	6297
 何	he	6636
 喝	he	15293
-和	he	664880
+和	he	664883
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -8876,7 +8878,7 @@ sort: by_weight
 雀	que	469
 确	que	1082
 缺	que	3991
-却	que	43347
+却	que	330879
 峮	qun	1
 宭	qun	1
 麕	qun	1
@@ -12142,7 +12144,7 @@ sort: by_weight
 昌	chang	1729
 场	chang	5636
 厂	chang	5991
-常	chang	7630
+常	chang	126918
 唱	chang	7744
 长	chang	13911
 窲	chao	0
@@ -13078,7 +13080,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1180981
 时	shi	1181066
-是	shi	1181075
+是	shi	1181078
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -15337,8 +15339,8 @@ sort: by_weight
 姚	yao	2108
 腰	yao	2606
 咬	yao	3558
-药	yao	613915
-要	yao	396900
+药	yao	613931
+要	yao	613932
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -19807,7 +19809,7 @@ sort: by_weight
 普天	pu tian	180
 莆田	pu tian	269
 扑通	pu tong	145
-普通	pu tong	12266
+普通	pu tong	58911
 普陀	pu tuo	234
 铺路	pu lu	139
 普罗	pu luo	133
@@ -22266,7 +22268,7 @@ sort: by_weight
 大典	da dian	216
 大殿	da dian	232
 打点	da dian	358
-大点	da dian	398
+大点	da dian	4828315
 打掉	da diao	420
 大碟	da die	239
 大跌	da die	1587
@@ -25127,7 +25129,7 @@ sort: by_weight
 霆锋	ting feng	193
 停顿	ting dun	523
 挺大	ting da	502
-听到	ting dao	10589
+听到	ting dao	343914
 听得	ting de	1276
 停电	ting dian	1041
 停掉	ting diao	147
@@ -29408,7 +29410,7 @@ sort: by_weight
 公测	gong ce	578
 公孙	gong sun	268
 公私	gong si	116
-公司	gong si	118498
+公司	gong si	245973
 公诉	gong su	222
 弓虽	gong sui	115
 公元	gong yuan	424
@@ -30441,7 +30443,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304417
+可以	ke yi	304430
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -31480,7 +31482,7 @@ sort: by_weight
 好后	hao hou	244
 好货	hao huo	171
 好记	hao ji	139
-好几	hao ji	962
+好几	hao ji	664885
 嚎叫	hao jiao	151
 好觉	hao jiao	179
 号角	hao jiao	246
@@ -31796,7 +31798,7 @@ sort: by_weight
 很爽	hen shuang	871
 很帅	hen shuai	566
 很傻	hen sha	255
-很少	hen shao	9789
+很少	hen shao	664884
 很深	hen shen	1050
 很是	hen shi	1217
 很瘦	hen shou	153
@@ -33021,10 +33023,10 @@ sort: by_weight
 记述	ji shu	264
 计数	ji shu	538
 基数	ji shu	707
-技术	ji shu	43401
+技术	ji shu	558442
 计税	ji shui	125
 积水	ji shui	373
-既然	ji ran	26440
+既然	ji ran	558443
 己任	ji ren	222
 几人	ji ren	478
 即日	ji ri	240
@@ -36568,7 +36570,7 @@ sort: by_weight
 习题	xi ti	336
 西天	xi tian	155
 洗头	xi tou	483
-系统	xi tong	56455
+系统	xi tong	246393
 稀土	xi tu	298
 吸纳	xi na	703
 西南	xi nan	1509
@@ -39632,7 +39634,7 @@ sort: by_weight
 执教	zhi jiao	479
 指教	zhi jiao	876
 肢解	zhi jie	130
-直接	zhi jie	974870
+直接	zhi jie	974874
 纸巾	zhi jin	375
 至今	zhi jin	5728
 致敬	zhi jing	604
@@ -42293,7 +42295,7 @@ sort: by_weight
 上演	shang yan	1706
 上扬	shang yang	1046
 上也	shang ye	835
-商业	shang ye	8346
+商业	shang ye	1181077
 上亿	shang yi	193
 商议	shang yi	394
 上一	shang yi	595
@@ -45846,7 +45848,7 @@ sort: by_weight
 操守	cao shou	131
 嘈杂	cao za	315
 操纵	cao zong	1005
-操作	cao zuo	26441
+操作	cao zuo	126921
 草草	cao cao	419
 曹操	cao cao	1205
 草丛	cao cong	247
@@ -48116,7 +48118,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	373907
+一个	yi ge	613933
 一根	yi gen	2847
 异构	yi gou	143
 以供	yi gong	272
@@ -48191,7 +48193,7 @@ sort: by_weight
 意甲	yi jia	596
 一架	yi jia	733
 宜家	yi jia	1053
-一家	yi jia	13688
+一家	yi jia	613930
 一剑	yi jian	347
 一键	yi jian	396
 一见	yi jian	615
@@ -52233,7 +52235,7 @@ sort: by_weight
 服务费	fu wu fei	406
 服务端	fu wu duan	379
 服务台	fu wu tai	125
-服务器	fu wu qi	19002
+服务器	fu wu qi	69530
 服务区	fu wu qu	229
 服务型	fu wu xing	107
 服务性	fu wu xing	132
@@ -55786,7 +55788,7 @@ sort: by_weight
 畜牧业	xu mu ye	401
 蓄电池	xu dian chi	308
 许多人	xu duo ren	1922
-虚拟化	xu ni hua	294
+虚拟化	xu ni hua	246392
 虚拟机	xu ni ji	660
 叙利亚	xu li ya	324
 序列化	xu lie hua	137
@@ -56311,7 +56313,7 @@ sort: by_weight
 创世纪	chuang shi ji	130
 创始人	chuang shi ren	856
 创造力	chuang zao li	596
-创造性	chuang zao xing	856
+创造性	chuang zao xing	126919
 创造者	chuang zao zhe	146
 创造出	chuang zao chu	657
 创作者	chuang zuo zhe	176
@@ -58344,7 +58346,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192829
+为什么	wei shen me	1192836
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
@@ -64186,7 +64188,7 @@ sort: by_weight
 操作规程	cao zuo gui cheng	113
 操作界面	cao zuo jie mian	117
 操作权限	cao zuo quan xian	284
-操作系统	cao zuo xi tong	3169
+操作系统	cao zuo xi tong	126920
 操作人员	cao zuo ren yuan	153
 测试结果	ce shi jie guo	214
 测试用例	ce shi yong li	107
