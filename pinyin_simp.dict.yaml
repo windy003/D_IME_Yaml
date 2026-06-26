@@ -14,8 +14,8 @@ sort: by_weight
 ...
 
 
-
-
+自己的	zi ji de	200
+保护模式	bao hu mo shi	200
 烤鸡	kao ji	10
 操作系统	cao zuo xi tong	200
 好几个	hao ji ge	200
@@ -40,7 +40,7 @@ sort: by_weight
 无衬线字体	wu cheng xian zhi ti	201
 无衬线	wu cheng xian	200
 什么区别	sheng mo qu bie	201
-是怎么回事	shi zheng mo hui shi	200
+是怎么回事	shi zheng mo hui shi	201
 怎么理解	zheng mo li jie	200
 脑梗	nao geng	20
 看顾	kan gu	304429
@@ -141,7 +141,7 @@ sort: by_weight
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
 一定	yi din	56122
-这样子	zhe yang zhi	2235
+这样子	zhe yang zhi	2236
 是什么	shi sheng mo	1181076
 简拼	jian pin	4632
 安卓	an zhuo	19444
@@ -1775,7 +1775,7 @@ sort: by_weight
 绵	mian	396
 眠	mian	545
 棉	mian	1232
-免	mian	2805
+免	mian	13023
 面	mian	13022
 鱙	miao	0
 篎	miao	0
@@ -8784,7 +8784,7 @@ sort: by_weight
 居	ju	2926
 句	ju	4021
 距	ju	13757
-局	ju	7098
+局	ju	13758
 据	ju	13756
 韏	quan	0
 駩	quan	0
@@ -19414,7 +19414,7 @@ sort: by_weight
 陪着	pei zhe	931
 培植	pei zhi	222
 配制	pei zhi	375
-配置	pei zhi	13810
+配置	pei zhi	13811
 配种	pei zhong	123
 赔偿	pei chang	2708
 陪衬	pei chen	143
@@ -20829,7 +20829,7 @@ sort: by_weight
 魔神	mo shen	184
 陌生	mo sheng	3302
 漠视	mo shi	324
-模式	mo shi	20390
+模式	mo shi	20391
 没收	mo shou	787
 魔兽	mo shou	3768
 莫属	mo shu	212
@@ -21415,7 +21415,7 @@ sort: by_weight
 放生	fang sheng	257
 房事	fang shi	163
 房市	fang shi	341
-方式	fang shi	69528
+方式	fang shi	69530
 放手	fang shou	929
 防守	fang shou	2567
 放水	fang shui	299
@@ -21935,7 +21935,7 @@ sort: by_weight
 父皇	fu huang	122
 富含	fu han	549
 富豪	fu hao	997
-符号	fu hao	69526
+符号	fu hao	69527
 附和	fu he	220
 复核	fu he	423
 负荷	fu he	1007
@@ -22589,7 +22589,7 @@ sort: by_weight
 答疑	da yi	449
 大意	da yi	576
 大一	da yi	1104
-打印	da yin	5422
+打印	da yin	39587
 打赢	da ying	290
 答应	da ying	4745
 大有	da you	654
@@ -30444,7 +30444,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304430
+可以	ke yi	304431
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -30885,7 +30885,7 @@ sort: by_weight
 欢欢	huan huan	270
 换换	huan huan	383
 缓缓	huan huan	1519
-换行	huan hang	276
+换行	huan hang	249665
 换好	huan hao	148
 换号	huan hao	375
 缓和	huan he	511
@@ -30900,7 +30900,7 @@ sort: by_weight
 缓解	huan jie	2361
 环节	huan jie	3981
 幻境	huan jing	114
-环境	huan jing	23252
+环境	huan jing	664886
 换气	huan qi	164
 唤起	huan qi	382
 换钱	huan qian	106
@@ -31250,7 +31250,7 @@ sort: by_weight
 海参	hai shen	234
 还剩	hai sheng	525
 海事	hai shi	364
-还是	hai shi	166954
+还是	hai shi	664891
 还说	hai shuo	2926
 海水	hai shui	1027
 还让	hai rang	244
@@ -32474,7 +32474,7 @@ sort: by_weight
 回音	hui yin	454
 辉映	hui ying	110
 回应	hui ying	2332
-会有	hui you	11326
+会有	hui you	86135
 会用	hui yong	826
 会玩	hui wan	132
 回望	hui wang	175
@@ -36256,7 +36256,7 @@ sort: by_weight
 祛除	qu chu	136
 驱除	qu chu	184
 去处	qu chu	253
-去除	qu chu	17549
+去除	qu chu	17550
 取出	qu chu	1371
 取舍	qu she	400
 取胜	qu sheng	709
@@ -37046,7 +37046,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246384
+显示	xian shi	246385
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -37058,7 +37058,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246391
+现在	xian zai	246393
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -39994,7 +39994,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	974854
+中的	zhong de	974855
 中等	zhong deng	900
 中的	zhong di	164
 种地	zhong di	287
@@ -42427,7 +42427,7 @@ sort: by_weight
 设想	she xiang	1359
 社长	she zhang	557
 摄制	she zhi	130
-设置	she zhi	1181071
+设置	she zhi	1181072
 设成	she cheng	174
 射程	she cheng	273
 奢侈	she chi	1193
@@ -43350,7 +43350,7 @@ sort: by_weight
 试用	shi yong	2491
 实用	shi yong	3532
 适用	shi yong	4459
-使用	shi yong	96007
+使用	shi yong	1181078
 适于	shi yu	274
 始于	shi yu	448
 十余	shi yu	707
@@ -44004,7 +44004,7 @@ sort: by_weight
 软膏	ruan gao	141
 软骨	ruan gu	211
 软化	ruan hua	454
-软件	ruan jian	31744
+软件	ruan jian	31745
 软禁	ruan jin	139
 软驱	ruan qu	245
 软性	ruan xing	109
@@ -44458,7 +44458,7 @@ sort: by_weight
 乳化	ru hua	132
 如花	ru hua	466
 入海	ru hai	114
-如何	ru he	69609
+如何	ru he	69611
 入户	ru hu	440
 如火	ru huo	135
 入伙	ru huo	143
@@ -45241,7 +45241,7 @@ sort: by_weight
 纵深	zong shen	285
 宗师	zong shi	193
 纵使	zong shi	268
-总是	zong shi	58099
+总是	zong shi	58106
 总署	zong shu	108
 综述	zong shu	692
 总数	zong shu	1782
@@ -45263,7 +45263,7 @@ sort: by_weight
 纵欲	zong yu	169
 总务	zong wu	120
 总爱	zong ai	143
-总额	zong e	2880
+总额	zong e	2881
 祖辈	zu bei	117
 组别	zu bie	111
 组播	zu bo	143
@@ -46742,7 +46742,7 @@ sort: by_weight
 缩减	suo jian	375
 所见	suo jian	568
 所讲	suo jiang	257
-缩进	suo jin	128
+缩进	suo jin	92942
 所起	suo qi	141
 索取	suo qu	617
 所选	suo xuan	274
@@ -46752,7 +46752,7 @@ sort: by_weight
 缩小	suo xiao	28786
 所想	suo xiang	366
 所写	suo xie	389
-缩写	suo xie	28769
+缩写	suo xie	1181081
 所幸	suo xing	245
 索性	suo xing	769
 所需	suo xu	2665
@@ -48471,7 +48471,7 @@ sort: by_weight
 一死	yi si	213
 疑似	yi si	464
 一丝	yi si	2338
-意思	yi si	613929
+意思	yi si	613930
 一艘	yi sou	485
 移送	yi song	259
 一所	yi suo	1122
@@ -49211,7 +49211,7 @@ sort: by_weight
 用刀	yong dao	235
 用到	yong dao	1399
 用得	yong de	406
-用的	yong de	2156
+用的	yong de	56130
 用地	yong di	1329
 用电	yong dian	776
 用掉	yong diao	160
@@ -50341,7 +50341,7 @@ sort: by_weight
 我党	wo dang	144
 我倒	wo dao	1014
 我得	wo de	597
-我的	wo de	41872
+我的	wo de	41873
 我等	wo deng	161
 我得	wo dei	389
 卧底	wo di	386
@@ -50961,7 +50961,7 @@ sort: by_weight
 安信	an xin	177
 安心	an xin	1723
 按需	an xu	144
-安装	an zhuang	19440
+安装	an zhuang	19445
 按照	an zhao	19386
 按着	an zhe	294
 安贞	an zhen	109
@@ -57178,7 +57178,7 @@ sort: by_weight
 责任书	ze ren shu	146
 责任人	ze ren ren	665
 怎么把	zen me ba	195
-怎么办	zen me ban	974823
+怎么办	zen me ban	974824
 怎么打	zen me da	175
 怎么弄	zen me nong	974869
 怎么啦	zen me la	860
