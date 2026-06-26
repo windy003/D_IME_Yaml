@@ -14,6 +14,9 @@ sort: by_weight
 ...
 
 
+
+
+在哪里	zai na li	200
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
@@ -1401,7 +1404,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	12498
 嘛	ma	70738
-吗	ma	325570
+吗	ma	325588
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -1461,7 +1464,7 @@ sort: by_weight
 漫	man	945
 曼	man	1506
 蛮	man	9290
-满	man	12039
+满	man	325587
 慢	man	14352
 壾	mang	0
 蛖	mang	0
@@ -2763,7 +2766,7 @@ sort: by_weight
 德	de	7178
 地	de	4828295
 得	de	75568
-的	de	4828307
+的	de	4828314
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -13072,7 +13075,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1180981
 时	shi	1181066
-是	shi	1181068
+是	shi	1181075
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -13322,7 +13325,7 @@ sort: by_weight
 认	ren	2412
 忍	ren	2612
 任	ren	7851
-人	ren	250291
+人	ren	250293
 芿	reng	1
 陾	reng	2
 礽	reng	26
@@ -13534,7 +13537,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	974838
-在	zai	974839
+在	zai	974873
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -22427,7 +22430,7 @@ sort: by_weight
 大钱	da qian	462
 大桥	da qiao	1196
 大秦	da qin	181
-大清	da qing	171
+大清	da qing	4828313
 大庆	da qing	528
 打球	da qiu	2538
 打趣	da qu	150
@@ -25783,7 +25786,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	37940
+哪里	na li	1500201
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -33918,7 +33921,7 @@ sort: by_weight
 奖惩	jiang cheng	257
 僵持	jiang chi	186
 讲出	jiang chu	140
-江山	jiang shan	758
+江山	jiang shan	558441
 江上	jiang shang	135
 奖赏	jiang shang	145
 降生	jiang sheng	161
@@ -37049,7 +37052,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246389
+现在	xian zai	246391
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
