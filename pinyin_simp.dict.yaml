@@ -14,6 +14,9 @@ sort: by_weight
 ...
 
 
+
+
+机器码	ji qi ma	20
 不需要	bu xu yao	200
 在这里	zai zhe li	839
 这段文字中的	zhe duan wen zhi zong de	201
@@ -28,7 +31,7 @@ sort: by_weight
 阿里云	a li yun	83806
 周秋良	zhou qiu liang	200
 建德	jian de	558445
-在哪里	zai na li	200
+在哪里	zai na li	201
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
@@ -50,7 +53,7 @@ sort: by_weight
 怎么理解	zheng mo li jie	200
 脑梗	nao geng	20
 看顾	kan gu	304429
-也就是	ye jiu si	20
+也就是	ye jiu si	4057
 加进去	jia jin qu 20
 有哪些	you na xie	200
 写一个	xie yi ge	201
@@ -119,7 +122,7 @@ sort: by_weight
 下标	xia biao	10803
 了啊	le a	4053
 希望歌	xi wang ge	202
-有什么区别	you sheng mo qu bie	613918
+有什么区别	you sheng mo qu bie	613919
 哈希表	ha xi biao	297
 哈希	ha xi	100
 上面说的	shang mian shuo de	1181062
@@ -133,8 +136,8 @@ sort: by_weight
 硬删除	yin san chua	207
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
-这里的	zhe li de	149
-是什么意思	shi sheng mo yi si	1181063
+这里的	zhe li de	150
+是什么意思	shi sheng mo yi si	1181064
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -148,7 +151,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	56122
 这样子	zhe yang zhi	2237
-是什么	shi sheng mo	1181080
+是什么	shi sheng mo	1181082
 简拼	jian pin	4632
 安卓	an zhuo	19447
 就这样子	jiu zhe yang zhi	100
@@ -5905,7 +5908,7 @@ sort: by_weight
 膏	gao	703
 稿	gao	1710
 告	gao	2532
-搞	gao	39924
+搞	gao	45168
 高	gao	45167
 騔	ge	0
 鴐	ge	0
@@ -18326,7 +18329,7 @@ sort: by_weight
 便成	bian cheng	173
 编成	bian cheng	183
 编程	bian cheng	2937
-变成	bian cheng	13739
+变成	bian cheng	46777
 边吃	bian chi	230
 边上	bian shang	2023
 变身	bian shen	688
@@ -18393,7 +18396,7 @@ sort: by_weight
 标记	biao ji	2113
 标价	biao jia	382
 表姐	biao jie	579
-标签	biao qian	17753
+标签	biao qian	17754
 表情	biao qing	6660
 表现	biao xian	18785
 表象	biao xiang	400
@@ -19816,7 +19819,7 @@ sort: by_weight
 普天	pu tian	180
 莆田	pu tian	269
 扑通	pu tong	145
-普通	pu tong	58911
+普通	pu tong	58912
 普陀	pu tuo	234
 铺路	pu lu	139
 普罗	pu luo	133
@@ -20683,7 +20686,7 @@ sort: by_weight
 明了	ming liao	515
 明亮	ming liang	1162
 名列	ming lie	536
-命令	ming ling	10315
+命令	ming ling	10316
 名流	ming liu	251
 名录	ming lu	498
 名贵	ming gui	328
@@ -20755,7 +20758,7 @@ sort: by_weight
 明晚	ming wan	560
 冥王	ming wang	116
 明文	ming wen	196
-名为	ming wei	1836
+名为	ming wei	1838
 明暗	ming an	129
 命案	ming an	203
 名额	ming e	1082
@@ -29417,7 +29420,7 @@ sort: by_weight
 公测	gong ce	578
 公孙	gong sun	268
 公私	gong si	116
-公司	gong si	245973
+公司	gong si	245976
 公诉	gong su	222
 弓虽	gong sui	115
 公元	gong yuan	424
@@ -30000,7 +30003,7 @@ sort: by_weight
 开明	kai ming	277
 楷模	kai mo	270
 开幕	kai mu	1609
-开发	kai fa	23508
+开发	kai fa	23509
 开饭	kai fan	208
 开房	kai fang	427
 开放	kai fang	7133
@@ -38997,7 +39000,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974875
+这个	zhe ge	974877
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -39039,7 +39042,7 @@ sort: by_weight
 浙西	zhe xi	140
 这下	zhe xia	1485
 这项	zhe xiang	2596
-这些	zhe xie	974834
+这些	zhe xie	974836
 这桩	zhe zhuang	107
 这张	zhe zhang	3523
 这招	zhe zhao	335
@@ -44911,7 +44914,7 @@ sort: by_weight
 责问	ze wen	107
 则为	ze wei	472
 择偶	ze ou	153
-怎么	zen me	974842
+怎么	zen me	974845
 怎能	zen neng	725
 怎会	zen hui	312
 怎样	zen yang	14659
@@ -51526,7 +51529,7 @@ sort: by_weight
 便可以	bian ke yi	370
 辩护人	bian hu ren	123
 编辑部	bian ji bu	499
-编辑器	bian ji qi	899
+编辑器	bian ji qi	900
 便携式	bian xie shi	426
 辩证法	bian zheng fa	177
 边走边	bian zou bian	223
@@ -53592,7 +53595,7 @@ sort: by_weight
 流通股	liu tong gu	448
 六年级	liu nian ji	156
 浏览量	liu lan liang	166
-浏览器	liu lan qi	4352
+浏览器	liu lan qi	4353
 浏览者	liu lan zhe	132
 流浪猫	liu lang mao	117
 流浪狗	liu lang gou	123
