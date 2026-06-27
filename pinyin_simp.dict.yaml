@@ -15,10 +15,10 @@ sort: by_weight
 
 
 
-
+有问题	you wen ti	200
 八进制	ba jin zhi	200
-十六进制	shi liu jin zhi	200
-十进制	shi jin zhi	200
+十六进制	shi liu jin zhi	202
+十进制	shi jin zhi	1285
 机器码	ji qi ma	346
 不需要	bu xu yao	200
 在这里	zai zhe li	839
@@ -56,7 +56,7 @@ sort: by_weight
 怎么理解	zheng mo li jie	200
 脑梗	nao geng	20
 看顾	kan gu	304429
-也就是	ye jiu si	4057
+也就是	ye jiu si	4058
 加进去	jia jin qu 20
 有哪些	you na xie	200
 写一个	xie yi ge	201
@@ -91,7 +91,7 @@ sort: by_weight
 是多少	shi duo sao	200
 截个图	jie ge tu	200
 虚拟环境	xu ni huan jin	200
-是一个	shi yi ge	203
+是一个	shi yi ge	204
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	539
 在不	zai bu	974875
@@ -199,7 +199,7 @@ sort: by_weight
 巴	ba	3193
 爸	ba	3625
 八	ba	6677
-把	ba	385238
+把	ba	385240
 吧	ba	385239
 竡	bai	0
 拝	bai	2
@@ -2525,7 +2525,7 @@ sort: by_weight
 端	duan	7985
 断	duan	4835
 短	duan	5185
-段	duan	7984
+段	duan	7986
 驐	dun	0
 壿	dun	0
 撉	dun	1
@@ -8437,7 +8437,7 @@ sort: by_weight
 界	jie	3961
 街	jie	4420
 姐	jie	5089
-节	jie	5152
+节	jie	17761
 解	jie	5545
 借	jie	7169
 接	jie	17760
@@ -16715,7 +16715,7 @@ sort: by_weight
 微	wei	1192820
 味	wei	3099
 喂	wei	3754
-位	wei	14033
+位	wei	1192822
 未	wei	17562
 为	wei	1192821
 薶	wo	0
@@ -19040,7 +19040,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	173519
+不是	bu shi	173522
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	1784
@@ -21326,7 +21326,7 @@ sort: by_weight
 放荡	fang dang	230
 放倒	fang dao	195
 防盗	fang dao	447
-放到	fang dao	5537
+放到	fang dao	5538
 放低	fang di	116
 房地	fang di	123
 放点	fang dian	175
@@ -26180,7 +26180,7 @@ sort: by_weight
 内在	nei zai	1450
 内脏	nei zang	409
 内资	nei zi	171
-内存	nei cun	11876
+内存	nei cun	11877
 内参	nei can	127
 内侧	nei ce	389
 内测	nei ce	655
@@ -38996,7 +38996,7 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	974841
+这里	zhe li	974843
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
@@ -40006,7 +40006,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	974857
+中的	zhong de	974858
 中等	zhong deng	900
 中的	zhong di	164
 种地	zhong di	287
@@ -41773,7 +41773,7 @@ sort: by_weight
 初夜	chu ye	159
 刍议	chu yi	110
 厨艺	chu yi	251
-除以	chu yi	273
+除以	chu yi	20372
 处以	chu yi	398
 初一	chu yi	517
 出油	chu you	109
@@ -45039,7 +45039,7 @@ sort: by_weight
 自荐	zi jian	156
 自建	zi jian	253
 自检	zi jian	255
-字节	zi jie	974877
+字节	zi jie	974880
 自尽	zi jin	178
 紫金	zi jin	244
 资金	zi jin	17280
@@ -48131,7 +48131,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	613936
+一个	yi ge	613937
 一根	yi gen	2847
 异构	yi gou	143
 以供	yi gong	272
@@ -49192,7 +49192,7 @@ sort: by_weight
 游玩	you wan	719
 有望	you wang	2829
 又问	you wen	360
-尤文	you wen	628
+尤文	you wen	613923
 又为	you wei	107
 有违	you wei	159
 有位	you wei	557
@@ -56771,7 +56771,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	42129
+是不是	shi bu shi	42130
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
