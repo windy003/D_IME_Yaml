@@ -15,8 +15,8 @@ sort: by_weight
 
 
 
-
-这段文字中的	zhe duan wen zhi zong de	200
+在这里	zai zhe li	200
+这段文字中的	zhe duan wen zhi zong de	201
 开恩	kai en	100
 单个	dan ge	100
 我可以	wo ke yi	200
@@ -148,7 +148,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	56122
 这样子	zhe yang zhi	2236
-是什么	shi sheng mo	1181078
+是什么	shi sheng mo	1181079
 简拼	jian pin	4632
 安卓	an zhuo	19447
 就这样子	jiu zhe yang zhi	100
@@ -5974,7 +5974,7 @@ sort: by_weight
 哏	gen	64
 艮	gen	159
 根	gen	6854
-跟	gen	74632
+跟	gen	245976
 鶊	geng	0
 菮	geng	0
 骾	geng	0
@@ -13087,7 +13087,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1180981
 时	shi	1181079
-是	shi	1181078
+是	shi	1181080
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -13913,7 +13913,7 @@ sort: by_weight
 左	zuo	154140
 坐	zuo	11583
 作	zuo	19307
-做	zuo	154139
+做	zuo	154141
 纗	zui	0
 欈	zui	1
 絊	zui	1
@@ -18413,7 +18413,7 @@ sort: by_weight
 飙升	biao sheng	598
 标示	biao shi	362
 标识	biao shi	2175
-表示	biao shi	173513
+表示	biao shi	173518
 标书	biao shu	415
 表述	biao shu	1100
 婊子	biao zi	636
@@ -19034,7 +19034,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	173517
+不是	bu shi	173519
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	1784
@@ -31360,7 +31360,7 @@ sort: by_weight
 喊声	han sheng	131
 韩式	han shi	153
 函授	han shou	172
-函数	han shu	166945
+函数	han shu	664892
 含税	han shui	232
 汗水	han shui	966
 汉人	han ren	470
@@ -32297,7 +32297,7 @@ sort: by_weight
 会比	hui bi	657
 回避	hui bi	1544
 会变	hui bian	326
-汇编	hui bian	588
+汇编	hui bian	8224
 回拨	hui bo	153
 回补	hui bu	237
 汇票	hui piao	233
@@ -32308,7 +32308,7 @@ sort: by_weight
 惠民	hui min	219
 回眸	hui mou	255
 会发	hui fa	112
-挥发	hui fa	258
+挥发	hui fa	11358
 回放	hui fang	476
 回访	hui fang	590
 汇丰	hui feng	419
@@ -34176,7 +34176,7 @@ sort: by_weight
 解释	jie shi	12266
 接手	jie shou	712
 接收	jie shou	4526
-接受	jie shou	20218
+接受	jie shou	558447
 借书	jie shu	176
 结束	jie shu	15836
 解说	jie shuo	1059
@@ -37553,7 +37553,7 @@ sort: by_weight
 响亮	xiang liang	493
 相邻	xiang lin	520
 香炉	xiang lu	117
-相关	xiang guan	25433
+相关	xiang guan	25434
 想干	xiang gan	141
 相干	xiang gan	343
 香港	xiang gang	17916
@@ -38990,14 +38990,14 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	974837
+这里	zhe li	974838
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974865
+这个	zhe ge	974868
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40000,7 +40000,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	974855
+中的	zhong de	974856
 中等	zhong deng	900
 中的	zhong di	164
 种地	zhong di	287
@@ -45787,7 +45787,7 @@ sort: by_weight
 餐桌	can zhuo	587
 残杀	can sha	120
 蚕食	can shi	141
-参数	can shu	24991
+参数	can shu	24995
 残忍	can ren	1285
 惨遭	can zao	350
 残存	can cun	181
@@ -45855,7 +45855,7 @@ sort: by_weight
 操守	cao shou	131
 嘈杂	cao za	315
 操纵	cao zong	1005
-操作	cao zuo	126921
+操作	cao zuo	126923
 草草	cao cao	419
 曹操	cao cao	1205
 草丛	cao cong	247
@@ -46758,7 +46758,7 @@ sort: by_weight
 缩小	suo xiao	28786
 所想	suo xiang	366
 所写	suo xie	389
-缩写	suo xie	1181082
+缩写	suo xie	1181083
 所幸	suo xing	245
 索性	suo xing	769
 所需	suo xu	2665
@@ -48125,7 +48125,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	613933
+一个	yi ge	613935
 一根	yi gen	2847
 异构	yi gou	143
 以供	yi gong	272
@@ -48296,7 +48296,7 @@ sort: by_weight
 意向	yi xiang	1274
 一向	yi xiang	2513
 一项	yi xiang	5382
-一些	yi xie	69428
+一些	yi xie	94342
 疑心	yi xin	175
 一心	yi xin	889
 异形	yi xing	185
@@ -48477,7 +48477,7 @@ sort: by_weight
 一死	yi si	213
 疑似	yi si	464
 一丝	yi si	2338
-意思	yi si	613931
+意思	yi si	613932
 一艘	yi sou	485
 移送	yi song	259
 一所	yi suo	1122
@@ -49503,7 +49503,7 @@ sort: by_weight
 雨燕	yu yan	233
 寓言	yu yan	279
 预言	yu yan	955
-语言	yu yan	64760
+语言	yu yan	613927
 余姚	yu yao	212
 雨夜	yu ye	212
 渔业	yu ye	574
@@ -58308,7 +58308,7 @@ sort: by_weight
 文化人	wen hua ren	159
 温家宝	wen jia bao	1306
 文件名	wen jian ming	1041
-文件夹	wen jian jia	3194
+文件夹	wen jian jia	3195
 文学家	wen xue jia	220
 文学奖	wen xue jiang	106
 文学史	wen xue shi	144
@@ -58353,7 +58353,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192836
+为什么	wei shen me	1192837
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
