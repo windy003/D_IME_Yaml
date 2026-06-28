@@ -14,7 +14,10 @@ sort: by_weight
 ...
 
 
-篡改猴	cuan gai hou	20
+
+
+悬浮窗	xuan fu cuang	22
+篡改猴	cuan gai hou	22
 篡改	cuan gai	30
 我的意思	wo de yi si	20
 我的意思是	wo de yi si si	1192844
@@ -117,7 +120,7 @@ sort: by_weight
 刷新	sua xin	28783
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
-上面的	shang mian de	1181072
+上面的	shang mian de	1181073
 其中的	qi zong de	459
 花括号	hua kuo hao	201
 可以了	ke yi le	203
@@ -169,7 +172,7 @@ sort: by_weight
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
 一定	yi din	56122
-这样子	zhe yang zhi	2237
+这样子	zhe yang zhi	2238
 是什么	shi sheng mo	1181087
 简拼	jian pin	4632
 安卓	an zhuo	19447
@@ -216,7 +219,7 @@ sort: by_weight
 爸	ba	3625
 八	ba	6677
 把	ba	385240
-吧	ba	385239
+吧	ba	385241
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -3099,7 +3102,7 @@ sort: by_weight
 逗	dou	1784
 豆	dou	1856
 斗	dou	2548
-都	dou	401877
+都	dou	4828299
 鶫	dong	0
 駧	dong	0
 霘	dong	0
@@ -10474,7 +10477,7 @@ sort: by_weight
 响	xiang	2554
 箱	xiang	3161
 乡	xiang	3961
-项	xiang	4675
+项	xiang	141797
 香	xiang	141796
 相	xiang	12374
 象	xiang	13251
@@ -17803,7 +17806,7 @@ sort: by_weight
 包子	bao zi	1894
 暴走	bao zou	223
 宝座	bao zuo	385
-保存	bao cun	46774
+保存	bao cun	46778
 报错	bao cuo	46776
 保送	bao song	221
 报送	bao song	771
@@ -21301,7 +21304,7 @@ sort: by_weight
 翻阅	fan yue	316
 繁衍	fan yan	328
 翻页	fan ye	705
-翻译	fan yi	13391
+翻译	fan yi	13395
 翻印	fan yin	133
 反应	fan ying	9371
 反映	fan ying	13393
@@ -22014,7 +22017,7 @@ sort: by_weight
 肤质	fu zhi	203
 福祉	fu zhi	323
 赋值	fu zhi	476
-复制	fu zhi	69532
+复制	fu zhi	69534
 抚州	fu zhou	114
 符咒	fu zhou	115
 福州	fu zhou	2708
@@ -22138,7 +22141,7 @@ sort: by_weight
 断裂	duan lie	747
 断流	duan liu	105
 短路	duan lu	415
-段落	duan luo	635
+段落	duan luo	22708
 断开	duan kai	576
 端口	duan kou	16884
 短裤	duan ku	614
@@ -22863,7 +22866,7 @@ sort: by_weight
 诞生	dan sheng	2355
 单是	dan shi	181
 胆识	dan shi	182
-但是	dan shi	4828310
+但是	dan shi	4828312
 单手	dan shou	395
 单数	dan shu	135
 淡水	dan shui	346
@@ -22892,7 +22895,7 @@ sort: by_weight
 但要	dan yao	771
 单页	dan ye	127
 但也	dan ye	2098
-单一	dan yi	2108
+单一	dan yi	39590
 但因	dan yin	420
 但有	dan you	660
 但又	dan you	894
@@ -25820,7 +25823,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	1500202
+哪里	na li	1500203
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -26221,7 +26224,7 @@ sort: by_weight
 逆风	ni feng	126
 你到	ni dao	325
 你得	ni de	441
-你的	ni de	39683
+你的	ni de	39684
 你得	ni dei	327
 拟订	ni ding	142
 拟定	ni ding	617
@@ -26541,7 +26544,7 @@ sort: by_weight
 挪威	nuo wei	550
 卵泡	luan pao	135
 乱跑	luan pao	327
-乱码	luan ma	1125
+乱码	luan ma	1500202
 乱发	luan fa	180
 乱飞	luan fei	130
 乱打	luan da	113
@@ -27126,7 +27129,7 @@ sort: by_weight
 礼貌	li mao	1252
 厘米	li mi	1348
 立面	li mian	204
-里面	li mian	40936
+里面	li mian	1500203
 李敏	li min	120
 利民	li min	176
 李明	li ming	408
@@ -27348,7 +27351,7 @@ sort: by_weight
 理由	li you	8805
 李勇	li yong	163
 李咏	li yong	260
-利用	li yong	17431
+利用	li yong	17434
 礼遇	li yu	109
 李玉	li yu	178
 立于	li yu	185
@@ -29306,7 +29309,7 @@ sort: by_weight
 共同	gong tong	11597
 供暖	gong nuan	403
 宫女	gong nv	333
-功能	gong neng	245974
+功能	gong neng	245976
 宫内	gong nei	182
 公牛	gong niu	355
 工农	gong nong	199
@@ -30134,7 +30137,7 @@ sort: by_weight
 看吧	kan ba	954
 堪比	kan bi	137
 看病	kan bing	1111
-看不	kan bu	628
+看不	kan bu	4741
 看盘	kan pan	382
 看片	kan pian	326
 看破	kan po	117
@@ -30444,7 +30447,7 @@ sort: by_weight
 可视	ke shi	466
 科室	ke shi	939
 可使	ke shi	1137
-可是	ke shi	304427
+可是	ke shi	304428
 恪守	ke shou	185
 棵树	ke shu	225
 可说	ke shuo	695
@@ -31278,7 +31281,7 @@ sort: by_weight
 海参	hai shen	234
 还剩	hai sheng	525
 海事	hai shi	364
-还是	hai shi	664897
+还是	hai shi	664898
 还说	hai shuo	2926
 海水	hai shui	1027
 还让	hai rang	244
@@ -33632,7 +33635,7 @@ sort: by_weight
 交办	jiao ban	175
 叫板	jiao ban	196
 搅拌	jiao ban	683
-脚本	jiao ben	29717
+脚本	jiao ben	29721
 脚边	jiao bian	108
 狡辩	jiao bian	270
 胶布	jiao bu	123
@@ -35938,7 +35941,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	13049
+请你	qing ni	13050
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -37074,7 +37077,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246387
+显示	xian shi	246389
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -37086,7 +37089,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246400
+现在	xian zai	246402
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -37265,7 +37268,7 @@ sort: by_weight
 小姑	xiao gu	108
 小郭	xiao guo	211
 小国	xiao guo	250
-效果	xiao guo	25431
+效果	xiao guo	25435
 小鬼	xiao gui	687
 小块	xiao kuai	419
 小卡	xiao ka	135
@@ -38647,7 +38650,7 @@ sort: by_weight
 战队	zhan dui	428
 站台	zhan tai	475
 展台	zhan tai	478
-粘贴	zhan tie	974838
+粘贴	zhan tie	974840
 展厅	zhan ting	495
 站内	zhan nei	693
 战乱	zhan luan	254
@@ -39019,7 +39022,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974884
+这个	zhe ge	974885
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40014,10 +40017,10 @@ sort: by_weight
 中段	zhong duan	253
 中端	zhong duan	289
 中断	zhong duan	1811
-终端	zhong duan	144494
+终端	zhong duan	974863
 肿大	zhong da	140
 中大	zhong da	404
-重大	zhong da	7133
+重大	zhong da	974862
 中带	zhong dai	110
 重担	zhong dan	226
 中档	zhong dang	225
@@ -40214,7 +40217,7 @@ sort: by_weight
 忠于	zhong yu	299
 终于	zhong yu	131091
 中外	zhong wai	997
-中文	zhong wen	37945
+中文	zhong wen	37947
 中尉	zhong wei	180
 中卫	zhong wei	205
 重物	zhong wu	125
@@ -42093,7 +42096,7 @@ sort: by_weight
 擅长	shan chang	1555
 山城	shan cheng	198
 闪出	shan chu	107
-删除	shan chu	54071
+删除	shan chu	54073
 杉杉	shan shan	136
 姗姗	shan shan	200
 珊珊	shan shan	206
@@ -42455,7 +42458,7 @@ sort: by_weight
 设想	she xiang	1359
 社长	she zhang	557
 摄制	she zhi	130
-设置	she zhi	1181075
+设置	she zhi	1181089
 设成	she cheng	174
 射程	she cheng	273
 奢侈	she chi	1193
@@ -43789,7 +43792,7 @@ sort: by_weight
 熟人	shu ren	1146
 数日	shu ri	229
 殊荣	shu rong	291
-输入	shu ru	1181083
+输入	shu ru	1181084
 梳子	shu zi	269
 数字	shu zi	22916
 数组	shu zu	1152
@@ -45645,7 +45648,7 @@ sort: by_weight
 裁缝	cai feng	591
 财富	cai fu	4675
 财大	cai da	187
-菜单	cai dan	10074
+菜单	cai dan	126917
 踩到	cai dao	191
 才到	cai dao	264
 猜到	cai dao	476
@@ -46917,7 +46920,7 @@ sort: by_weight
 院内	yuan nei	326
 怨念	yuan nian	245
 元年	yuan nian	309
-原来	yuan lai	28698
+原来	yuan lai	28699
 元老	yuan lao	353
 圆了	yuan le	147
 院里	yuan li	381
@@ -47785,7 +47788,7 @@ sort: by_weight
 爷们	ye men	388
 页眉	ye mei	158
 也没	ye mei	14735
-页面	ye mian	14738
+页面	ye mian	14740
 夜幕	ye mu	307
 夜风	ye feng	137
 也非	ye fei	114
@@ -48889,7 +48892,7 @@ sort: by_weight
 应与	ying yu	191
 盈余	ying yu	258
 英语	ying yu	10523
-英文	ying wen	613926
+英文	ying wen	613928
 应为	ying wei	1125
 硬卧	ying wo	130
 鹦鹉	ying wu	386
@@ -50458,14 +50461,14 @@ sort: by_weight
 我所	wo suo	1022
 我愿	wo yuan	305
 我院	wo yuan	691
-我要	wo yao	19513
+我要	wo yao	19515
 我也	wo ye	19500
 我已	wo yi	624
 我一	wo yi	846
 握有	wo you	116
 我又	wo you	3225
 我有	wo you	3364
-我用	wo yong	1934
+我用	wo yong	19516
 我往	wo wang	105
 我问	wo wen	1212
 我为	wo wei	113
@@ -54117,7 +54120,7 @@ sort: by_weight
 开玩笑	kai wan xiao	2857
 凯恩斯	kai en si	107
 看病难	kan bing nan	130
-看不到	kan bu dao	5729
+看不到	kan bu dao	5731
 看不懂	kan bu dong	1880
 看不惯	kan bu guan	436
 看不见	kan bu jian	2230
@@ -55491,7 +55494,7 @@ sort: by_weight
 笑眯眯	xiao mi mi	215
 小蜜蜂	xiao mi feng	138
 小房间	xiao fang jian	119
-消防车	xiao fang che	142
+消防车	xiao fang che	143
 小房子	xiao fang zi	152
 小分队	xiao fen dui	190
 消费品	xiao fei pin	619
@@ -56260,7 +56263,7 @@ sort: by_weight
 众议院	zhong yi yuan	202
 中医院	zhong yi yuan	260
 中医药	zhong yi yao	662
-中英文	zhong ying wen	413
+中英文	zhong ying wen	830
 中文版	zhong wen ban	1143
 中文名	zhong wen ming	242
 中文系	zhong wen xi	357
@@ -58155,7 +58158,7 @@ sort: by_weight
 游戏币	you xi bi	209
 游戏里	you xi li	311
 游戏机	you xi ji	669
-右下角	you xia jiao	579
+右下角	you xia jiao	670
 有线通	you xian tong	125
 优先级	you xian ji	502
 优先权	you xian quan	135
@@ -58375,7 +58378,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192843
+为什么	wei shen me	1192844
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
@@ -62929,7 +62932,7 @@ sort: by_weight
 重要因素	zhong yao yin su	524
 重要问题	zhong yao wen ti	152
 终于明白	zhong yu ming bai	325
-终于找到	zhong yu zhao dao	414
+终于找到	zhong yu zhao dao	415
 中外合资	zhong wai he zi	141
 中文论坛	zhong wen lun tan	105
 中文字幕	zhong wen zi mu	133
