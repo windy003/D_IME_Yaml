@@ -14,8 +14,8 @@ sort: by_weight
 ...
 
 
-
-凉森玲梦	liang sheng lin meng	20
+腐竹	fu zhu	20
+凉森玲梦	liang sheng lin meng	1500204
 风雨无阻	fen yu wu zhu	20
 杠杠的	gang gang de	245978
 深拷贝	sheng kao bei	2
@@ -62,7 +62,7 @@ sort: by_weight
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
 酱牛肉	jiang niu lou	20
-鲈鱼	lu yu	20
+鲈鱼	lu yu	1500205
 鸡胸	ji xiong	20
 鸡胸肉	ji xiong lou	20
 切分	qie fen	200
@@ -120,7 +120,7 @@ sort: by_weight
 在不	zai bu	974875
 升序	sheng xu	28790
 怎么实现的	zheng mo shi xian de	100
-父神	fu sheng	69529
+父神	fu sheng	69535
 刷新	sua xin	28783
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
@@ -11589,7 +11589,7 @@ sort: by_weight
 纸	zhi	3607
 制	zhi	4902
 直	zhi	5038
-知	zhi	6669
+知	zhi	974888
 指	zhi	8783
 值	zhi	49540
 至	zhi	17782
@@ -12927,7 +12927,7 @@ sort: by_weight
 甚	shen	2161
 身	shen	5764
 沈	shen	6710
-深	shen	6820
+深	shen	1181090
 神	shen	9418
 鵿	sheng	0
 曻	sheng	0
@@ -16784,7 +16784,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1192834
+我	wo	1192848
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -16918,7 +16918,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	15389
-啊	a	83805
+啊	a	83807
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -21896,7 +21896,7 @@ sort: by_weight
 否决	fou jue	451
 否认	fou ren	2561
 否则	fou ze	10668
-腐败	fu bai	3060
+腐败	fu bai	69536
 副本	fu ben	4963
 父辈	fu bei	235
 复辟	fu bi	108
@@ -34896,7 +34896,7 @@ sort: by_weight
 就问	jiu wen	429
 久违	jiu wei	535
 酒窝	jiu wo	176
-救我	jiu wo	204
+救我	jiu wo	558450
 就我	jiu wo	336
 九五	jiu wu	200
 就爱	jiu ai	201
@@ -40392,7 +40392,7 @@ sort: by_weight
 注资	zhu zi	382
 主子	zhu zi	467
 柱子	zhu zi	571
-竹子	zhu zi	594
+竹子	zhu zi	974889
 驻足	zhu zu	313
 著作	zhu zuo	1190
 贮存	zhu cun	264
@@ -45525,7 +45525,7 @@ sort: by_weight
 最低	zui di	4799
 最多	zui duo	144491
 最难	zui nan	638
-最能	zui neng	974871
+最能	zui neng	974886
 罪孽	zui nie	118
 最牛	zui niu	310
 醉了	zui le	285
@@ -45572,7 +45572,7 @@ sort: by_weight
 最受	zui shou	494
 最让	zui rang	146
 最热	zui re	255
-罪人	zui ren	272
+罪人	zui ren	974887
 醉人	zui ren	338
 最早	zui zao	2350
 最最	zui zui	611
@@ -50919,7 +50919,7 @@ sort: by_weight
 碍于	ai yu	178
 爱与	ai yu	278
 爱玩	ai wan	182
-爱我	ai wo	1218
+爱我	ai wo	83808
 唉唉	ai ai	136
 皑皑	ai ai	137
 爱爱	ai ai	263
@@ -58446,7 +58446,7 @@ sort: by_weight
 我承认	wo cheng ren	521
 我是你	wo shi ni	239
 卧室里	wo shi li	131
-我是个	wo shi ge	857
+我是个	wo shi ge	1192847
 我是谁	wo shi shui	273
 我说过	wo shuo guo	384
 我说我	wo shuo wo	501
