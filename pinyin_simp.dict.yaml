@@ -15,7 +15,7 @@ sort: by_weight
 
 
 
-
+奇偶	ji ou	1
 并没有	bin mei you	20
 描述符	miao shu fu	20
 全局描述符表	quan ju miao shu fu biao	20
@@ -50,7 +50,7 @@ sort: by_weight
 机器码	ji qi ma	346
 不需要	bu xu yao	200
 在这里	zai zhe li	839
-这段文字中的	zhe duan wen zhi zong de	201
+这段文字中的	zhe duan wen zhi zong de	202
 开恩	kai en	100
 单个	dan ge	100
 我可以	wo ke yi	200
@@ -79,7 +79,7 @@ sort: by_weight
 好了吗	hao le ma	200
 无衬线字体	wu cheng xian zhi ti	201
 无衬线	wu cheng xian	200
-什么区别	sheng mo qu bie	202
+什么区别	sheng mo qu bie	203
 是怎么回事	shi zheng mo hui shi	201
 怎么理解	zheng mo li jie	200
 脑梗	nao geng	20
@@ -156,7 +156,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	613919
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181068
+上面说的	shang mian shuo de	1181070
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -182,7 +182,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	56122
 这样子	zhe yang zhi	2238
-是什么	shi sheng mo	1181090
+是什么	shi sheng mo	1181092
 简拼	jian pin	4632
 安卓	an zhuo	19447
 就这样子	jiu zhe yang zhi	100
@@ -3280,7 +3280,7 @@ sort: by_weight
 碓	dui	30
 兑	dui	457
 對	dui	576
-堆	dui	2183
+堆	dui	4828311
 队	dui	10367
 对	dui	4828310
 鷻	tuan	0
@@ -11082,7 +11082,7 @@ sort: by_weight
 绽	zhan	79
 毡	zhan	122
 瞻	zhan	154
-栈	zhan	266
+栈	zhan	974836
 湛	zhan	284
 盏	zhan	292
 蘸	zhan	351
@@ -26208,7 +26208,7 @@ sort: by_weight
 内在	nei zai	1450
 内脏	nei zang	409
 内资	nei zi	171
-内存	nei cun	11877
+内存	nei cun	11879
 内参	nei can	127
 内侧	nei ce	389
 内测	nei ce	655
@@ -34380,7 +34380,7 @@ sort: by_weight
 金曲	jin qu	204
 进取	jin qu	566
 禁区	jin qu	1366
-进去	jin qu	15113
+进去	jin qu	15115
 今夏	jin xia	196
 仅限	jin xian	206
 尽显	jin xian	322
@@ -40034,7 +40034,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	974860
+中的	zhong de	974864
 中等	zhong deng	900
 中的	zhong di	164
 种地	zhong di	287
@@ -44215,7 +44215,7 @@ sort: by_weight
 人行	ren hang	185
 仁和	ren he	123
 人和	ren he	255
-任何	ren he	69605
+任何	ren he	69613
 人很	ren hen	127
 人会	ren hui	450
 人均	ren jun	1859
@@ -45821,7 +45821,7 @@ sort: by_weight
 餐桌	can zhuo	587
 残杀	can sha	120
 蚕食	can shi	141
-参数	can shu	24995
+参数	can shu	24997
 残忍	can ren	1285
 惨遭	can zao	350
 残存	can cun	181
