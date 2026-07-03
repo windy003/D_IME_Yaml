@@ -18,7 +18,8 @@ sort: by_weight
 
 
 
-检查点	jian ca dian	1
+偏置	pian zhi	2
+检查点	jian ca dian	2
 梓由衣	zhi you yi	1
 鱼排	yu pai	1
 油猴脚本	you hou jiao ben	1
@@ -189,7 +190,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	613920
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181080
+上面说的	shang mian shuo de	1181081
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -201,7 +202,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	153
-是什么意思	shi sheng mo yi si	1181068
+是什么意思	shi sheng mo yi si	1181069
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -35144,7 +35145,7 @@ sort: by_weight
 全州	quan zhou	211
 泉州	quan zhou	924
 圈中	quan zhong	179
-权重	quan zhong	988
+权重	quan zhong	330879
 全长	quan chang	242
 全场	quan chang	1170
 全车	quan che	137
