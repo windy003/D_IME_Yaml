@@ -16,7 +16,9 @@ sort: by_weight
 
 
 
-美缝	mei feng	1
+
+腻子	nie zi	1
+美缝	mei feng	325598
 死一样痛过	shi yi yang tong guo	1
 死一样	shi yi yang	1
 刘保杰	liu bao jie	1
@@ -271,7 +273,7 @@ sort: by_weight
 爸	ba	3625
 八	ba	6677
 把	ba	385244
-吧	ba	385245
+吧	ba	590674
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -1493,7 +1495,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	12498
 嘛	ma	70738
-吗	ma	325589
+吗	ma	325599
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -2855,7 +2857,7 @@ sort: by_weight
 德	de	7178
 地	de	4828315
 得	de	75568
-的	de	4828316
+的	de	4828324
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4277,7 +4279,7 @@ sort: by_weight
 昵	ni	164
 倪	ni	894
 逆	ni	981
-腻	ni	1055
+腻	ni	1500207
 妮	ni	1163
 妳	ni	1751
 泥	ni	1944
@@ -13851,7 +13853,7 @@ sort: by_weight
 紫	zi	3099
 自	zi	14405
 字	zi	974889
-子	zi	19769
+子	zi	974919
 黀	zou	0
 齱	zou	0
 鯫	zou	0
@@ -19423,7 +19425,7 @@ sort: by_weight
 喷绘	pen hui	155
 盆景	pen jing	187
 喷泉	pen quan	277
-喷漆	pen qi	206
+喷漆	pen qi	58915
 盆腔	pen qiang	177
 喷血	pen xue	127
 喷出	pen chu	435
@@ -19542,7 +19544,7 @@ sort: by_weight
 皮特	pi te	254
 劈腿	pi tui	118
 疲劳	pi lao	1757
-霹雳	pi li	397
+霹雳	pi li	58916
 批量	pi liang	1260
 毗邻	pi lin	298
 披露	pi lu	2043
@@ -33304,7 +33306,7 @@ sort: by_weight
 家驹	jia ju	146
 加剧	jia ju	1181
 家居	jia ju	1579
-家具	jia ju	2963
+家具	jia ju	558465
 加权	jia quan	206
 甲醛	jia quan	493
 架起	jia qi	216
@@ -34895,7 +34897,7 @@ sort: by_weight
 旧时	jiu shi	223
 九十	jiu shi	293
 救市	jiu shi	562
-就是	jiu shi	558446
+就是	jiu shi	558466
 就收	jiu shou	179
 旧书	jiu shu	191
 救赎	jiu shu	386
@@ -45589,7 +45591,7 @@ sort: by_weight
 最坏	zui huai	373
 最好	zui hao	22844
 最恨	zui hen	150
-最后	zui hou	38461
+最后	zui hou	974920
 最红	zui hong	140
 最火	zui huo	127
 最忌	zui ji	180
@@ -48081,7 +48083,7 @@ sort: by_weight
 移到	yi dao	56106
 一刀	yi dao	811
 一到	yi dao	1003
-一道	yi dao	3572
+一道	yi dao	613952
 医德	yi de	121
 一等	yi deng	347
 一地	yi di	391
