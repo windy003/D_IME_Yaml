@@ -15,6 +15,9 @@ sort: by_weight
 
 
 
+
+
+学习型	xue xi xin	8
 腰果	yao guo	1
 单线程	dan xian cheng	1
 老婆孩子	lao po hai zi	1
@@ -83,7 +86,7 @@ sort: by_weight
 老抽	lao cou	20
 生抽	sheng cou	20
 里的	li de	10
-占比	zhan bi	974876
+占比	zhan bi	974923
 松永纱奈	song yong sa nai	20
 上一行	shang yi hang	20
 倍思	bei si	20
@@ -171,7 +174,7 @@ sort: by_weight
 是一个	shi yi ge	205
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	539
-在不	zai bu	974875
+在不	zai bu	974924
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	100
 父神	fu sheng	69535
@@ -1499,7 +1502,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	12498
 嘛	ma	70738
-吗	ma	325599
+吗	ma	325601
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -10736,7 +10739,7 @@ sort: by_weight
 醒	xing	3506
 姓	xing	3576
 星	xing	246374
-型	xing	14298
+型	xing	246442
 性	xing	24434
 行	xing	35822
 哅	xiong	1
@@ -13632,7 +13635,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	974838
-在	zai	974873
+在	zai	974921
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -13663,7 +13666,7 @@ sort: by_weight
 攒	zan	900
 暂	zan	1055
 赞	zan	3402
-咱	zan	5532
+咱	zan	974922
 弉	zang	1
 贓	zang	2
 賍	zang	2
@@ -20590,7 +20593,7 @@ sort: by_weight
 迷雾	mi wu	296
 米尔	mi er	168
 面板	mian ban	19992
-面包	mian bao	2289
+面包	mian bao	325600
 棉被	mian bei	219
 面壁	mian bi	171
 棉布	mian bu	173
@@ -26899,7 +26902,7 @@ sort: by_weight
 篮子	lan zi	290
 懒散	lan san	336
 蓝色	lan se	4387
-蓝牙	lan ya	17433
+蓝牙	lan ya	1500208
 滥用	lan yong	694
 篮网	lan wang	114
 栏位	lan wei	108
@@ -32143,7 +32146,7 @@ sort: by_weight
 弘扬	hong yang	730
 红叶	hong ye	430
 红衣	hong yi	280
-红外	hong wai	670
+红外	hong wai	664915
 宏伟	hong wei	614
 洪武	hong wu	125
 湖北	hu bei	2883
@@ -36532,7 +36535,7 @@ sort: by_weight
 学区	xue qu	123
 雪雪	xue xue	151
 学学	xue xue	901
-学习	xue xi	31468
+学习	xue xi	246444
 学校	xue xiao	36498
 血性	xue xing	294
 血型	xue xing	418
@@ -37519,7 +37522,7 @@ sort: by_weight
 小丫	xiao ya	223
 笑颜	xiao yan	123
 笑言	xiao yan	151
-小燕	xiao yan	199
+小燕	xiao yan	246440
 硝烟	xiao yan	262
 消炎	xiao yan	344
 小羊	xiao yang	205
@@ -38005,7 +38008,7 @@ sort: by_weight
 心怀	xin huai	264
 信函	xin han	225
 心寒	xin han	264
-信号	xin hao	6112
+信号	xin hao	246443
 新货	xin huo	195
 新军	xin jun	117
 心悸	xin ji	155
@@ -42550,7 +42553,7 @@ sort: by_weight
 审批	shen pi	3825
 神码	shen ma	206
 深埋	shen mai	146
-什么	shen me	1181064
+什么	shen me	1181107
 审美	shen mei	1349
 神秘	shen mi	3854
 神庙	shen miao	464
@@ -46890,7 +46893,7 @@ sort: by_weight
 索尔	suo er	124
 岁半	sui ban	110
 随笔	sui bi	856
-随便	sui bian	21870
+随便	sui bian	1181106
 虽不	sui bu	404
 碎片	sui pian	1194
 岁末	sui mo	239
@@ -47071,7 +47074,7 @@ sort: by_weight
 远在	yuan zai	441
 援藏	yuan zang	115
 原则	yuan ze	9129
-园子	yuan zi	269
+园子	yuan zi	613954
 院子	yuan zi	599
 源自	yuan zi	650
 原子	yuan zi	681
@@ -48771,7 +48774,7 @@ sort: by_weight
 引自	yin zi	124
 引子	yin zi	129
 引资	yin zi	221
-因子	yin zi	613918
+因子	yin zi	613955
 银子	yin zi	1206
 银座	yin zuo	202
 隐藏	yin cang	3662
@@ -57873,7 +57876,7 @@ sort: by_weight
 妖魔化	yao mo hua	132
 要多久	yao duo jiu	117
 摇滚乐	yao gun yue	276
-遥控器	yao kong qi	660
+遥控器	yao kong qi	613956
 药监局	yao jian ju	198
 邀请函	yao qing han	397
 邀请赛	yao qing sai	165
