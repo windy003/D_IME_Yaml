@@ -15,7 +15,10 @@ sort: by_weight
 
 
 
-常说的	chang suo de	1
+
+
+桌面环境	zuo mian huan jin	1
+常说的	chang suo de	210
 手机号	sou ji hao	1
 最重要的	zui zong yao de	1
 最重要	zui zong yao	1
@@ -112,7 +115,7 @@ sort: by_weight
 机器码	ji qi ma	346
 不需要	bu xu yao	200
 在这里	zai zhe li	840
-这段文字中的	zhe duan wen zhi zong de	202
+这段文字中的	zhe duan wen zhi zong de	203
 开恩	kai en	304453
 单个	dan ge	100
 我可以	wo ke yi	200
@@ -143,7 +146,7 @@ sort: by_weight
 无衬线	wu cheng xian	200
 什么区别	sheng mo qu bie	1181105
 是怎么回事	shi zheng mo hui shi	202
-怎么理解	zheng mo li jie	202
+怎么理解	zheng mo li jie	203
 脑梗	nao geng	20
 看顾	kan gu	304454
 也就是	ye jiu si	4059
@@ -218,7 +221,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	613920
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181081
+上面说的	shang mian shuo de	1181083
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -230,7 +233,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	153
-是什么意思	shi sheng mo yi si	1181069
+是什么意思	shi sheng mo yi si	1181070
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -4817,7 +4820,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	6513
-了	le	1500204
+了	le	1500211
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -13183,7 +13186,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1180981
 时	shi	1181112
-是	shi	1181090
+是	shi	1181113
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -16411,7 +16414,7 @@ sort: by_weight
 屿	yu	154
 瘀	yu	169
 昱	yu	175
-榆	yu	186
+榆	yu	202254
 馀	yu	209
 峪	yu	224
 煜	yu	241
@@ -16442,7 +16445,7 @@ sort: by_weight
 浴	yu	1203
 预	yu	1313
 愈	yu	1399
-域	yu	1643
+域	yu	202255
 羽	yu	1682
 遇	yu	1894
 宇	yu	2482
@@ -18060,7 +18063,7 @@ sort: by_weight
 倍的	bei de	303
 北电	bei dian	182
 北斗	bei dou	256
-被动	bei dong	1918
+被动	bei dong	19076
 背对	bei dui	182
 被他	bei ta	1000
 被套	bei tao	534
@@ -20931,7 +20934,7 @@ sort: by_weight
 魔神	mo shen	184
 陌生	mo sheng	3302
 漠视	mo shi	324
-模式	mo shi	20400
+模式	mo shi	20401
 没收	mo shou	787
 魔兽	mo shou	3768
 莫属	mo shu	212
@@ -30733,7 +30736,7 @@ sort: by_weight
 酷暑	ku shu	186
 酷热	ku re	135
 酷睿	ku rui	559
-枯燥	ku zao	641
+枯燥	ku zao	22396
 裤子	ku zi	2883
 库存	ku cun	2930
 苦涩	ku se	477
@@ -34914,7 +34917,7 @@ sort: by_weight
 旧时	jiu shi	223
 九十	jiu shi	293
 救市	jiu shi	562
-就是	jiu shi	558466
+就是	jiu shi	558469
 就收	jiu shou	179
 旧书	jiu shu	191
 救赎	jiu shu	386
@@ -37907,8 +37910,8 @@ sort: by_weight
 写书	xie shu	209
 卸任	xie ren	178
 写入	xie ru	5437
-写在	xie zai	878
-卸载	xie zai	1693
+写在	xie zai	246441
+卸载	xie zai	246440
 蝎子	xie zi	546
 写字	xie zi	745
 鞋子	xie zi	2705
@@ -39093,7 +39096,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974948
+这个	zhe ge	974951
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40138,7 +40141,7 @@ sort: by_weight
 重工	zhong gong	243
 中共	zhong gong	3310
 中古	zhong gu	144
-中国	zhong guo	974949
+中国	zhong guo	974950
 终归	zhong gui	287
 肿块	zhong kuai	230
 重卡	zhong ka	119
@@ -40326,7 +40329,7 @@ sort: by_weight
 朱棣	zhu di	114
 驻地	zhu di	356
 注定	zhu ding	2258
-主动	zhu dong	8387
+主动	zhu dong	974947
 诸多	zhu duo	2580
 主队	zhu dui	322
 竹炭	zhu tan	123
@@ -40439,7 +40442,7 @@ sort: by_weight
 诸神	zhu shen	116
 主食	zhu shi	298
 注视	zhu shi	872
-注释	zhu shi	58104
+注释	zhu shi	58110
 驻守	zhu shou	155
 助手	zhu shou	1155
 著述	zhu shu	126
@@ -43736,7 +43739,7 @@ sort: by_weight
 薯片	shu pian	207
 述评	shu ping	122
 书评	shu ping	286
-数码	shu ma	3323
+数码	shu ma	1181109
 书面	shu mian	1721
 树苗	shu miao	114
 数名	shu ming	168
@@ -46188,7 +46191,7 @@ sort: by_weight
 错在	cuo zai	153
 错字	cuo zi	244
 措辞	cuo ci	213
-错位	cuo wei	406
+错位	cuo wei	126912
 错误	cuo wu	126911
 催眠	cui mian	453
 翠绿	cui lv	181
@@ -49418,7 +49421,7 @@ sort: by_weight
 于民	yu min	186
 渔民	yu min	483
 余名	yu ming	384
-域名	yu ming	14743
+域名	yu ming	14745
 预谋	yu mou	228
 愈发	yu fa	314
 语法	yu fa	1456
@@ -56861,7 +56864,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	42131
+是不是	shi bu shi	42133
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
