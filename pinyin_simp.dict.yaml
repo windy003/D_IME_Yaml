@@ -14,10 +14,14 @@ sort: by_weight
 ...
 
 
+
+
+
+发货吗	fa huo ma	1
 怎么操作	zheng mo cao zuo	1
 众合	zong he	1
 闲鱼	xian yu	246446
-能发吗	neng fa ma	3
+能发吗	neng fa ma	1500214
 翻墙	fan qiang	1
 更楼	gen lou	1
 咱的家	zhan de jia	1
@@ -178,7 +182,7 @@ sort: by_weight
 是一个	shi yi ge	205
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	539
-在不	zai bu	974929
+在不	zai bu	974935
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	100
 父神	fu sheng	69535
@@ -1506,7 +1510,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	12498
 嘛	ma	70738
-吗	ma	325605
+吗	ma	325609
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -1766,7 +1770,7 @@ sort: by_weight
 煤	mei	1609
 妹	mei	295036
 梅	mei	3492
-美	mei	295037
+美	mei	325608
 每	mei	295041
 没	mei	295040
 鸍	mi	0
@@ -2134,7 +2138,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69518
+发	fa	69550
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -4224,11 +4228,11 @@ sort: by_weight
 讷	ne	144
 呐	ne	188
 哪	ne	284
-呢	ne	1500205
+呢	ne	1500210
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	250294
+能	neng	1500216
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -4290,14 +4294,14 @@ sort: by_weight
 昵	ni	164
 倪	ni	894
 逆	ni	981
-腻	ni	1500207
+腻	ni	1500211
 妮	ni	1163
 妳	ni	1751
 泥	ni	1944
 呢	ni	2485
 尼	ni	2504
 拟	ni	2833
-你	ni	1500195
+你	ni	1500212
 躎	nian	0
 秊	nian	0
 簐	nian	0
@@ -6539,7 +6543,7 @@ sort: by_weight
 侃	kan	543
 坎	kan	660
 砍	kan	2746
-看	kan	245039
+看	kan	304450
 閌	kang	0
 匟	kang	0
 嫝	kang	0
@@ -7454,7 +7458,7 @@ sort: by_weight
 弖	hu	119
 寣	hu	120
 唬	hu	124
-弧	hu	237
+弧	hu	664918
 狐	hu	617
 壶	hu	731
 糊	hu	732
@@ -15437,7 +15441,7 @@ sort: by_weight
 腰	yao	2606
 咬	yao	3558
 药	yao	613931
-要	yao	613962
+要	yao	613966
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -16128,7 +16132,7 @@ sort: by_weight
 油	you	5961
 由	you	613911
 又	you	613915
-有	you	613960
+有	you	613964
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -18072,7 +18076,7 @@ sort: by_weight
 北路	bei lu	610
 被关	bei guan	208
 悲观	bei guan	868
-背光	bei guang	590677
+背光	bei guang	590679
 倍感	bei gan	546
 被告	bei gao	1788
 北国	bei guo	162
@@ -20356,7 +20360,7 @@ sort: by_weight
 美的	mei de	958
 没得	mei de	2742
 没底	mei di	177
-美的	mei di	325604
+美的	mei di	325606
 没点	mei dian	125
 煤电	mei dian	301
 没电	mei dian	616
@@ -21131,7 +21135,7 @@ sort: by_weight
 发黑	fa hei	182
 发红	fa hong	221
 发火	fa huo	533
-发货	fa huo	69547
+发货	fa huo	69551
 发回	fa hui	213
 发挥	fa hui	8783
 发掘	fa jue	1260
@@ -25888,7 +25892,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	1500208
+哪里	na li	1500213
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -30634,7 +30638,7 @@ sort: by_weight
 空地	kong di	373
 空洞	kong dong	554
 空谈	kong tan	144
-空调	kong tiao	5539
+空调	kong tiao	304449
 空投	kong tou	113
 空头	kong tou	395
 空难	kong nan	139
@@ -34351,7 +34355,7 @@ sort: by_weight
 进度	jin du	558449
 金泰	jin tai	155
 金坛	jin tan	125
-今天	jin tian	109961
+今天	jin tian	558469
 金条	jin tiao	210
 紧贴	jin tie	274
 津贴	jin tie	513
@@ -38012,7 +38016,7 @@ sort: by_weight
 心怀	xin huai	264
 信函	xin han	225
 心寒	xin han	264
-信号	xin hao	246443
+信号	xin hao	246448
 新货	xin huo	195
 新军	xin jun	117
 心悸	xin ji	155
@@ -38179,7 +38183,7 @@ sort: by_weight
 兴华	xing hua	228
 星海	xing hai	174
 幸好	xing hao	1766
-型号	xing hao	4932
+型号	xing hao	246449
 星河	xing he	158
 星火	xing huo	181
 行贿	xing hui	364
@@ -48999,7 +49003,7 @@ sort: by_weight
 有份	you fen	208
 有风	you feng	146
 油费	you fei	109
-邮费	you fei	1229
+邮费	you fei	613965
 有否	you fou	188
 有福	you fu	191
 又打	you da	150
@@ -50992,7 +50996,7 @@ sort: by_weight
 岸边	an bian	466
 安排	an pai	17388
 俺们	an men	1368
-按摩	an mo	2848
+按摩	an mo	83812
 暗牧	an mu	387
 案发	an fa	354
 暗访	an fang	220
@@ -54299,7 +54303,7 @@ sort: by_weight
 可以拿	ke yi na	218
 可以换	ke yi huan	178
 可以吃	ke yi chi	305
-可以用	ke yi yong	3459
+可以用	ke yi yong	304451
 可用性	ke yong xing	309
 可用于	ke yong yu	484
 科威特	ke wei te	225
@@ -57274,7 +57278,7 @@ sort: by_weight
 责任书	ze ren shu	146
 责任人	ze ren ren	665
 怎么把	zen me ba	195
-怎么办	zen me ban	974825
+怎么办	zen me ban	974934
 怎么打	zen me da	175
 怎么弄	zen me nong	974869
 怎么啦	zen me la	860
@@ -65367,5 +65371,5 @@ sort: by_weight
 宫保拼音	gong bao pin yin	100
 谢谢你	xie xie ni	100
 这样子	zhe yang zi	100
-能不能	neng bu neng	119
+能不能	neng bu neng	1500215
 热重载	re zhong zai	100
