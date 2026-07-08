@@ -15,6 +15,8 @@ sort: by_weight
 
 
 
+
+闲鱼	xian yu	1
 能发吗	neng fa ma	3
 翻墙	fan qiang	1
 更楼	gen lou	1
@@ -929,7 +931,7 @@ sort: by_weight
 布	bu	4781
 补	bu	7071
 部	bu	13825
-不	bu	590664
+不	bu	590676
 汃	pa	0
 跁	pa	1
 舥	pa	1
@@ -1504,7 +1506,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	12498
 嘛	ma	70738
-吗	ma	325601
+吗	ma	325603
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -1524,7 +1526,7 @@ sort: by_weight
 埋	mai	2001
 麦	mai	2513
 卖	mai	35689
-买	mai	100275
+买	mai	325602
 鞔	man	0
 鬗	man	0
 饅	man	0
@@ -4128,7 +4130,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	38603
-那	na	1500200
+那	na	1500209
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -14844,7 +14846,7 @@ sort: by_weight
 源	yuan	613919
 原	yuan	11213
 远	yuan	12498
-元	yuan	613934
+元	yuan	613957
 龥	yue	0
 髺	yue	0
 抈	yue	0
@@ -16843,7 +16845,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1192848
+我	wo	1192851
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -18904,7 +18906,7 @@ sort: by_weight
 部落	bu luo	2241
 不惯	bu guan	125
 不关	bu guan	458
-不管	bu guan	103578
+不管	bu guan	590675
 不光	bu guang	1093
 不怪	bu guai	259
 不乖	bu guai	12358
@@ -21120,7 +21122,7 @@ sort: by_weight
 发过	fa guo	835
 法国	fa guo	7395
 法规	fa gui	2442
-罚款	fa kuan	1710
+罚款	fa kuan	69548
 发狂	fa kuang	174
 发卡	fa ka	240
 发刊	fa kan	149
@@ -21129,7 +21131,7 @@ sort: by_weight
 发黑	fa hei	182
 发红	fa hong	221
 发火	fa huo	533
-发货	fa huo	3585
+发货	fa huo	69547
 发回	fa hui	213
 发挥	fa hui	8783
 发掘	fa jue	1260
@@ -25886,7 +25888,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	1500205
+哪里	na li	1500208
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -30538,7 +30540,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304446
+可以	ke yi	304447
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -34264,7 +34266,7 @@ sort: by_weight
 解释	jie shi	12266
 接手	jie shou	712
 接收	jie shou	4526
-接受	jie shou	558447
+接受	jie shou	558467
 借书	jie shu	176
 结束	jie shu	15836
 解说	jie shuo	1059
@@ -37179,7 +37181,7 @@ sort: by_weight
 现有	xian you	5678
 先用	xian yong	694
 先于	xian yu	153
-咸鱼	xian yu	167
+咸鱼	xian yu	246445
 县域	xian yu	171
 陷于	xian yu	243
 限于	xian yu	511
@@ -51026,7 +51028,7 @@ sort: by_weight
 安好	an hao	136
 暗号	an hao	190
 暗黑	an hei	530
-安徽	an hui	2777
+安徽	an hui	83811
 案卷	an juan	161
 氨基	an ji	174
 安吉	an ji	225
@@ -58441,7 +58443,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192850
+为什么	wei shen me	1192854
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
@@ -58470,7 +58472,7 @@ sort: by_weight
 我不要	wo bu yao	433
 我们俩	wo men lia	561
 沃达丰	wo da feng	122
-我的梦	wo de meng	112
+我的梦	wo de meng	1192853
 我的脸	wo de lian	359
 我的家	wo de jia	191
 我的心	wo de xin	1727
