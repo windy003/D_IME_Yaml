@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-快速拨号	kuai shu bo hao	1
+操作吧	cao zuo ba	1
+快速拨号	kuai shu bo hao	3
 烤肠	kao chang	1
 响应式	xiang yin shi	1
 这里说的	zhe li suo de	2
@@ -197,7 +197,7 @@ sort: by_weight
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	100
 父神	fu sheng	69553
-刷新	sua xin	1181089
+刷新	sua xin	1181115
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
 上面的	shang mian de	1181076
@@ -13191,8 +13191,8 @@ sort: by_weight
 市	shi	18050
 使	shi	34422
 事	shi	1180981
-时	shi	1181112
-是	shi	1181113
+时	shi	1181118
+是	shi	1181117
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -17886,7 +17886,7 @@ sort: by_weight
 包子	bao zi	1894
 暴走	bao zou	223
 宝座	bao zuo	385
-保存	bao cun	46781
+保存	bao cun	46784
 报错	bao cuo	46776
 保送	bao song	221
 报送	bao song	771
@@ -18921,7 +18921,7 @@ sort: by_weight
 部落	bu luo	2241
 不惯	bu guan	125
 不关	bu guan	458
-不管	bu guan	590675
+不管	bu guan	590680
 不光	bu guang	1093
 不怪	bu guai	259
 不乖	bu guai	12358
@@ -19110,7 +19110,7 @@ sort: by_weight
 不吃	bu chi	2186
 不愁	bu chou	373
 补充	bu chong	6250
-不出	bu chu	4387
+不出	bu chu	46783
 不爽	bu shuang	3064
 不顺	bu shun	458
 不衰	bu shuai	141
@@ -19829,7 +19829,7 @@ sort: by_weight
 评审	ping shen	1949
 平生	ping sheng	450
 平实	ping shi	190
-平时	ping shi	10562
+平时	ping shi	10564
 平手	ping shou	132
 评书	ping shu	201
 评述	ping shu	282
@@ -22478,7 +22478,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	16894
+打开	da kai	16896
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -23598,7 +23598,7 @@ sort: by_weight
 电极	dian ji	413
 惦记	dian ji	607
 电机	dian ji	1202
-点击	dian ji	4828323
+点击	dian ji	4828324
 店家	dian jia	317
 电价	dian jia	409
 电教	dian jiao	110
@@ -24091,7 +24091,7 @@ sort: by_weight
 肚脐	du qi	189
 赌气	du qi	256
 赌球	du qiu	205
-读取	du qu	1993
+读取	du qu	4828318
 独显	du xian	232
 独享	du xiang	320
 读写	du xie	673
@@ -25571,7 +25571,7 @@ sort: by_weight
 同屋	tong wu	135
 突变	tu bian	415
 图表	tu biao	1383
-图标	tu biao	32133
+图标	tu biao	32137
 土鳖	tu bie	161
 徒步	tu bu	582
 图片	tu pian	20221
@@ -31050,7 +31050,7 @@ sort: by_weight
 换水	huan shui	112
 环绕	huan rao	606
 换人	huan ren	463
-缓存	huan cun	1447
+缓存	huan cun	5255
 换算	huan suan	664901
 涣散	huan san	120
 欢送	huan song	132
@@ -31361,7 +31361,7 @@ sort: by_weight
 海参	hai shen	234
 还剩	hai sheng	525
 海事	hai shi	364
-还是	hai shi	664913
+还是	hai shi	664916
 还说	hai shuo	2926
 海水	hai shui	1027
 还让	hai rang	244
@@ -31847,7 +31847,7 @@ sort: by_weight
 很不	hen bu	2570
 很怕	hen pa	290
 很胖	hen pang	109
-很慢	hen man	1309
+很慢	hen man	15625
 很忙	hen mang	2059
 很闷	hen men	110
 很美	hen mei	847
@@ -31874,7 +31874,7 @@ sort: by_weight
 很高	hen gao	4734
 很贵	hen gui	1040
 很困	hen kun	119
-很快	hen kuai	10721
+很快	hen kuai	10722
 很苦	hen ku	173
 很酷	hen ku	280
 很坏	hen huai	188
@@ -32347,7 +32347,7 @@ sort: by_weight
 火气	huo qi	383
 火枪	huo qiang	207
 火球	huo qiu	277
-获取	huo qu	5063
+获取	huo qu	23045
 活血	huo xue	327
 获悉	huo xi	1838
 火线	huo xian	179
@@ -33410,7 +33410,7 @@ sort: by_weight
 夹杂	jia za	494
 加在	jia zai	226
 夹在	jia zai	301
-加载	jia zai	26015
+加载	jia zai	26019
 甲子	jia zi	140
 夹子	jia zi	260
 架子	jia zi	822
@@ -37348,7 +37348,7 @@ sort: by_weight
 小姑	xiao gu	108
 小郭	xiao guo	211
 小国	xiao guo	250
-效果	xiao guo	25437
+效果	xiao guo	25439
 小鬼	xiao gui	687
 小块	xiao kuai	419
 小卡	xiao ka	135
@@ -39982,7 +39982,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	131102
+只有	zhi you	974943
 之用	zhi yong	469
 只用	zhi yong	131089
 之语	zhi yu	148
@@ -41730,7 +41730,7 @@ sort: by_weight
 出来	chu lai	59122
 出栏	chu lan	120
 出了	chu le	7498
-除了	chu le	24283
+除了	chu le	59123
 矗立	chu li	221
 出力	chu li	384
 处理	chu li	59121
@@ -41794,7 +41794,7 @@ sort: by_weight
 初夏	chu xia	189
 初现	chu xian	110
 出线	chu xian	639
-出现	chu xian	43318
+出现	chu xian	43321
 出血	chu xie	181
 出新	chu xin	249
 雏形	chu xing	292
@@ -43461,7 +43461,7 @@ sort: by_weight
 试用	shi yong	2491
 实用	shi yong	3532
 适用	shi yong	4459
-使用	shi yong	1181111
+使用	shi yong	1181112
 适于	shi yu	274
 始于	shi yu	448
 十余	shi yu	707
@@ -45211,7 +45211,7 @@ sort: by_weight
 自测	zi ce	110
 字词	zi ci	130
 自此	zi ci	275
-自从	zi cong	3161
+自从	zi cong	974951
 子孙	zi sun	603
 姿色	zi se	225
 紫色	zi se	58097
@@ -45822,7 +45822,7 @@ sort: by_weight
 猜猜	cai cai	471
 踩踩	cai cai	1066
 猜测	cai ce	1818
-才从	cai cong	159
+才从	cai cong	7597
 猜错	cai cuo	129
 才算	cai suan	619
 彩色	cai se	1875
@@ -45960,7 +45960,7 @@ sort: by_weight
 操守	cao shou	131
 嘈杂	cao za	315
 操纵	cao zong	1005
-操作	cao zuo	126928
+操作	cao zuo	126929
 草草	cao cao	419
 曹操	cao cao	1205
 草丛	cao cong	247
@@ -49154,7 +49154,7 @@ sort: by_weight
 由县	you xian	113
 有线	you xian	725
 悠闲	you xian	869
-优先	you xian	94341
+优先	you xian	94345
 有限	you xian	94340
 幼小	you xiao	285
 有效	you xiao	94343
@@ -49210,7 +49210,7 @@ sort: by_weight
 由市	you shi	359
 有事	you shi	5282
 又是	you shi	8429
-有时	you shi	613938
+有时	you shi	613950
 优势	you shi	12544
 右手	you shou	1738
 有数	you shu	340
@@ -49350,7 +49350,7 @@ sort: by_weight
 永和	yong he	127
 永恒	yong heng	1806
 拥护	yong hu	582
-用户	yong hu	58106
+用户	yong hu	58108
 拥挤	yong ji	934
 用脚	yong jiao	197
 涌进	yong jin	115
@@ -49927,7 +49927,7 @@ sort: by_weight
 亡灵	wang ling	631
 网路	wang lu	633
 网罗	wang luo	126
-网络	wang luo	43081
+网络	wang luo	43082
 王冠	wang guan	124
 网关	wang guan	1160
 网管	wang guan	1563
@@ -50065,7 +50065,7 @@ sort: by_weight
 稳态	wen tai	107
 文坛	wen tan	322
 文体	wen ti	448
-问题	wen ti	137272
+问题	wen ti	137273
 稳妥	wen tuo	449
 温暖	wen nuan	4169
 吻你	wen ni	254
@@ -56870,7 +56870,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	42133
+是不是	shi bu shi	42134
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
@@ -58185,7 +58185,7 @@ sort: by_weight
 由不得	you bu de	107
 又不能	you bu neng	517
 又不是	you bu shi	2692
-有没有	you mei you	20142
+有没有	you mei you	20143
 幽默感	you mo gan	223
 有的是	you de shi	801
 有的人	you de ren	1356
@@ -58253,7 +58253,7 @@ sort: by_weight
 有冲突	you chong tu	122
 又出现	you chu xian	381
 右上角	you shang jiao	413
-有时候	you shi hou	8010
+有时候	you shi hou	8011
 有人用	you ren yong	168
 又如何	you ru he	537
 油菜花	you cai hua	166
@@ -58457,7 +58457,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192854
+为什么	wei shen me	1192856
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
