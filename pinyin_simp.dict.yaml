@@ -15,7 +15,7 @@ sort: by_weight
 
 
 
-
+迟晓宇	ci xiao yu	1
 主耶稣	zhu ye shu	1
 豐崎美里	feng qi mei li	1
 叶志远	ye zi yuan	1
@@ -333,7 +333,7 @@ sort: by_weight
 爸	ba	3625
 八	ba	6677
 把	ba	590688
-吧	ba	590693
+吧	ba	590706
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -471,7 +471,7 @@ sort: by_weight
 暴	bao	1813
 爆	bao	4354
 保	bao	4532
-抱	bao	4769
+抱	bao	590705
 宝	bao	5580
 报	bao	590662
 包	bao	590663
@@ -10597,7 +10597,7 @@ sort: by_weight
 象	xiang	13251
 像	xiang	141798
 向	xiang	141795
-想	xiang	141799
+想	xiang	246471
 齂	xie	0
 齘	xie	0
 焎	xie	0
@@ -11427,7 +11427,7 @@ sort: by_weight
 阵	zhen	1729
 针	zhen	2103
 镇	zhen	9073
-真	zhen	65153
+真	zhen	975004
 掟	zheng	0
 塣	zheng	0
 埩	zheng	0
@@ -17028,7 +17028,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	15389
-啊	a	83817
+啊	a	83819
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -26992,7 +26992,7 @@ sort: by_weight
 老潘	lao pan	130
 老婆	lao po	1500232
 老马	lao ma	588
-老妈	lao ma	1500213
+老妈	lao ma	1500233
 老毛	lao mao	257
 老猫	lao mao	279
 老妹	lao mei	143
@@ -30479,8 +30479,8 @@ sort: by_weight
 克莱	ke lai	124
 可乐	ke le	1476
 克里	ke li	258
-颗粒	ke li	1287
-可怜	ke lian	8450
+颗粒	ke li	304463
+可怜	ke lian	304462
 客流	ke liu	438
 科隆	ke long	137
 科龙	ke long	321
@@ -37623,7 +37623,7 @@ sort: by_weight
 小儿	xiao er	912
 想把	xiang ba	1226
 相伴	xiang ban	660
-箱包	xiang bao	138
+箱包	xiang bao	246470
 相悖	xiang bei	116
 向北	xiang bei	327
 想必	xiang bi	894
@@ -44183,7 +44183,7 @@ sort: by_weight
 然而	ran er	5807
 让步	rang bu	499
 让它	rang ta	1519
-让她	rang ta	4263
+让她	rang ta	1500230
 让他	rang ta	7965
 让你	rang ni	11172
 让您	rang nin	1166
@@ -44651,7 +44651,7 @@ sort: by_weight
 如斯	ru si	129
 入园	ru yuan	149
 入院	ru yuan	285
-如愿	ru yuan	404
+如愿	ru yuan	1500231
 如约	ru yue	114
 如月	ru yue	131
 如云	ru yun	224
@@ -46288,7 +46288,7 @@ sort: by_weight
 孙祥	sun xiang	180
 损伤	sun shang	1641
 损失	sun shi	6854
-孙子	sun zi	1385
+孙子	sun zi	1181181
 孙悦	sun yue	326
 损益	sun yi	260
 萨满	sa man	759
