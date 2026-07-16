@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-竹之歌	zhu zhi ge	1
+原子性	yuan zhi xin	1
+竹之歌	zhu zhi ge	308
 三折叠	san ze die	1
 陪我一个晚上	pei wo yi ge wan shang	1
 陪我一个晚上好吗	pei wo yi ge wan shang hao ma	1
@@ -46,7 +46,7 @@ sort: by_weight
 病残津贴	bin can jin tie	1
 生个孩子	sheng ge hai zi	1181122
 新台币	xin tai bi	1
-中岛美雪	zong dao mei xue	1
+中岛美雪	zong dao mei xue	3
 发红包	fa hong bao	1
 华隆南城公寓	hua rong nan cheng gong yu	1
 操作吧	cao zuo ba	1
@@ -258,7 +258,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	613920
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181084
+上面说的	shang mian shuo de	1181085
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -283,10 +283,10 @@ sort: by_weight
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
 一定	yi din	613988
-这样子	zhe yang zhi	2245
+这样子	zhe yang zhi	974973
 是什么	shi sheng mo	1181146
 简拼	jian pin	4632
-安卓	an zhuo	83809
+安卓	an zhuo	83811
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -6100,7 +6100,7 @@ sort: by_weight
 割	ge	245965
 隔	ge	1866
 哥	ge	9418
-歌	ge	245963
+歌	ge	245990
 格	ge	245960
 各	ge	245962
 个	ge	245989
@@ -11924,7 +11924,7 @@ sort: by_weight
 助	zhu	1559
 珠	zhu	1777
 驻	zhu	2132
-竹	zhu	2261
+竹	zhu	974976
 注	zhu	2808
 煮	zhu	2836
 著	zhu	3225
@@ -19556,7 +19556,7 @@ sort: by_weight
 陪着	pei zhe	931
 培植	pei zhi	222
 配制	pei zhi	375
-配置	pei zhi	13813
+配置	pei zhi	13814
 配种	pei zhong	123
 赔偿	pei chang	2708
 陪衬	pei chen	143
@@ -20551,7 +20551,7 @@ sort: by_weight
 每一	mei yi	325594
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	325598
+没有	mei you	325599
 没用	mei yong	325581
 美玉	mei yu	113
 美语	mei yu	128
@@ -21194,7 +21194,7 @@ sort: by_weight
 法学	fa xue	675
 法系	fa xi	234
 罚下	fa xia	148
-发现	fa xian	50614
+发现	fa xian	50617
 发笑	fa xiao	174
 发些	fa xie	119
 发泄	fa xie	1674
@@ -21683,7 +21683,7 @@ sort: by_weight
 分校	fen xiao	472
 分销	fen xiao	594
 分项	fen xiang	146
-分享	fen xiang	50615
+分享	fen xiang	50616
 分心	fen xin	236
 分形	fen xing	105
 分站	fen zhan	218
@@ -28738,7 +28738,7 @@ sort: by_weight
 概要	gai yao	347
 该有	gai you	226
 改用	gai yong	499
-改完	gai wan	33672
+改完	gai wan	33675
 该文	gai wen	206
 改为	gai wei	33674
 该案	gai an	321
@@ -29268,7 +29268,7 @@ sort: by_weight
 更小	geng xiao	301
 更象	geng xiang	123
 更像	geng xiang	722
-更新	geng xin	16196
+更新	geng xin	245970
 更正	geng zheng	636
 耿直	geng zhi	139
 耕种	geng zhong	161
@@ -30586,7 +30586,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304460
+可以	ke yi	304461
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -37631,7 +37631,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246392
+项目	xiang mu	246393
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -39133,7 +39133,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974978
+这个	zhe ge	974979
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -43492,7 +43492,7 @@ sort: by_weight
 试用	shi yong	2491
 实用	shi yong	3532
 适用	shi yong	4459
-使用	shi yong	1181112
+使用	shi yong	1181113
 适于	shi yu	274
 始于	shi yu	448
 十余	shi yu	707
@@ -45126,7 +45126,7 @@ sort: by_weight
 子弟	zi di	503
 字典	zi dian	982
 自定	zi ding	163
-自动	zi dong	974861
+自动	zi dong	974989
 姿态	zi tai	1619
 自提	zi ti	116
 自体	zi ti	138
@@ -46578,7 +46578,7 @@ sort: by_weight
 四年	si nian	2548
 斯诺	si nuo	119
 四轮	si lun	151
-死了	si le	6219
+死了	si le	11201
 四类	si lei	201
 死里	si li	121
 私立	si li	226
@@ -50132,7 +50132,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	31906
+文件	wen jian	31908
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -57126,7 +57126,7 @@ sort: by_weight
 舒适性	shu shi xing	281
 数十亿	shu shi yi	115
 数十万	shu shi wan	256
-输入法	shu ru fa	2666
+输入法	shu ru fa	2667
 输入您	shu ru nin	191
 输入框	shu ru kuang	740
 数字化	shu zi hua	878
