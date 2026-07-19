@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-毫秒数	hao miao shu	1
+短时间	duan shi jian	1
+毫秒数	hao miao shu	222
 是怎么	shi zheng mo	1
 怎么样子	zheng mo yang zhi	1
 怎么样子的	zheng mo yang zhi de	1
@@ -292,7 +292,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	157
-是什么意思	shi sheng mo yi si	1181171
+是什么意思	shi sheng mo yi si	1181172
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -4296,7 +4296,7 @@ sort: by_weight
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	1500220
+能	neng	1500230
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -6975,7 +6975,7 @@ sort: by_weight
 浣	huan	188
 桓	huan	311
 焕	huan	491
-唤	huan	531
+唤	huan	664880
 缓	huan	921
 幻	huan	981
 欢	huan	1313
@@ -8590,7 +8590,7 @@ sort: by_weight
 街	jie	4420
 姐	jie	5089
 节	jie	17761
-解	jie	5545
+解	jie	558492
 借	jie	7169
 接	jie	558471
 榗	jin	0
@@ -8822,9 +8822,9 @@ sort: by_weight
 救	jiu	3373
 九	jiu	558434
 旧	jiu	5456
-久	jiu	558480
+久	jiu	558486
 酒	jiu	558433
-就	jiu	558485
+就	jiu	558487
 鵴	ju	0
 鋦	ju	0
 郹	ju	0
@@ -19476,7 +19476,7 @@ sort: by_weight
 抛下	pao xia	172
 咆哮	pao xiao	371
 跑鞋	pao xie	111
-跑着	pao zhe	181
+跑着	pao zhe	13816
 疱疹	pao zhen	175
 炮制	pao zhi	219
 泡茶	pao cha	193
@@ -22300,7 +22300,7 @@ sort: by_weight
 短处	duan chu	120
 端上	duan shang	139
 短视	duan shi	115
-短时	duan shi	133
+短时	duan shi	4828381
 断然	duan ran	236
 短暂	duan zan	1811
 锻造	duan zao	584
@@ -23651,7 +23651,7 @@ sort: by_weight
 电极	dian ji	413
 惦记	dian ji	607
 电机	dian ji	1202
-点击	dian ji	4828326
+点击	dian ji	4828327
 店家	dian jia	317
 电价	dian jia	409
 电教	dian jiao	110
@@ -25624,7 +25624,7 @@ sort: by_weight
 同屋	tong wu	135
 突变	tu bian	415
 图表	tu biao	1383
-图标	tu biao	343928
+图标	tu biao	343929
 土鳖	tu bie	161
 徒步	tu bu	582
 图片	tu pian	20221
@@ -29323,7 +29323,7 @@ sort: by_weight
 给它	gei ta	586
 给她	gei ta	3946
 给他	gei ta	7563
-给你	gei ni	245983
+给你	gei ni	245984
 给您	gei nin	1682
 给了	gei le	2746
 给个	gei ge	1306
@@ -30178,7 +30178,7 @@ sort: by_weight
 楷体	kai ti	107
 开题	kai ti	321
 开庭	kai ting	452
-开头	kai tou	5547
+开头	kai tou	304465
 开通	kai tong	4811
 开脱	kai tuo	153
 开拓	kai tuo	1589
@@ -39155,7 +39155,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974982
+这个	zhe ge	974984
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40158,7 +40158,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	974946
+中的	zhong de	975006
 中等	zhong deng	900
 中的	zhong di	974986
 种地	zhong di	287
@@ -41423,7 +41423,7 @@ sort: by_weight
 成行	cheng xing	206
 成形	cheng xing	472
 成型	cheng xing	700
-程序	cheng xu	43307
+程序	cheng xu	126937
 成长	cheng zhang	7053
 诚招	cheng zhao	182
 乘着	cheng zhe	193
@@ -41780,7 +41780,7 @@ sort: by_weight
 处男	chu nan	587
 初年	chu nian	138
 初来	chu lai	121
-出来	chu lai	59122
+出来	chu lai	59125
 出栏	chu lan	120
 出了	chu le	7498
 除了	chu le	59123
@@ -49263,7 +49263,7 @@ sort: by_weight
 由市	you shi	359
 有事	you shi	5282
 又是	you shi	8429
-有时	you shi	613967
+有时	you shi	613997
 优势	you shi	12544
 右手	you shou	1738
 有数	you shu	340
@@ -51086,7 +51086,7 @@ sort: by_weight
 安乐	an le	205
 按理	an li	142
 安利	an li	849
-案例	an li	2967
+案例	an li	2968
 暗恋	an lian	829
 暗流	an liu	114
 安陆	an lu	146
@@ -52416,7 +52416,7 @@ sort: by_weight
 短消息	duan xiao xi	784
 短信息	duan xin xi	197
 短时间	duan shi jian	374
-段时间	duan shi jian	799
+段时间	duan shi jian	4318
 端午节	duan wu jie	540
 大白天	da bai tian	158
 大白菜	da bai cai	248
@@ -57258,7 +57258,7 @@ sort: by_weight
 人死亡	ren si wang	368
 任意球	ren yi qiu	508
 人与人	ren yu ren	742
-任务栏	ren wu lan	292
+任务栏	ren wu lan	293
 任务书	ren wu shu	116
 日报社	ri bao she	174
 日本队	ri ben dui	240
