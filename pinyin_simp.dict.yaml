@@ -14,7 +14,7 @@ sort: by_weight
 ...
 
 
-
+相当于	xiang dang yu	1
 主机名	zhu ji min	1
 什么办法	sheng mo ban fa	1181161
 父元素	fu yuan shu	137
@@ -24,7 +24,7 @@ sort: by_weight
 酷睿	ku rui	1
 御三家	yu san jia	1
 陪我一晚	pei wo yi wan	1
-冒号	mao hao	1
+冒号	mao hao	325625
 制冷量	zhi leng liang	1
 迟晓宇	ci xiao yu	126944
 主耶稣	zhu ye shu	1
@@ -246,7 +246,7 @@ sort: by_weight
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
 上面的	shang mian de	1181137
-其中的	qi zong de	460
+其中的	qi zong de	461
 花括号	hua kuo hao	201
 可以了	ke yi le	203
 就好了	jiu hao le	200
@@ -283,8 +283,8 @@ sort: by_weight
 硬删除	yin san chua	207
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
-这里的	zhe li de	155
-是什么意思	shi sheng mo yi si	1181170
+这里的	zhe li de	157
+是什么意思	shi sheng mo yi si	1181171
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -6117,7 +6117,7 @@ sort: by_weight
 歌	ge	245990
 格	ge	245960
 各	ge	245962
-个	ge	245989
+个	ge	245991
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -16506,7 +16506,7 @@ sort: by_weight
 玉	yu	5643
 雨	yu	7744
 鱼	yu	613970
-于	yu	202253
+于	yu	613971
 与	yu	202252
 溛	wa	0
 膃	wa	1
@@ -18346,7 +18346,7 @@ sort: by_weight
 必然	bi ran	5714
 鄙人	bi ren	283
 逼人	bi ren	444
-比如	bi ru	40582
+比如	bi ru	40583
 鼻子	bi zi	2516
 鼻祖	bi zu	140
 比作	bi zuo	226
@@ -18871,7 +18871,7 @@ sort: by_weight
 不妨	bu fang	2367
 部份	bu fen	992
 不分	bu fen	1123
-部分	bu fen	35475
+部分	bu fen	590692
 布冯	bu feng	154
 不菲	bu fei	448
 不复	bu fu	188
@@ -20565,7 +20565,7 @@ sort: by_weight
 每一	mei yi	325594
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	325628
+没有	mei you	325629
 没用	mei yong	325581
 美玉	mei yu	113
 美语	mei yu	128
@@ -24242,7 +24242,7 @@ sort: by_weight
 堕落	duo luo	1494
 夺冠	duo guan	1292
 多高	duo gao	664
-多个	duo ge	17417
+多个	duo ge	17418
 多给	duo gei	208
 多国	duo guo	196
 躲过	duo guo	294
@@ -25156,7 +25156,7 @@ sort: by_weight
 调皮	tiao pi	677
 调频	tiao pin	141
 条码	tiao ma	482
-条目	tiao mu	156277
+条目	tiao mu	156278
 条幅	tiao fu	161
 调到	tiao dao	315
 跳到	tiao dao	538
@@ -25616,7 +25616,7 @@ sort: by_weight
 同屋	tong wu	135
 突变	tu bian	415
 图表	tu biao	1383
-图标	tu biao	32137
+图标	tu biao	343927
 土鳖	tu bie	161
 徒步	tu bu	582
 图片	tu pian	20221
@@ -28064,7 +28064,7 @@ sort: by_weight
 流动	liu dong	2501
 流淌	liu tang	670
 刘涛	liu tao	226
-流体	liu ti	317
+流体	liu ti	24163
 六天	liu tian	176
 六条	liu tiao	199
 流通	liu tong	2312
@@ -30572,7 +30572,7 @@ sort: by_weight
 可视	ke shi	466
 科室	ke shi	939
 可使	ke shi	1137
-可是	ke shi	304453
+可是	ke shi	304454
 恪守	ke shou	185
 棵树	ke shu	225
 可说	ke shuo	695
@@ -35631,7 +35631,7 @@ sort: by_weight
 钱买	qian mai	318
 前门	qian men	300
 千米	qian mi	194
-前面	qian mian	12786
+前面	qian mian	12787
 千名	qian ming	206
 签名	qian ming	5223
 签发	qian fa	435
@@ -37657,7 +37657,7 @@ sort: by_weight
 想打	xiang da	153
 相待	xiang dai	124
 想当	xiang dang	320
-相当	xiang dang	20731
+相当	xiang dang	20732
 向导	xiang dao	658
 想到	xiang dao	11845
 想得	xiang de	531
@@ -39140,7 +39140,7 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	974971
+这里	zhe li	974973
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
@@ -39753,7 +39753,7 @@ sort: by_weight
 纸盒	zhi he	191
 制衡	zhi heng	205
 滞后	zhi hou	899
-之后	zhi hou	38464
+之后	zhi hou	974921
 直呼	zhi hu	110
 支护	zhi hu	119
 之火	zhi huo	233
@@ -40027,7 +40027,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	974943
+只有	zhi you	974945
 之用	zhi yong	469
 只用	zhi yong	131089
 之语	zhi yu	148
@@ -48028,7 +48028,7 @@ sort: by_weight
 也应	ye ying	549
 夜游	ye you	136
 也由	ye you	171
-也有	ye you	19187
+也有	ye you	614001
 也用	ye yong	245
 夜雨	ye yu	208
 业余	ye yu	1209
@@ -48275,7 +48275,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	613990
+一个	yi ge	613991
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -49472,7 +49472,7 @@ sort: by_weight
 于民	yu min	186
 渔民	yu min	483
 余名	yu ming	384
-域名	yu ming	14745
+域名	yu ming	613996
 预谋	yu mou	228
 愈发	yu fa	314
 语法	yu fa	1456
@@ -49908,7 +49908,7 @@ sort: by_weight
 玩艺	wan yi	122
 万亿	wan yi	632
 玩意	wan yi	1797
-万一	wan yi	19521
+万一	wan yi	1192886
 万余	wan yu	544
 弯弯	wan wan	252
 玩完	wan wan	261
