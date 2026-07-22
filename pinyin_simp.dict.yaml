@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-讲道	jiang dao	1
+幺蛾子	yao er zi	1
+讲道	jiang dao	558500
 愿上帝赐福给你	yaun shang di ci fu gei ni	1
 什么错误	sheng mo cuo wu	1
 秋良	qiu liang	1
@@ -72,7 +72,7 @@ sort: by_weight
 今天有的	jin tian you de	558476
 协程	xie cheng	18300
 浮层	fu cheng	41086
-油管	you guan	613983
+油管	you guan	614015
 回家的路	hui jia de lu	1
 双引号	suang yin hao	1
 文字中的	wen zhi zhong de	2
@@ -225,7 +225,7 @@ sort: by_weight
 看顾	kan gu	304454
 也就是	ye jiu si	4059
 加进去	jia jin qu 20
-有哪些	you na xie	200
+有哪些	you na xie	614017
 写一个	xie yi ge	201
 没有了	mei you le	200
 软链接	ruan lian jie	200
@@ -323,7 +323,7 @@ sort: by_weight
 这样子	zhe yang zhi	974974
 是什么	shi sheng mo	1181187
 简拼	jian pin	4632
-安卓	an zhuo	83812
+安卓	an zhuo	83823
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -2951,7 +2951,7 @@ sort: by_weight
 德	de	7178
 地	de	4828315
 得	de	4828355
-的	de	4828388
+的	de	4828394
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5153,7 +5153,7 @@ sort: by_weight
 力	li	8983
 离	li	9937
 李	li	14513
-里	li	1500194
+里	li	1500239
 倆	lia	58
 俩	lia	5217
 嬚	lian	0
@@ -6459,7 +6459,7 @@ sort: by_weight
 寛	kuan	19
 髋	kuan	45
 宽	kuan	304470
-款	kuan	6685
+款	kuan	304471
 砿	kuang	0
 筺	kuang	0
 昿	kuang	0
@@ -7383,7 +7383,7 @@ sort: by_weight
 侯	hou	2784
 後	hou	2787
 厚	hou	3079
-后	hou	664955
+后	hou	664967
 宖	hong	0
 篊	hong	0
 焢	hong	0
@@ -13722,7 +13722,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	974838
-在	zai	974980
+在	zai	975020
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -13947,7 +13947,7 @@ sort: by_weight
 紫	zi	3099
 自	zi	974998
 字	zi	975005
-子	zi	975006
+子	zi	975022
 黀	zou	0
 齱	zou	0
 鯫	zou	0
@@ -14224,7 +14224,7 @@ sort: by_weight
 肏	cao	298
 槽	cao	997
 曹	cao	2791
-操	cao	7451
+操	cao	126955
 草	cao	9876
 蓛	ce	0
 萴	ce	1
@@ -15507,7 +15507,7 @@ sort: by_weight
 谣	yao	176
 爻	yao	198
 曜	yao	205
-幺	yao	491
+幺	yao	614018
 窑	yao	559
 瑶	yao	672
 遥	yao	721
@@ -23698,7 +23698,7 @@ sort: by_weight
 电池	dian chi	5429
 电扇	dian shan	230
 点上	dian shang	538
-电视	dian shi	11787
+电视	dian shi	4828393
 点数	dian shu	664
 点水	dian shui	125
 点燃	dian ran	1090
@@ -24320,10 +24320,10 @@ sort: by_weight
 多出	duo chu	13435
 多杀	duo sha	182
 躲闪	duo shan	219
-多少	duo shao	4828377
+多少	duo shao	4828396
 多食	duo shi	126
 多事	duo shi	213
-多时	duo shi	4828380
+多时	duo shi	4828395
 多是	duo shi	631
 舵手	duo shou	121
 多收	duo shou	159
@@ -30026,7 +30026,7 @@ sort: by_weight
 款待	kuan dai	160
 宽带	kuan dai	304431
 宽的	kuan de	166
-宽度	kuan du	65646
+宽度	kuan du	304472
 宽广	kuan guang	480
 款款	kuan kuan	168
 宽阔	kuan kuo	469
@@ -37310,7 +37310,7 @@ sort: by_weight
 小妹	xiao mei	1187
 小秘	xiao mi	119
 小蜜	xiao mi	180
-小米	xiao mi	246473
+小米	xiao mi	246482
 消灭	xiao mie	1542
 小民	xiao min	170
 小敏	xiao min	182
@@ -39616,7 +39616,7 @@ sort: by_weight
 之滨	zhi bin	110
 致病	zhi bing	244
 治病	zhi bing	722
-直播	zhi bo	2169
+直播	zhi bo	975021
 止步	zhi bu	228
 支部	zhi bu	547
 只怕	zhi pa	619
@@ -40699,7 +40699,7 @@ sort: by_weight
 传世	chuan shi	279
 传授	chuan shou	741
 传输	chuan shu	126931
-传说	chuan shuo	4583
+传说	chuan shuo	126954
 传染	chuan ran	947
 传热	chuan re	114
 传人	chuan ren	302
@@ -41662,7 +41662,7 @@ sort: by_weight
 充当	chong dang	892
 重蹈	chong dao	117
 冲到	chong dao	551
-充电	chong dian	1609
+充电	chong dian	126953
 重叠	chong die	570
 冲动	chong dong	3290
 重读	chong du	138
@@ -43035,7 +43035,7 @@ sort: by_weight
 诗篇	shi pian	192
 饰品	shi pin	1190
 食品	shi pin	5793
-视频	shi pin	1181152
+视频	shi pin	1181211
 视屏	shi ping	199
 时评	shi ping	240
 识破	shi po	247
@@ -46469,7 +46469,7 @@ sort: by_weight
 三相	san xiang	234
 三项	san xiang	754
 散心	san xin	176
-三星	san xing	1181189
+三星	san xing	1181213
 散装	san zhuang	254
 三张	san zhang	451
 三者	san zhe	480
@@ -47161,7 +47161,7 @@ sort: by_weight
 远在	yuan zai	441
 援藏	yuan zang	115
 原则	yuan ze	9129
-园子	yuan zi	613954
+园子	yuan zi	614016
 院子	yuan zi	599
 源自	yuan zi	650
 原子	yuan zi	681
@@ -51005,7 +51005,7 @@ sort: by_weight
 爱到	ai dao	169
 哀悼	ai dao	328
 爱得	ai de	327
-爱的	ai de	1749
+爱的	ai de	83822
 爱她	ai ta	761
 爱他	ai ta	771
 哀叹	ai tan	120
@@ -52180,7 +52180,7 @@ sort: by_weight
 沐浴露	mu yu lu	138
 发表者	fa biao zhe	164
 发病率	fa bing lv	460
-发布会	fa bu hui	1061
+发布会	fa bu hui	69575
 发布者	fa bu zhe	188
 发不出	fa bu chu	198
 发脾气	fa pi qi	446
@@ -56826,7 +56826,7 @@ sort: by_weight
 设计师	she ji shi	2467
 设计院	she ji yuan	488
 社区网	she qu wang	108
-摄像头	she xiang tou	3079
+摄像头	she xiang tou	1181212
 摄像机	she xiang ji	972
 设置成	she zhi cheng	245
 设置为	she zhi wei	600
