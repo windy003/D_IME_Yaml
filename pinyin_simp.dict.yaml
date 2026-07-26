@@ -15,7 +15,11 @@ sort: by_weight
 
 
 
-现在发现	xian zai fa xian	1
+
+
+
+亮屏	liang pin	1
+现在发现	xian zai fa xian	2
 成功过	cheng gong guo	2
 是这样子的吗	shi zhe yang zhi de ma	1
 这么样子	zhe mo yang zhi	2
@@ -25,7 +29,7 @@ sort: by_weight
 有办法吗	you ban fa ma	2
 骄奢淫逸	jiao se yin yi	1
 我要求	wo yao qiu	1
-从机	cong ji	126934
+从机	cong ji	126937
 响铃	xiang lin	246488
 没问题	mei wen ti	1
 能打开	neng da kai	1
@@ -240,7 +244,7 @@ sort: by_weight
 无衬线字体	wu cheng xian zhi ti	201
 无衬线	wu cheng xian	200
 什么区别	sheng mo qu bie	1181105
-是怎么回事	shi zheng mo hui shi	202
+是怎么回事	shi zheng mo hui shi	203
 怎么理解	zheng mo li jie	974955
 脑梗	nao geng	20
 看顾	kan gu	304454
@@ -296,7 +300,7 @@ sort: by_weight
 就好了	jiu hao le	200
 一会儿	yi hui er	5424
 切歌	qie ge	20475
-锁屏	suo pin	1181215
+锁屏	suo pin	1181216
 常开	chang kai	8015
 第二种	di er zong	632
 直链	zhi lian	57310
@@ -4332,7 +4336,7 @@ sort: by_weight
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	1500230
+能	neng	1500235
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -10643,8 +10647,8 @@ sort: by_weight
 翔	xiang	1282
 湘	xiang	1318
 祥	xiang	1863
-响	xiang	2554
-箱	xiang	3161
+响	xiang	246473
+箱	xiang	246472
 乡	xiang	3961
 项	xiang	141797
 香	xiang	141796
@@ -13280,8 +13284,8 @@ sort: by_weight
 市	shi	18050
 使	shi	34422
 事	shi	1180981
-时	shi	1181223
-是	shi	1181222
+时	shi	1181225
+是	shi	1181224
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -13742,8 +13746,8 @@ sort: by_weight
 宰	zai	836
 仔	zai	1416
 载	zai	2159
-再	zai	974838
-在	zai	975026
+再	zai	975027
+在	zai	975028
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -18390,7 +18394,7 @@ sort: by_weight
 必然	bi ran	5714
 鄙人	bi ren	283
 逼人	bi ren	444
-比如	bi ru	590715
+比如	bi ru	590716
 鼻子	bi zi	2516
 鼻祖	bi zu	140
 比作	bi zuo	226
@@ -21252,7 +21256,7 @@ sort: by_weight
 法学	fa xue	675
 法系	fa xi	234
 罚下	fa xia	148
-发现	fa xian	50627
+发现	fa xian	50628
 发笑	fa xiao	174
 发些	fa xie	119
 发泄	fa xie	1674
@@ -22327,7 +22331,7 @@ sort: by_weight
 短线	duan xian	2879
 短小	duan xiao	173
 端详	duan xiang	187
-短信	duan xin	4828402
+短信	duan xin	4828404
 短袖	duan xiu	456
 端庄	duan zhuang	286
 端着	duan zhe	320
@@ -22567,7 +22571,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	16901
+打开	da kai	16902
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -25614,7 +25618,7 @@ sort: by_weight
 童真	tong zhen	120
 统治	tong zhi	1771
 同志	tong zhi	9232
-通知	tong zhi	343934
+通知	tong zhi	343935
 通州	tong zhou	463
 同种	tong zhong	128
 同住	tong zhu	253
@@ -25867,7 +25871,7 @@ sort: by_weight
 推迟	tui chi	1339
 推崇	tui chong	655
 退出	tui chu	4646
-推出	tui chu	21020
+推出	tui chu	21022
 褪色	tui shai	136
 推上	tui shang	196
 腿上	tui shang	443
@@ -26895,7 +26899,7 @@ sort: by_weight
 来得	lai de	1179
 来的	lai de	20398
 来点	lai dian	282
-来电	lai dian	20401
+来电	lai dian	20402
 来谈	lai tan	132
 莱特	lai te	140
 来听	lai ting	179
@@ -27724,7 +27728,7 @@ sort: by_weight
 凉皮	liang pi	151
 两片	liang pian	335
 两篇	liang pian	429
-两瓶	liang ping	1500235
+两瓶	liang ping	1500236
 两门	liang men	261
 两枚	liang mei	121
 两米	liang mi	151
@@ -32605,7 +32609,7 @@ sort: by_weight
 麾下	hui xia	149
 回校	hui xiao	130
 会向	hui xiang	184
-回响	hui xiang	210
+回响	hui xiang	664944
 回乡	hui xiang	273
 回想	hui xiang	931
 诙谐	hui xie	232
@@ -34196,7 +34200,7 @@ sort: by_weight
 解密	jie mi	614
 洁面	jie mian	225
 截面	jie mian	261
-界面	jie mian	558473
+界面	jie mian	558476
 芥末	jie mo	154
 揭幕	jie mu	224
 节目	jie mu	8960
@@ -35446,7 +35450,7 @@ sort: by_weight
 启动	qi dong	19028
 气度	qi du	287
 其它	qi ta	12560
-其他	qi ta	330890
+其他	qi ta	330891
 乞讨	qi tao	386
 奇特	qi te	719
 气体	qi ti	1255
@@ -35987,7 +35991,7 @@ sort: by_weight
 切割	qie ge	20473
 切开	qie kai	266
 切口	qie kou	220
-切换	qie huan	4372
+切换	qie huan	4373
 切合	qie he	236
 切记	qie ji	403
 切忌	qie ji	412
@@ -37258,7 +37262,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246471
+现在	xian zai	246473
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -39191,7 +39195,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	974995
+这个	zhe ge	974996
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40476,7 +40480,7 @@ sort: by_weight
 助剂	zhu ji	132
 诸暨	zhu ji	186
 逐级	zhu ji	189
-主机	zhu ji	975030
+主机	zhu ji	975031
 朱家	zhu jia	113
 住家	zhu jia	120
 铸件	zhu jian	109
@@ -44651,7 +44655,7 @@ sort: by_weight
 入宫	ru gong	118
 如故	ru gu	139
 入股	ru gu	890
-如果	ru guo	1500233
+如果	ru guo	1500234
 入口	ru kou	1506
 入库	ru ku	974
 如画	ru hua	128
