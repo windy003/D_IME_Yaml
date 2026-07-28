@@ -15,8 +15,8 @@ sort: by_weight
 
 
 
-
-生图能力	sheng tu neng li	1
+有什么	you sheng mo	1
+生图能力	sheng tu neng li	1181261
 生图	sheng tu	1
 即梦	ji meng	558510
 豆包	dou bao	1
@@ -1277,7 +1277,7 @@ sort: by_weight
 佩	pei	919
 培	pei	1119
 赔	pei	1866
-配	pei	58907
+配	pei	58927
 陪	pei	9129
 銢	pi	0
 魾	pi	0
@@ -3301,7 +3301,7 @@ sort: by_weight
 逗	dou	1784
 豆	dou	4828411
 斗	dou	2548
-都	dou	4828386
+都	dou	4828414
 鶫	dong	0
 駧	dong	0
 霘	dong	0
@@ -3346,7 +3346,7 @@ sort: by_weight
 洞	dong	2922
 东	dong	8696
 懂	dong	9468
-动	dong	9467
+动	dong	4828413
 錖	du	0
 韇	du	0
 醏	du	0
@@ -4945,7 +4945,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	6513
-了	le	1500243
+了	le	1500248
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -13467,7 +13467,7 @@ sort: by_weight
 閏	run	3
 潤	run	15
 闰	run	90
-润	run	6259
+润	run	1500238
 珃	ran	0
 髥	ran	0
 袡	ran	1
@@ -14980,7 +14980,7 @@ sort: by_weight
 源	yuan	613919
 原	yuan	614011
 远	yuan	12498
-元	yuan	614032
+元	yuan	614039
 龥	yue	0
 髺	yue	0
 抈	yue	0
@@ -16262,7 +16262,7 @@ sort: by_weight
 油	you	5961
 由	you	613911
 又	you	613915
-有	you	614010
+有	you	614041
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -17112,7 +17112,7 @@ sort: by_weight
 腌	a	274
 呵	a	337
 吖	a	3034
-阿	a	15389
+阿	a	83831
 啊	a	83828
 餲	ai	0
 溰	ai	0
@@ -17686,7 +17686,7 @@ sort: by_weight
 斑马	ban ma	221
 版面	ban mian	1793
 颁发	ban fa	1465
-办法	ban fa	590691
+办法	ban fa	590728
 拌饭	ban fan	188
 半分	ban fen	124
 半段	ban duan	183
@@ -19659,7 +19659,7 @@ sort: by_weight
 配音	pei yin	725
 配有	pei you	476
 培育	pei yu	2054
-陪我	pei wo	58926
+陪我	pei wo	58928
 配伍	pei wu	119
 配额	pei e	565
 配偶	pei ou	587
@@ -26969,7 +26969,7 @@ sort: by_weight
 来生	lai sheng	216
 来时	lai shi	286
 来世	lai shi	297
-来说	lai shuo	20754
+来说	lai shuo	1500247
 来人	lai ren	413
 来自	lai zi	13071
 来作	lai zuo	129
@@ -31645,7 +31645,7 @@ sort: by_weight
 好片	hao pian	198
 好评	hao ping	1525
 好嘛	hao ma	699
-好吗	hao ma	664971
+好吗	hao ma	664974
 号码	hao ma	11047
 好卖	hao mai	197
 豪迈	hao mai	265
@@ -31979,7 +31979,7 @@ sort: by_weight
 很多	hen duo	664935
 很疼	hen teng	236
 很甜	hen tian	113
-很痛	hen tong	274
+很痛	hen tong	664975
 很难	hen nan	10484
 很浓	hen nong	175
 很烂	hen lan	319
@@ -36733,7 +36733,7 @@ sort: by_weight
 驯服	xun fu	135
 熏陶	xun tao	366
 迅雷	xun lei	3079
-训练	xun lian	6854
+训练	xun lian	246499
 巡逻	xun luo	728
 寻根	xun gen	106
 循环	xun huan	246372
@@ -36830,7 +36830,7 @@ sort: by_weight
 吸管	xi guan	154
 西关	xi guan	182
 习惯	xi guan	13071
-膝盖	xi gai	770
+膝盖	xi gai	246500
 洗个	xi ge	218
 硒鼓	xi gu	183
 洗过	xi guo	230
@@ -39221,7 +39221,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	975051
+这个	zhe ge	975053
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -48095,7 +48095,7 @@ sort: by_weight
 夜宴	ye yan	147
 也要	ye yao	10510
 夜夜	ye ye	303
-爷爷	ye ye	3004
+爷爷	ye ye	614040
 业已	ye yi	244
 也已	ye yi	581
 也因	ye yin	224
@@ -50571,7 +50571,7 @@ sort: by_weight
 我党	wo dang	144
 我倒	wo dao	1014
 我得	wo de	597
-我的	wo de	41876
+我的	wo de	1192914
 我等	wo deng	161
 我得	wo dei	389
 卧底	wo di	386
@@ -53908,7 +53908,7 @@ sort: by_weight
 关键性	guan jian xing	246
 关键字	guan jian zi	1506
 关键词	guan jian ci	1896
-关节炎	guan jie yan	148
+关节炎	guan jie yan	246008
 管辖权	guan xia quan	138
 冠心病	guan xin bing	397
 关之琳	guan zhi lin	116
@@ -57425,7 +57425,7 @@ sort: by_weight
 怎么走	zen me zou	338
 怎么做	zen me zuo	1033
 怎么算	zen me suan	186
-怎么样	zen me yang	974984
+怎么样	zen me yang	975052
 怎么用	zen me yong	451
 怎么玩	zen me wan	206
 怎能不	zen neng bu	190
