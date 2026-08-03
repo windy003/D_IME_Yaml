@@ -17,7 +17,7 @@ sort: by_weight
 
 
 
-
+文件浏览器	wen jian liu lan qi	1
 放后面	fang hou mian	1
 放前面	fang qian mian	1
 你这里	ni zhe li	1
@@ -2398,8 +2398,8 @@ sort: by_weight
 芳	fang	2403
 防	fang	4470
 房	fang	69560
-方	fang	69584
-放	fang	69520
+方	fang	69587
+放	fang	69588
 秎	fen	0
 鐼	fen	0
 竕	fen	0
@@ -3591,7 +3591,7 @@ sort: by_weight
 塌	ta	503
 踏	ta	815
 塔	ta	3616
-它	ta	343940
+它	ta	343949
 她	ta	343909
 他	ta	343939
 鮐	tai	0
@@ -4980,7 +4980,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	6513
-了	le	1500248
+了	le	1500252
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -13534,7 +13534,7 @@ sort: by_weight
 壤	rang	96
 嚷	rang	201
 讓	rang	311
-让	rang	1500235
+让	rang	1500251
 隢	rao	0
 襓	rao	1
 犪	rao	2
@@ -13553,7 +13553,7 @@ sort: by_weight
 喏	re	9
 熱	re	48
 惹	re	2129
-热	re	1500249
+热	re	1500250
 鵀	ren	0
 靱	ren	0
 飪	ren	0
@@ -13808,7 +13808,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975031
-在	zai	975032
+在	zai	975095
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -16785,7 +16785,7 @@ sort: by_weight
 雯	wen	911
 纹	wen	1133
 吻	wen	1838
-闻	wen	1192880
+闻	wen	1192936
 稳	wen	2822
 温	wen	2981
 文	wen	49778
@@ -22632,7 +22632,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	16906
+打开	da kai	16908
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -29372,7 +29372,7 @@ sort: by_weight
 更能	geng neng	1081
 更令	geng ling	154
 更广	geng guang	200
-更改	geng gai	246000
+更改	geng gai	246001
 更高	geng gao	245999
 更贵	geng gui	152
 更快	geng kuai	1467
@@ -30709,7 +30709,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304485
+可以	ke yi	304486
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -36175,7 +36175,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	330914
+请你	qing ni	330915
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -37323,7 +37323,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246508
+现在	xian zai	246509
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -39256,7 +39256,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	975093
+这个	zhe ge	975094
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -44302,7 +44302,7 @@ sort: by_weight
 燃油	ran you	742
 然而	ran er	5807
 让步	rang bu	499
-让它	rang ta	1519
+让它	rang ta	1500234
 让她	rang ta	1500231
 让他	rang ta	1500233
 让你	rang ni	11172
@@ -50255,7 +50255,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	31927
+文件	wen jian	31928
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -50606,7 +50606,7 @@ sort: by_weight
 我党	wo dang	144
 我倒	wo dao	1014
 我得	wo de	597
-我的	wo de	1192919
+我的	wo de	1192920
 我等	wo deng	161
 我得	wo dei	389
 卧底	wo di	386
@@ -53851,7 +53851,7 @@ sort: by_weight
 流通股	liu tong gu	448
 六年级	liu nian ji	156
 浏览量	liu lan liang	166
-浏览器	liu lan qi	1500210
+浏览器	liu lan qi	1500211
 浏览者	liu lan zhe	132
 流浪猫	liu lang mao	117
 流浪狗	liu lang gou	123
@@ -54468,7 +54468,7 @@ sort: by_weight
 可以拿	ke yi na	218
 可以换	ke yi huan	178
 可以吃	ke yi chi	305
-可以用	ke yi yong	304451
+可以用	ke yi yong	304452
 可用性	ke yong xing	309
 可用于	ke yong yu	484
 科威特	ke wei te	225
@@ -58611,7 +58611,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192889
+为什么	wei shen me	1192890
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
