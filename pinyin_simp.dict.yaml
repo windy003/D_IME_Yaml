@@ -18,7 +18,9 @@ sort: by_weight
 
 
 
-具体是	ju ti shi	1
+
+存的	cun de	1
+具体是	ju ti shi	148
 举一个例子	ju yi ge li zhi	1
 能举一个例子吗	neng ju yi ge li zhi ma	1
 举一个例子吗	ju yi ge li zhi ma	2
@@ -59,7 +61,7 @@ sort: by_weight
 政经最前线	zheng jin zui qian xian	975092
 最前线	zui qian xian	1
 每一秒	mei yi miao	1
-帐号密码	zhang hao mi ma	3
+帐号密码	zhang hao mi ma	4
 加一个	jia yi ge	171
 私信	shi xin	1181259
 转钱	zuan qian	1
@@ -150,7 +152,7 @@ sort: by_weight
 毫秒数	hao miao shu	222
 是怎么	shi zheng mo	1
 怎么样子	zheng mo yang zhi	1
-怎么样子的	zheng mo yang zhi de	1
+怎么样子的	zheng mo yang zhi de	2
 相当于	xiang dang yu	1
 主机名	zhu ji min	1
 什么办法	sheng mo ban fa	1181161
@@ -295,7 +297,7 @@ sort: by_weight
 也是一个	ye shi yi ge	602
 有多少	you duo sao	1034
 怎么会是	zheng mo hui shi	1839
-怎么会	zheng mo hui	200
+怎么会	zheng mo hui	1319
 有问题	you wen ti	200
 八进制	ba jin zhi	200
 十六进制	shi liu jin zhi	202
@@ -383,7 +385,7 @@ sort: by_weight
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
 上面的	shang mian de	1181267
-其中的	qi zong de	461
+其中的	qi zong de	462
 花括号	hua kuo hao	201
 可以了	ke yi le	204
 就好了	jiu hao le	200
@@ -435,7 +437,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614026
 这样子	zhe yang zhi	974977
-是什么	shi sheng mo	1181262
+是什么	shi sheng mo	1181264
 简拼	jian pin	4632
 安卓	an zhuo	83836
 就这样子	jiu zhe yang zhi	100
@@ -882,7 +884,7 @@ sort: by_weight
 扁	bian	1723
 编	bian	2919
 遍	bian	3213
-变	bian	16096
+变	bian	590690
 边	bian	590689
 便	bian	16097
 鰾	biao	0
@@ -4421,7 +4423,7 @@ sort: by_weight
 讷	ne	144
 呐	ne	188
 哪	ne	284
-呢	ne	1500212
+呢	ne	1500254
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
@@ -14254,7 +14256,7 @@ sort: by_weight
 忖	cun	44
 吋	cun	74
 寸	cun	126946
-存	cun	4982
+存	cun	126947
 村	cun	11088
 礸	ca	1
 嚓	ca	7
@@ -18522,7 +18524,7 @@ sort: by_weight
 变频	bian pin	218
 扁平	bian ping	207
 边坡	bian po	146
-编码	bian ma	3229
+编码	bian ma	22649
 变卖	bian mai	178
 变慢	bian man	178
 便秘	bian mi	728
@@ -21802,7 +21804,7 @@ sort: by_weight
 分流	fen liu	738
 分管	fen guan	808
 分隔	fen ge	353
-分割	fen ge	9515
+分割	fen ge	69567
 分给	fen gei	339
 分工	fen gong	1519
 愤慨	fen kai	277
@@ -23489,7 +23491,7 @@ sort: by_weight
 瞪了	deng le	200
 灯笼	deng long	305
 登陆	deng lu	3364
-登录	deng lu	4828419
+登录	deng lu	4828420
 灯管	deng guan	164
 灯光	deng guang	1922
 登高	deng gao	174
@@ -29757,7 +29759,7 @@ sort: by_weight
 孤岛	gu dao	248
 谷底	gu di	236
 古典	gu dian	1295
-固定	gu ding	246004
+固定	gu ding	246005
 鼓动	gu dong	374
 古董	gu dong	480
 股东	gu dong	3917
@@ -39253,7 +39255,7 @@ sort: by_weight
 折服	zhe fu	243
 这幅	zhe fu	331
 折断	zhe duan	253
-这段	zhe duan	975046
+这段	zhe duan	975048
 浙大	zhe da	646
 遮挡	zhe dang	304
 这倒	zhe dao	223
@@ -40287,7 +40289,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	975047
+中的	zhong de	975049
 中等	zhong deng	900
 中的	zhong di	974986
 种地	zhong di	287
@@ -40356,7 +40358,7 @@ sort: by_weight
 中甲	zhong jia	154
 中建	zhong jian	140
 中坚	zhong jian	208
-中间	zhong jian	975032
+中间	zhong jian	975059
 重奖	zhong jiang	114
 终将	zhong jiang	258
 中将	zhong jiang	401
@@ -48480,7 +48482,7 @@ sort: by_weight
 一记	yi ji	495
 一集	yi ji	587
 一级	yi ji	3030
-以及	yi ji	614028
+以及	yi ji	614030
 议价	yi jia	141
 衣架	yi jia	185
 溢价	yi jia	454
@@ -49532,7 +49534,7 @@ sort: by_weight
 永和	yong he	127
 永恒	yong heng	1806
 拥护	yong hu	582
-用户	yong hu	614038
+用户	yong hu	614039
 拥挤	yong ji	934
 用脚	yong jiao	197
 涌进	yong jin	115
@@ -50328,7 +50330,7 @@ sort: by_weight
 温柔	wen rou	4112
 问责	wen ze	220
 蚊子	wen zi	1877
-文字	wen zi	1192932
+文字	wen zi	1192937
 温存	wen cun	168
 文采	wen cai	412
 文员	wen yuan	329
@@ -58639,7 +58641,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192890
+为什么	wei shen me	1192891
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
