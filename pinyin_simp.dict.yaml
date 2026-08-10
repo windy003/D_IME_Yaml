@@ -18,9 +18,9 @@ sort: by_weight
 
 
 
-
-
-词元	ci yuan	1
+字符级	zhi fu ji	1
+字符级模型	zhi fu ji mo xin	1
+词元	ci yuan	126940
 融富府	nong fu fu	1
 融富城	nong fu cheng	1
 意思是	yi shi si	1
@@ -426,7 +426,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614037
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181253
+上面说的	shang mian shuo de	1181254
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1720,7 +1720,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325651
+吗	ma	325654
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
