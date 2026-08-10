@@ -17,9 +17,9 @@ sort: by_weight
 
 
 
-
+只针对	zhi zheng dui	1
 字符级	zhi fu ji	1
-字符级模型	zhi fu ji mo xin	1
+字符级模型	zhi fu ji mo xin	2
 词元	ci yuan	126940
 融富府	nong fu fu	1
 融富城	nong fu cheng	1
@@ -452,7 +452,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614026
 这样子	zhe yang zhi	974977
-是什么	shi sheng mo	1181281
+是什么	shi sheng mo	1181282
 简拼	jian pin	4632
 安卓	an zhuo	83836
 就这样子	jiu zhe yang zhi	100
@@ -1720,7 +1720,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325654
+吗	ma	325655
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3082,7 +3082,7 @@ sort: by_weight
 德	de	7178
 地	de	4828408
 得	de	4828425
-的	de	4828438
+的	de	4828439
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4344,7 +4344,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	38603
-那	na	1500252
+那	na	1500261
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -21126,7 +21126,7 @@ sort: by_weight
 摸清	mo qing	246
 抹去	mo qu	295
 摩西	mo xi	118
-模型	mo xing	17806
+模型	mo xing	17808
 默许	mo xu	178
 魔杖	mo zhang	226
 摸着	mo zhe	439
@@ -32093,7 +32093,7 @@ sort: by_weight
 很强	hen qiang	2602
 很轻	hen qing	216
 很细	hen xi	167
-很小	hen xiao	2746
+很小	hen xiao	664945
 很香	hen xiang	149
 很象	hen xiang	216
 很像	hen xiang	1324
@@ -35122,7 +35122,7 @@ sort: by_weight
 旧时	jiu shi	223
 九十	jiu shi	293
 救市	jiu shi	562
-就是	jiu shi	558514
+就是	jiu shi	558515
 就收	jiu shou	179
 旧书	jiu shu	191
 救赎	jiu shu	386
@@ -57069,7 +57069,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	1181250
+是不是	shi bu shi	1181251
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
