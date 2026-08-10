@@ -17,7 +17,9 @@ sort: by_weight
 
 
 
-只针对	zhi zheng dui	1
+
+子词级	zhi ci ji	1
+只针对	zhi zheng dui	1402
 字符级	zhi fu ji	1
 字符级模型	zhi fu ji mo xin	2
 词元	ci yuan	126940
@@ -426,7 +428,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614037
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181254
+上面说的	shang mian shuo de	1181255
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -451,7 +453,7 @@ sort: by_weight
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
 一定	yi din	614026
-这样子	zhe yang zhi	974977
+这样子	zhe yang zhi	974978
 是什么	shi sheng mo	1181282
 简拼	jian pin	4632
 安卓	an zhuo	83836
@@ -3082,7 +3084,7 @@ sort: by_weight
 德	de	7178
 地	de	4828408
 得	de	4828425
-的	de	4828439
+的	de	4828441
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4344,7 +4346,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	38603
-那	na	1500261
+那	na	1500262
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -7258,7 +7260,7 @@ sort: by_weight
 嗨	hai	1333
 害	hai	2854
 海	hai	12451
-还	hai	279642
+还	hai	664984
 莟	han	0
 雗	han	0
 蜭	han	0
@@ -13391,7 +13393,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181264
 时	shi	1181268
-是	shi	1181278
+是	shi	1181286
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -15713,7 +15715,7 @@ sort: by_weight
 业	ye	5470
 叶	ye	404393
 页	ye	613994
-也	ye	614021
+也	ye	614058
 燡	yi	0
 齸	yi	0
 熪	yi	0
@@ -17995,7 +17997,7 @@ sort: by_weight
 报刊	bao kan	927
 报考	bao kao	1791
 宝库	bao ku	218
-包括	bao kuo	28665
+包括	bao kuo	590704
 包换	bao huan	155
 保函	bao han	149
 包涵	bao han	225
@@ -23161,7 +23163,7 @@ sort: by_weight
 但总	dan zong	282
 单层	dan ceng	145
 单次	dan ci	124
-单词	dan ci	2001
+单词	dan ci	4828393
 单从	dan cong	191
 但从	dan cong	899
 单色	dan se	196
@@ -39787,7 +39789,7 @@ sort: by_weight
 之父	zhi fu	330
 制服	zhi fu	789
 致富	zhi fu	914
-支付	zhi fu	974981
+支付	zhi fu	974982
 只打	zhi da	116
 直达	zhi da	749
 之大	zhi da	974849
@@ -40304,7 +40306,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	975051
+中的	zhong de	975108
 中等	zhong deng	900
 中的	zhong di	974986
 种地	zhong di	287
@@ -40496,7 +40498,7 @@ sort: by_weight
 忠于	zhong yu	299
 终于	zhong yu	131091
 中外	zhong wai	997
-中文	zhong wen	974982
+中文	zhong wen	974984
 中尉	zhong wei	180
 中卫	zhong wei	205
 重物	zhong wu	125
@@ -48429,7 +48431,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614025
+一个	yi ge	614028
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -49171,7 +49173,7 @@ sort: by_weight
 应与	ying yu	191
 盈余	ying yu	258
 英语	ying yu	614044
-英文	ying wen	613929
+英文	ying wen	613931
 应为	ying wei	1125
 硬卧	ying wo	130
 鹦鹉	ying wu	386
