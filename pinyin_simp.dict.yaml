@@ -17,6 +17,8 @@ sort: by_weight
 
 
 
+
+本末倒置	ben mo dao zhi	1
 远志明	yuan zhi min	1
 会出现	hui chu xian	1
 张量	zhang liang	1
@@ -661,7 +663,7 @@ sort: by_weight
 苯	ben	639
 奔	ben	1469
 笨	ben	5349
-本	ben	590739
+本	ben	590745
 閍	beng	0
 嵭	beng	0
 塴	beng	0
@@ -2267,7 +2269,7 @@ sort: by_weight
 模	mo	1689
 磨	mo	1925
 膜	mo	2247
-末	mo	2523
+末	mo	325656
 魔	mo	2922
 摸	mo	3639
 莫	mo	4509
@@ -3079,7 +3081,7 @@ sort: by_weight
 导	dao	2043
 岛	dao	296880
 刀	dao	5409
-倒	dao	13603
+倒	dao	4828443
 道	dao	4828417
 到	dao	4828418
 淂	de	23
@@ -11862,7 +11864,7 @@ sort: by_weight
 汁	zhi	1193
 枝	zhi	1309
 止	zhi	1425
-置	zhi	1619
+置	zhi	975110
 质	zhi	1873
 智	zhi	2272
 致	zhi	2826
@@ -13861,7 +13863,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975031
-在	zai	975099
+在	zai	975109
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -33160,7 +33162,7 @@ sort: by_weight
 击溃	ji kui	127
 极化	ji hua	117
 激化	ji hua	276
-计划	ji hua	23982
+计划	ji hua	558516
 疾患	ji huan	190
 饥荒	ji huang	146
 几行	ji hang	175
@@ -43032,7 +43034,7 @@ sort: by_weight
 生姜	sheng jiang	391
 圣洁	sheng jie	335
 生津	sheng jin	106
-圣经	sheng jing	762
+圣经	sheng jing	1181287
 省局	sheng ju	265
 圣骑	sheng qi	233
 升起	sheng qi	758
@@ -63645,7 +63647,7 @@ sort: by_weight
 什么原因	shen me yuan yin	824
 什么颜色	shen me yan se	160
 什么样子	shen me yang zi	807
-什么意思	shen me yi si	2563
+什么意思	shen me yi si	1181288
 什么问题	shen me wen ti	987
 审美疲劳	shen mei pi lao	141
 神秘面纱	shen mi mian sha	112
