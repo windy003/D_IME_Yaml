@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-消息推送	xiao xi tui song	1
+是怎么样子的呢	shi zheng mo yang zi de ne	1
+消息推送	xiao xi tui song	2
 是怎么实现	shi zheng mo shi xian	1
 快应用	kuai ying yong	304454
 扫码	sao ma	1181267
@@ -297,7 +297,7 @@ sort: by_weight
 是这样子的	shi ze yang zhi de	4
 父容器	fu rong qi	2
 撑满	cheng man	7369
-一样的	yi yang de	422
+一样的	yi yang de	423
 宽高比	kuan gao bi	4
 概览	gai lan	1
 卡不卡	ka bu ka	2
@@ -13878,7 +13878,7 @@ sort: by_weight
 宰	zai	836
 仔	zai	1416
 载	zai	2159
-再	zai	975031
+再	zai	975110
 在	zai	975109
 酇	zan	0
 饡	zan	0
@@ -18004,7 +18004,7 @@ sort: by_weight
 爆料	bao liao	478
 爆裂	bao lie	180
 保留	bao liu	22016
-暴露	bao lu	2067
+暴露	bao lu	22017
 保罗	bao luo	526
 报关	bao guan	705
 保管	bao guan	942
@@ -18164,7 +18164,7 @@ sort: by_weight
 奔赴	ben fu	338
 笨蛋	ben dan	1674
 笨的	ben de	127
-本地	ben di	590690
+本地	ben di	590693
 本店	ben dian	421
 奔腾	ben teng	682
 本题	ben ti	105
@@ -19316,7 +19316,7 @@ sort: by_weight
 布置	bu zhi	2210
 不止	bu zhi	2692
 不知	bu zhi	590731
-步骤	bu zhou	590678
+步骤	bu zhou	590733
 不忠	bu zhong	115
 不中	bu zhong	118
 不重	bu zhong	184
@@ -19367,11 +19367,11 @@ sort: by_weight
 不是	bu shi	590713
 不守	bu shou	116
 不收	bu shou	567
-不受	bu shou	1784
+不受	bu shou	590716
 不输	bu shu	133
 部属	bu shu	161
 不熟	bu shu	736
-部署	bu shu	590714
+部署	bu shu	590715
 不说	bu shuo	6586
 补水	bu shui	402
 不睡	bu shui	647
@@ -22422,7 +22422,7 @@ sort: by_weight
 富翁	fu weng	496
 抚慰	fu wei	277
 复位	fu wei	446
-服务	fu wu	69582
+服务	fu wu	69583
 父爱	fu ai	151
 断臂	duan bei	125
 短篇	duan pian	203
@@ -22745,7 +22745,7 @@ sort: by_weight
 大家	da jia	67803
 大件	da jian	188
 大剑	da jian	304
-搭建	da jian	1657
+搭建	da jian	4828341
 打搅	da jiao	353
 大脚	da jiao	419
 大叫	da jiao	794
@@ -23788,7 +23788,7 @@ sort: by_weight
 殿堂	dian tang	398
 电梯	dian ti	2161
 点头	dian tou	1567
-电脑	dian nao	33037
+电脑	dian nao	4828392
 电能	dian neng	250
 店内	dian nei	399
 电驴	dian lv	883
@@ -33665,7 +33665,7 @@ sort: by_weight
 佳音	jia yin	134
 家有	jia you	313
 加油	jia you	8642
-家用	jia yong	1036
+家用	jia yong	558510
 甲鱼	jia yu	173
 驾驭	jia yu	516
 甲烷	jia wan	145
@@ -39327,7 +39327,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	975123
+这个	zhe ge	975124
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40082,7 +40082,7 @@ sort: by_weight
 咫尺	zhi chi	128
 智齿	zhi chi	139
 只吃	zhi chi	311
-支持	zhi chi	975021
+支持	zhi chi	975022
 直冲	zhi chong	208
 之初	zhi chu	7517
 支出	zhi chu	2596
@@ -43827,7 +43827,7 @@ sort: by_weight
 守军	shou jun	105
 手记	shou ji	234
 收集	shou ji	4781
-手机	shou ji	1181202
+手机	shou ji	1181288
 首家	shou jia	758
 售价	shou jia	2119
 收件	shou jian	181
@@ -45357,7 +45357,7 @@ sort: by_weight
 自觉	zi jue	2735
 子集	zi ji	112
 字迹	zi ji	251
-自己	zi ji	975054
+自己	zi ji	975061
 自驾	zi jia	260
 自家	zi jia	1157
 自荐	zi jian	156
@@ -46626,7 +46626,7 @@ sort: by_weight
 三相	san xiang	234
 三项	san xiang	754
 散心	san xin	176
-三星	san xing	1181224
+三星	san xing	1181260
 散装	san zhuang	254
 三张	san zhang	451
 三者	san zhe	480
