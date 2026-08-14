@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-怎么配置	zheng mo pei zhi	1
+怎么填	zheng mo tian	1
+怎么配置	zheng mo pei zhi	2
 快捷指令	kuai jie zhi lin	2
 命名	min min	1
 命名空间	min min kong jian	2
@@ -27,7 +27,7 @@ sort: by_weight
 以西结书	yi xi jie shu	1
 以西结	yi xi jie	614069
 这个是什么	zhe ge shi sheng mo	1
-腾讯云	teng xun yun	791
+腾讯云	teng xun yun	792
 安卓端	an zhuo duan	2
 云函数	yun han shu	697
 是怎么样子的呢	shi zheng mo yang zi de ne	2
@@ -411,7 +411,7 @@ sort: by_weight
 都可以	dou ke yi	4828374
 不就是	bu jiu shi	200
 房颤	fang can	200
-微信	wei xin	1192912
+微信	wei xin	1192913
 下行	xia hang	200
 上行	shang hang	200
 内间距	nei jian ju	200
@@ -465,7 +465,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614068
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181257
+上面说的	shang mian shuo de	1181259
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -477,7 +477,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	159
-是什么意思	shi sheng mo yi si	1181256
+是什么意思	shi sheng mo yi si	1181257
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -489,9 +489,9 @@ sort: by_weight
 候选区	hou xuan qu	452
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
-一定	yi din	614039
+一定	yi din	614040
 这样子	zhe yang zhi	974980
-是什么	shi sheng mo	1181303
+是什么	shi sheng mo	1181304
 简拼	jian pin	4632
 安卓	an zhuo	83840
 就这样子	jiu zhe yang zhi	100
@@ -4035,7 +4035,7 @@ sort: by_weight
 舔	tian	1418
 甜	tian	2180
 添	tian	2385
-填	tian	44056
+填	tian	44058
 田	tian	4781
 天	tian	44057
 齠	tiao	0
@@ -21918,7 +21918,7 @@ sort: by_weight
 愤然	fen ran	107
 份子	fen zi	390
 分子	fen zi	2933
-分组	fen zu	69545
+分组	fen zu	69581
 分寸	fen cun	287
 分层	fen ceng	439
 分词	fen ci	181
@@ -35775,7 +35775,7 @@ sort: by_weight
 欺压	qi ya	142
 气压	qi ya	244
 七夜	qi ye	111
-企业	qi ye	330883
+企业	qi ye	330884
 其意	qi yi	109
 歧义	qi yi	226
 其一	qi yi	364
@@ -44800,7 +44800,7 @@ sort: by_weight
 入宫	ru gong	118
 如故	ru gu	139
 入股	ru gu	890
-如果	ru guo	1500241
+如果	ru guo	1500242
 入口	ru kou	1506
 入库	ru ku	974
 如画	ru hua	128
