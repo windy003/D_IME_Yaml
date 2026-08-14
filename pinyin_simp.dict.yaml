@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-快捷指令	kuai jie zhi lin	1
+怎么配置	zheng mo pei zhi	1
+快捷指令	kuai jie zhi lin	2
 命名	min min	1
 命名空间	min min kong jian	2
 还能工作	hai neng gong zhuo	1
@@ -27,7 +27,7 @@ sort: by_weight
 以西结书	yi xi jie shu	1
 以西结	yi xi jie	614069
 这个是什么	zhe ge shi sheng mo	1
-腾讯云	teng xun yun	789
+腾讯云	teng xun yun	791
 安卓端	an zhuo duan	2
 云函数	yun han shu	697
 是怎么样子的呢	shi zheng mo yang zi de ne	2
@@ -86,7 +86,7 @@ sort: by_weight
 但以理	dan yi li	1
 请帮我	qin bang wo	1
 功能是	gong neng shi	1
-告诉我	gao shu wo	1
+告诉我	gao shu wo	2
 尽量吧	jin liang ba	1
 我能	wo neng	1
 我能有	wo neng you	1192937
@@ -371,7 +371,7 @@ sort: by_weight
 阿里云	a li yun	83812
 周秋良	zhou qiu liang	975040
 建德	jian de	558501
-在哪里	zai na li	202
+在哪里	zai na li	203
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
@@ -439,7 +439,7 @@ sort: by_weight
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
 上面的	shang mian de	1181290
-其中的	qi zong de	462
+其中的	qi zong de	463
 花括号	hua kuo hao	201
 可以了	ke yi le	205
 就好了	jiu hao le	200
@@ -462,10 +462,10 @@ sort: by_weight
 下标	xia biao	10803
 了啊	le a	4053
 希望歌	xi wang ge	202
-有什么区别	you sheng mo qu bie	614067
+有什么区别	you sheng mo qu bie	614068
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181256
+上面说的	shang mian shuo de	1181257
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -477,7 +477,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	159
-是什么意思	shi sheng mo yi si	1181255
+是什么意思	shi sheng mo yi si	1181256
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -489,9 +489,9 @@ sort: by_weight
 候选区	hou xuan qu	452
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
-一定	yi din	614026
-这样子	zhe yang zhi	974978
-是什么	shi sheng mo	1181302
+一定	yi din	614039
+这样子	zhe yang zhi	974980
+是什么	shi sheng mo	1181303
 简拼	jian pin	4632
 安卓	an zhuo	83840
 就这样子	jiu zhe yang zhi	100
@@ -2924,7 +2924,7 @@ sort: by_weight
 答	da	3087
 达	da	9692
 大	da	4828312
-打	da	107927
+打	da	4828313
 艜	dai	0
 軩	dai	0
 靆	dai	0
@@ -17793,7 +17793,7 @@ sort: by_weight
 百万	bai wan	1647
 百位	bai wei	109
 斑斑	ban ban	494
-版本	ban ben	590696
+版本	ban ben	590698
 半杯	ban bei	105
 半边	ban bian	236
 斑驳	ban bo	188
@@ -18017,7 +18017,7 @@ sort: by_weight
 爆料	bao liao	478
 爆裂	bao lie	180
 保留	bao liu	22016
-暴露	bao lu	22017
+暴露	bao lu	22018
 保罗	bao luo	526
 报关	bao guan	705
 保管	bao guan	942
@@ -18177,7 +18177,7 @@ sort: by_weight
 奔赴	ben fu	338
 笨蛋	ben dan	1674
 笨的	ben de	127
-本地	ben di	590694
+本地	ben di	590695
 本店	ben dian	421
 奔腾	ben teng	682
 本题	ben ti	105
@@ -19084,7 +19084,7 @@ sort: by_weight
 不但	bu dan	5063
 不当	bu dang	1525
 不倒	bu dao	352
-不到	bu dao	590688
+不到	bu dao	590696
 不得	bu de	9777
 不等	bu deng	789
 不低	bu di	382
@@ -19763,7 +19763,7 @@ sort: by_weight
 陪着	pei zhe	931
 培植	pei zhi	222
 配制	pei zhi	375
-配置	pei zhi	13819
+配置	pei zhi	13820
 配种	pei zhong	123
 赔偿	pei chang	2708
 陪衬	pei chen	143
@@ -20758,7 +20758,7 @@ sort: by_weight
 每一	mei yi	325647
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	325654
+没有	mei you	325655
 没用	mei yong	325634
 美玉	mei yu	113
 美语	mei yu	128
@@ -22972,7 +22972,7 @@ sort: by_weight
 带兵	dai bing	118
 代步	dai bu	152
 逮捕	dai bu	800
-代码	dai ma	4828315
+代码	dai ma	4828316
 怠慢	dai man	186
 待命	dai ming	232
 代发	dai fa	146
@@ -23265,7 +23265,7 @@ sort: by_weight
 当局	dang ju	1472
 档期	dang qi	284
 当期	dang qi	356
-当前	dang qian	4828321
+当前	dang qian	4828322
 当选	dang xuan	1375
 当下	dang xia	978
 党校	dang xiao	459
@@ -24541,7 +24541,7 @@ sort: by_weight
 对比	dui bi	4284
 对不	dui bu	353
 对骂	dui ma	143
-对吗	dui ma	4828311
+对吗	dui ma	4828318
 堆满	dui man	191
 对么	dui me	146
 对门	dui men	173
@@ -26221,7 +26221,7 @@ sort: by_weight
 那要	na yao	458
 那也	na ye	1100
 哪一	na yi	1500232
-那一	na yi	1500233
+那一	na yi	1500260
 那英	na ying	229
 那又	na you	181
 那有	na you	286
@@ -29191,7 +29191,7 @@ sort: by_weight
 高呼	gao hu	245
 搞活	gao huo	118
 告急	gao ji	176
-高级	gao ji	6906
+高级	gao ji	246011
 高架	gao jia	275
 高价	gao jia	1349
 高见	gao jian	173
@@ -31249,7 +31249,7 @@ sort: by_weight
 缓解	huan jie	2361
 环节	huan jie	3981
 幻境	huan jing	114
-环境	huan jing	664890
+环境	huan jing	664893
 换气	huan qi	164
 唤起	huan qi	382
 换钱	huan qian	106
@@ -31599,7 +31599,7 @@ sort: by_weight
 海参	hai shen	234
 还剩	hai sheng	525
 海事	hai shi	364
-还是	hai shi	664986
+还是	hai shi	664987
 还说	hai shuo	2926
 海水	hai shui	1027
 还让	hai rang	244
@@ -31703,7 +31703,7 @@ sort: by_weight
 喊声	han sheng	131
 韩式	han shi	153
 函授	han shou	172
-函数	han shu	664985
+函数	han shu	664989
 含税	han shui	232
 汗水	han shui	966
 汉人	han ren	470
@@ -34689,7 +34689,7 @@ sort: by_weight
 金曲	jin qu	204
 进取	jin qu	566
 禁区	jin qu	1366
-进去	jin qu	15117
+进去	jin qu	558519
 今夏	jin xia	196
 仅限	jin xian	206
 尽显	jin xian	322
@@ -36259,7 +36259,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	330925
+请你	qing ni	330926
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -38991,7 +38991,7 @@ sort: by_weight
 战果	zhan guo	165
 战国	zhan guo	387
 战况	zhan kuang	131
-展开	zhan kai	975009
+展开	zhan kai	975011
 战后	zhan hou	463
 斩获	zhan huo	123
 战火	zhan huo	335
@@ -39112,7 +39112,7 @@ sort: by_weight
 张华	zhang hua	153
 张海	zhang hai	186
 账号	zhang hao	1065
-帐号	zhang hao	975045
+帐号	zhang hao	975046
 张宏	zhang hong	110
 帐户	zhang hu	2119
 账户	zhang hu	4687
@@ -39309,7 +39309,7 @@ sort: by_weight
 折服	zhe fu	243
 这幅	zhe fu	331
 折断	zhe duan	253
-这段	zhe duan	975048
+这段	zhe duan	975130
 浙大	zhe da	646
 遮挡	zhe dang	304
 这倒	zhe dao	223
@@ -39333,14 +39333,14 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	974975
+这里	zhe li	975102
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	975131
+这个	zhe ge	975133
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -41006,7 +41006,7 @@ sort: by_weight
 查过	cha guo	221
 插卡	cha ka	120
 察看	cha kan	469
-查看	cha kan	126924
+查看	cha kan	126926
 插口	cha kou	174
 插孔	cha kong	144
 插花	cha hua	128
@@ -42776,7 +42776,7 @@ sort: by_weight
 设想	she xiang	1181249
 社长	she zhang	557
 摄制	she zhi	130
-设置	she zhi	1181213
+设置	she zhi	1181214
 设成	she cheng	174
 射程	she cheng	273
 奢侈	she chi	1193
@@ -43427,7 +43427,7 @@ sort: by_weight
 是件	shi jian	668
 世间	shi jian	1387
 实践	shi jian	7027
-事件	shi jian	13022
+事件	shi jian	1181289
 时间	shi jian	1181203
 市郊	shi jiao	149
 视角	shi jiao	1258
@@ -44150,7 +44150,7 @@ sort: by_weight
 说到	shuo dao	2442
 说道	shuo dao	3428
 说得	shuo de	2688
-说的	shuo de	1181288
+说的	shuo de	1181289
 说点	shuo dian	301
 说那	shuo na	170
 说呢	shuo ne	479
@@ -44807,7 +44807,7 @@ sort: by_weight
 乳化	ru hua	132
 如花	ru hua	466
 入海	ru hai	114
-如何	ru he	1500225
+如何	ru he	1500240
 入户	ru hu	440
 如火	ru huo	135
 入伙	ru huo	143
@@ -45569,7 +45569,7 @@ sort: by_weight
 总价	zong jia	686
 总监	zong jian	1723
 宗教	zong jiao	2488
-总结	zong jie	7142
+总结	zong jie	975062
 总局	zong ju	727
 纵情	zong qing	115
 总线	zong xian	666
@@ -47489,7 +47489,7 @@ sort: by_weight
 云飞	yun fei	245
 运费	yun fei	1815
 孕妇	yun fu	1691
-云端	yun duan	180
+云端	yun duan	614038
 运到	yun dao	321
 晕倒	yun dao	2590
 运动	yun dong	11186
@@ -48468,7 +48468,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614062
+一个	yi ge	614064
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -49108,7 +49108,7 @@ sort: by_weight
 盈利	ying li	3157
 影楼	ying lou	238
 荧光	ying guang	390
-应该	ying gai	614063
+应该	ying gai	614065
 英国	ying guo	373898
 营口	ying kou	179
 盈亏	ying kui	239
@@ -50339,7 +50339,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	31932
+文件	wen jian	31934
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -50718,7 +50718,7 @@ sort: by_weight
 我跟	wo gen	1517
 我更	wo geng	416
 我国	wo guo	22844
-我看	wo kan	4588
+我看	wo kan	1192949
 我可	wo ke	750
 倭寇	wo kou	169
 我还	wo hai	19116
@@ -54567,7 +54567,7 @@ sort: by_weight
 口水战	kou shui zhan	107
 恐怖片	kong bu pian	497
 空荡荡	kong dang dang	277
-空间站	kong jian zhan	223
+空间站	kong jian zhan	224
 恐惧感	kong ju gan	117
 恐惧症	kong ju zheng	110
 控制台	kong zhi tai	467
@@ -57108,7 +57108,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	1181253
+是不是	shi bu shi	1181254
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
@@ -61382,7 +61382,7 @@ sort: by_weight
 换届选举	huan jie xuan ju	231
 缓解压力	huan jie ya li	203
 环境保护	huan jing bao hu	1156
-环境变量	huan jing bian liang	142
+环境变量	huan jing bian liang	143
 环境条件	huan jing tiao jian	115
 环境监测	huan jing jian ce	136
 环境质量	huan jing zhi liang	177
