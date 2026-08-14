@@ -16,7 +16,9 @@ sort: by_weight
 
 
 
-怎么填	zheng mo tian	1
+
+选一个	xuan yi ge	1
+怎么填	zheng mo tian	110
 怎么配置	zheng mo pei zhi	2
 快捷指令	kuai jie zhi lin	2
 命名	min min	1
@@ -411,7 +413,7 @@ sort: by_weight
 都可以	dou ke yi	4828374
 不就是	bu jiu shi	200
 房颤	fang can	200
-微信	wei xin	1192913
+微信	wei xin	1192914
 下行	xia hang	200
 上行	shang hang	200
 内间距	nei jian ju	200
@@ -465,7 +467,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614068
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181259
+上面说的	shang mian shuo de	1181260
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -8511,7 +8513,7 @@ sort: by_weight
 键	jian	26270
 剑	jian	5532
 件	jian	7286
-建	jian	26269
+建	jian	26272
 间	jian	26271
 见	jian	26266
 鱎	jiao	0
@@ -9419,7 +9421,7 @@ sort: by_weight
 器	qi	330916
 气	qi	9442
 期	qi	9716
-起	qi	29383
+起	qi	330917
 其	qi	58168
 酠	qia	1
 殎	qia	1
@@ -25169,7 +25171,7 @@ sort: by_weight
 提神	ti shen	182
 替身	ti shen	291
 提升	ti sheng	9608
-提示	ti shi	343924
+提示	ti shi	343927
 替人	ti ren	116
 提早	ti zao	578
 蹄子	ti zi	106
@@ -25261,7 +25263,7 @@ sort: by_weight
 天极	tian ji	297
 天际	tian ji	18465
 天价	tian jia	543
-添加	tian jia	18491
+添加	tian jia	18492
 田间	tian jian	472
 天骄	tian jiao	181
 天降	tian jiang	117
@@ -26141,7 +26143,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	1500263
+哪里	na li	1500264
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -28225,7 +28227,7 @@ sort: by_weight
 领用	ling yong	212
 领驭	ling yu	106
 领域	ling yu	12236
-另外	ling wai	20296
+另外	ling wai	20297
 令我	ling wo	1092
 领悟	ling wu	811
 灵儿	ling er	282
@@ -30797,7 +30799,7 @@ sort: by_weight
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
-可用	ke yong	2491
+可用	ke yong	304503
 课余	ke yu	169
 可与	ke yu	324
 课外	ke wai	286
@@ -31620,7 +31622,7 @@ sort: by_weight
 海岩	hai yan	207
 海燕	hai yan	259
 海洋	hai yang	2632
-还要	hai yao	86141
+还要	hai yao	664972
 还以	hai yi	255
 还应	hai ying	499
 还有	hai you	664971
@@ -32585,7 +32587,7 @@ sort: by_weight
 火气	huo qi	383
 火枪	huo qiang	207
 火球	huo qiu	277
-获取	huo qu	23048
+获取	huo qu	23049
 活血	huo xue	327
 获悉	huo xi	1838
 火线	huo xian	179
@@ -35519,7 +35521,7 @@ sort: by_weight
 群体	qun ti	3625
 群内	qun nei	106
 群里	qun li	1804
-群聊	qun liao	116
+群聊	qun liao	37940
 群落	qun luo	200
 群号	qun hao	194
 群集	qun ji	142
@@ -35775,7 +35777,7 @@ sort: by_weight
 欺压	qi ya	142
 气压	qi ya	244
 七夜	qi ye	111
-企业	qi ye	330884
+企业	qi ye	330886
 其意	qi yi	109
 歧义	qi yi	226
 其一	qi yi	364
@@ -40220,7 +40222,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	975057
+只有	zhi you	975100
 之用	zhi yong	469
 只用	zhi yong	131089
 之语	zhi yu	148
@@ -40902,7 +40904,7 @@ sort: by_weight
 创刊	chuang kan	137
 窗口	chuang kou	126922
 窗户	chuang hu	126941
-创建	chuang jian	126933
+创建	chuang jian	126939
 闯进	chuang jin	311
 创举	chuang ju	129
 床前	chuang qian	197
@@ -45134,7 +45136,7 @@ sort: by_weight
 赞扬	zan yang	628
 赞誉	zan yu	345
 暂未	zan wei	320
-暂无	zan wu	539
+暂无	zan wu	974985
 藏民	zang min	153
 脏腑	zang fu	140
 葬礼	zang li	355
@@ -45370,7 +45372,7 @@ sort: by_weight
 自觉	zi jue	2735
 子集	zi ji	112
 字迹	zi ji	251
-自己	zi ji	975061
+自己	zi ji	975064
 自驾	zi jia	260
 自家	zi jia	1157
 自荐	zi jian	156
@@ -48468,7 +48470,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614064
+一个	yi ge	614067
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -55009,7 +55011,7 @@ sort: by_weight
 几句话	ji ju hua	665
 机器猫	ji qi mao	345
 及其它	ji qi ta	447
-机器人	ji qi ren	2013
+机器人	ji qi ren	2016
 几千年	ji qian nian	609
 几千万	ji qian wan	314
 激情戏	ji qing xi	171
