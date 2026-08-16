@@ -16,7 +16,7 @@ sort: by_weight
 
 
 
-
+换了一下	huan le yi xia	1
 键名	jian min	1
 换行符	huan hang fu	2
 包名	bao min	22653
@@ -473,7 +473,7 @@ sort: by_weight
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
 上面的	shang mian de	1181290
-其中的	qi zong de	463
+其中的	qi zong de	464
 花括号	hua kuo hao	201
 可以了	ke yi le	205
 就好了	jiu hao le	200
@@ -505,7 +505,7 @@ sort: by_weight
 选择范围	xuan zhe fan wei	200
 是什么原因	si sheng mo yuan yin	101
 韵母	yun mu	14733
-换一下	huan yi xia	100
+换一下	huan yi xia	102
 小方块	xiao fang kuai	200
 硬删除	yin san chua	207
 软删除	ruan san chu	136
@@ -525,9 +525,9 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	974983
-是什么	shi sheng mo	1181310
+是什么	shi sheng mo	1181311
 简拼	jian pin	4632
-安卓	an zhuo	83840
+安卓	an zhuo	83841
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -570,7 +570,7 @@ sort: by_weight
 巴	ba	3193
 爸	ba	3625
 八	ba	6677
-把	ba	590752
+把	ba	590757
 吧	ba	590743
 竡	bai	0
 拝	bai	2
@@ -3155,7 +3155,7 @@ sort: by_weight
 德	de	7178
 地	de	4828408
 得	de	4828425
-的	de	4828449
+的	de	4828452
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -6351,7 +6351,7 @@ sort: by_weight
 哏	gen	64
 艮	gen	159
 根	gen	6854
-跟	gen	245988
+跟	gen	246030
 鶊	geng	0
 菮	geng	0
 骾	geng	0
@@ -7528,7 +7528,7 @@ sort: by_weight
 合	he	664921
 何	he	6636
 喝	he	15293
-和	he	664992
+和	he	664994
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -13926,7 +13926,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975110
-在	zai	975111
+在	zai	975159
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -20883,7 +20883,7 @@ sort: by_weight
 迷惘	mi wang	360
 迷雾	mi wu	296
 米尔	mi er	168
-面板	mian ban	325655
+面板	mian ban	325656
 面包	mian bao	325600
 棉被	mian bei	219
 面壁	mian bi	171
@@ -22318,7 +22318,7 @@ sort: by_weight
 父皇	fu huang	122
 富含	fu han	549
 富豪	fu hao	997
-符号	fu hao	69554
+符号	fu hao	69557
 附和	fu he	220
 复核	fu he	423
 负荷	fu he	1007
@@ -29490,7 +29490,7 @@ sort: by_weight
 更能	geng neng	1081
 更令	geng ling	154
 更广	geng guang	200
-更改	geng gai	246001
+更改	geng gai	246003
 更高	geng gao	245999
 更贵	geng gui	152
 更快	geng kuai	1467
@@ -30929,7 +30929,7 @@ sort: by_weight
 恐龙	kong long	1157
 空港	kong gang	158
 控告	kong gao	238
-空格	kong ge	8657
+空格	kong ge	304495
 控股	kong gu	1824
 空旷	kong kuang	367
 空壳	kong ke	117
@@ -31329,7 +31329,7 @@ sort: by_weight
 还原	huan yuan	1689
 环氧	huan yang	106
 换药	huan yao	112
-换衣	huan yi	86133
+换衣	huan yi	664975
 幻影	huan ying	424
 欢迎	huan ying	11728
 还有	huan you	243
@@ -36293,7 +36293,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	330931
+请你	qing ni	330932
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -36730,7 +36730,7 @@ sort: by_weight
 宣战	xuan zhan	196
 悬着	xuan zhe	206
 选址	xuan zhi	499
-选中	xuan zhong	246525
+选中	xuan zhong	246526
 宣传	xuan chuan	11468
 宣称	xuan cheng	990
 选出	xuan chu	857
@@ -37441,7 +37441,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246524
+现在	xian zai	246527
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -39374,7 +39374,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	267
 这歌	zhe ge	288
-这个	zhe ge	975157
+这个	zhe ge	975158
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -44144,9 +44144,9 @@ sort: by_weight
 熟人	shu ren	1146
 数日	shu ri	229
 殊荣	shu rong	291
-输入	shu ru	1181185
+输入	shu ru	1181186
 梳子	shu zi	269
-数字	shu zi	1181092
+数字	shu zi	1181216
 数组	shu zu	1152
 赎罪	shu zui	132
 蔬菜	shu cai	54050
@@ -44407,7 +44407,7 @@ sort: by_weight
 燃放	ran fang	195
 染料	ran liao	316
 燃料	ran liao	1045
-然后	ran hou	1500239
+然后	ran hou	1500268
 染红	ran hong	141
 燃起	ran qi	264
 燃气	ran qi	699
@@ -45350,7 +45350,7 @@ sort: by_weight
 自明	zi ming	127
 自摸	zi mo	181
 字幕	zi mu	1983
-字母	zi mu	975018
+字母	zi mu	975022
 自发	zi fa	819
 自焚	zi fen	148
 自费	zi fei	520
@@ -50609,7 +50609,7 @@ sort: by_weight
 为之	wei zhi	1493
 未知	wei zhi	1521
 为止	wei zhi	2580
-位置	wei zhi	38423
+位置	wei zhi	1192963
 为重	wei zhong	303
 围住	wei zhu	183
 为主	wei zhu	7204
