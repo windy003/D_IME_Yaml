@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-下面的	xia mian de	1
+测不出	che bu chu	1
+下面的	xia mian de	2
 柱状图	zhu zhuang tu	2
 柱状	zhu zhuang	1
 拿上来	na shang lai	1
@@ -404,7 +404,7 @@ sort: by_weight
 有多少	you duo sao	1034
 怎么会是	zheng mo hui shi	1839
 怎么会	zheng mo hui	1319
-有问题	you wen ti	200
+有问题	you wen ti	201
 八进制	ba jin zhi	200
 十六进制	shi liu jin zhi	202
 十进制	shi jin zhi	1285
@@ -542,7 +542,7 @@ sort: by_weight
 候选框	hou xuan kuang	535
 常用语	chang yong yu	322
 一定	yi din	614042
-这样子	zhe yang zhi	974984
+这样子	zhe yang zhi	974985
 是什么	shi sheng mo	1181311
 简拼	jian pin	4632
 安卓	an zhuo	83841
@@ -13481,7 +13481,7 @@ sort: by_weight
 市	shi	18050
 使	shi	34422
 事	shi	1181287
-时	shi	1181268
+时	shi	1181315
 是	shi	1181314
 獣	shou	4
 綬	shou	5
@@ -19436,7 +19436,7 @@ sort: by_weight
 不输	bu shu	133
 部属	bu shu	161
 不熟	bu shu	736
-部署	bu shu	590720
+部署	bu shu	590722
 不说	bu shuo	6586
 补水	bu shui	402
 不睡	bu shui	647
@@ -21453,7 +21453,7 @@ sort: by_weight
 法学	fa xue	675
 法系	fa xi	234
 罚下	fa xia	148
-发现	fa xian	50636
+发现	fa xian	50637
 发笑	fa xiao	174
 发些	fa xie	119
 发泄	fa xie	1674
@@ -21848,7 +21848,7 @@ sort: by_weight
 放映	fang ying	622
 防御	fang yu	2551
 放完	fang wan	38558
-访问	fang wen	69595
+访问	fang wen	69597
 防卫	fang wei	362
 防伪	fang wei	428
 方位	fang wei	649
@@ -23024,7 +23024,7 @@ sort: by_weight
 带兵	dai bing	118
 代步	dai bu	152
 逮捕	dai bu	800
-代码	dai ma	4828321
+代码	dai ma	4828322
 怠慢	dai man	186
 待命	dai ming	232
 代发	dai fa	146
@@ -23756,7 +23756,7 @@ sort: by_weight
 地震	di zhen	4745
 地质	di zhi	1066
 抵制	di zhi	1483
-地址	di zhi	4828376
+地址	di zhi	4828377
 地主	di zhu	938
 地产	di chan	2883
 低潮	di chao	184
@@ -25763,7 +25763,7 @@ sort: by_weight
 同感	tong gan	744
 通告	tong gao	815
 童工	tong gong	145
-通过	tong guo	343937
+通过	tong guo	343938
 铜矿	tong kuang	227
 痛快	tong kuai	874
 统考	tong kao	215
@@ -28326,7 +28326,7 @@ sort: by_weight
 流连	liu lian	219
 榴莲	liu lian	219
 留恋	liu lian	712
-流量	liu liang	3892
+流量	liu liang	14178
 溜溜	liu liu	208
 六楼	liu lou	197
 流露	liu lu	404
@@ -37890,7 +37890,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246516
+项目	xiang mu	246517
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -42809,7 +42809,7 @@ sort: by_weight
 社会	she hui	1181177
 射击	she ji	993
 涉及	she ji	7620
-设计	she ji	1181313
+设计	she ji	1181314
 射箭	she jian	189
 舌尖	she jian	195
 社交	she jiao	668
@@ -43535,7 +43535,7 @@ sort: by_weight
 时限	shi xian	470
 视线	shi xian	1431
 事先	shi xian	2183
-实现	shi xian	1181310
+实现	shi xian	1181311
 时效	shi xiao	258
 实效	shi xiao	492
 失效	shi xiao	1015
@@ -43892,7 +43892,7 @@ sort: by_weight
 守军	shou jun	105
 手记	shou ji	234
 收集	shou ji	4781
-手机	shou ji	1181309
+手机	shou ji	1181315
 首家	shou jia	758
 售价	shou jia	2119
 收件	shou jian	181
@@ -48242,7 +48242,7 @@ sort: by_weight
 野生	ye sheng	62388
 夜市	ye shi	287
 也使	ye shi	511
-也是	ye shi	614059
+也是	ye shi	614064
 页首	ye shou	168
 野兽	ye shou	654
 页数	ye shu	178
@@ -48418,7 +48418,7 @@ sort: by_weight
 异动	yi dong	240
 一动	yi dong	438
 一栋	yi dong	523
-移动	yi dong	56138
+移动	yi dong	614046
 一睹	yi du	194
 一度	yi du	2433
 亿多	yi duo	189
@@ -50273,7 +50273,7 @@ sort: by_weight
 网赚	wang zhuan	273
 网状	wang zhuang	155
 网摘	wang zhai	154
-网站	wang zhan	1192960
+网站	wang zhan	1192964
 王者	wang zhe	847
 望着	wang zhe	2494
 王振	wang zhen	123
@@ -57160,7 +57160,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	1181256
+是不是	shi bu shi	1181257
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
