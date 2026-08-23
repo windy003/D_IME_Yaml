@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-有电源吗	you dian yuan ma	1
+有吗	you ma	1
+有电源吗	you dian yuan ma	614102
 还有吗	hai you ma	665012
 同意一下	tong yi yi xia	1
 怎么设置	zheng mo se zhi	1
@@ -29,7 +29,7 @@ sort: by_weight
 标签组	biao qian zhu	4
 洗脸盆	xi lian peng	1
 在这里	zai zhe li	1
-能发货吗	neng fa huo ma	1500283
+能发货吗	neng fa huo ma	1500285
 虹吸	hong xi	665002
 坐便器	zuo bian qi	975188
 电赞	dian zhan	1
@@ -99,7 +99,7 @@ sort: by_weight
 授权码	sou quan ma	1
 增删改查	zheng san gai ca	2
 国行的	guo hang de	1
-国行	guo hang	245988
+国行	guo hang	246041
 现在的	xian zai de	1505
 选一个	xuan yi ge	203
 怎么填	zheng mo tian	110
@@ -445,7 +445,7 @@ sort: by_weight
 机器码	ji qi ma	346
 不需要	bu xu yao	200
 在这里	zai zhe li	975116
-这段文字中的	zhe duan wen zhi zong de	975119
+这段文字中的	zhe duan wen zhi zong de	975204
 开恩	kai en	304455
 单个	dan ge	100
 我可以	wo ke yi	200
@@ -517,7 +517,7 @@ sort: by_weight
 是一个	shi yi ge	208
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	540
-在不	zai bu	975203
+在不	zai bu	975205
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	101
 父神	fu sheng	69592
@@ -577,7 +577,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	974991
-是什么	shi sheng mo	1181344
+是什么	shi sheng mo	1181348
 简拼	jian pin	4632
 安卓	an zhuo	83841
 就这样子	jiu zhe yang zhi	100
@@ -21470,7 +21470,7 @@ sort: by_weight
 发黑	fa hei	182
 发红	fa hong	221
 发火	fa huo	533
-发货	fa huo	69551
+发货	fa huo	69604
 发回	fa hui	213
 发挥	fa hui	8783
 发掘	fa jue	1260
@@ -49320,7 +49320,7 @@ sort: by_weight
 诱骗	you pian	129
 邮票	you piao	660
 油品	you pin	249
-邮码	you ma	162
+邮码	you ma	614103
 友们	you men	278
 油门	you men	544
 由美	you mei	242
@@ -50865,7 +50865,7 @@ sort: by_weight
 我所	wo suo	1022
 我愿	wo yuan	305
 我院	wo yuan	691
-我要	wo yao	1192882
+我要	wo yao	1192978
 我也	wo ye	1192885
 我已	wo yi	624
 我一	wo yi	19518
