@@ -16,7 +16,7 @@ sort: by_weight
 
 
 
-悬停	xuan tin	1
+
 基带	ji dai	1
 待做	dai zuo	1
 同意下	tong yi xia	343971
@@ -4259,7 +4259,7 @@ sort: by_weight
 亭	ting	1344
 庭	ting	1513
 厅	ting	2289
-停	ting	343981
+停	ting	343982
 挺	ting	20754
 听	ting	31156
 埱	tou	0
@@ -5181,7 +5181,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	6513
-了	le	1500317
+了	le	1500318
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -5607,7 +5607,7 @@ sort: by_weight
 凉	liang	2197
 良	liang	16586
 梁	liang	4148
-亮	liang	1500279
+亮	liang	1500319
 量	liang	1500205
 两	liang	1500202
 犣	lie	0
@@ -8625,7 +8625,7 @@ sort: by_weight
 贱	jian	2026
 减	jian	2548
 兼	jian	3049
-键	jian	558563
+键	jian	558564
 剑	jian	5532
 件	jian	558540
 建	jian	26272
@@ -10195,7 +10195,7 @@ sort: by_weight
 萱	xuan	370
 炫	xuan	617
 旋	xuan	821
-悬	xuan	246591
+悬	xuan	246592
 宣	xuan	1075
 轩	xuan	13706
 玄	xuan	1613
@@ -15807,7 +15807,7 @@ sort: by_weight
 腰	yao	2606
 咬	yao	3558
 药	yao	613931
-要	yao	614138
+要	yao	614163
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -17438,7 +17438,7 @@ sort: by_weight
 案	an	4805
 安	an	25813
 俺	an	16897
-按	an	83850
+按	an	83863
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -18786,7 +18786,7 @@ sort: by_weight
 便成	bian cheng	173
 编成	bian cheng	183
 编程	bian cheng	2937
-变成	bian cheng	590717
+变成	bian cheng	590718
 边吃	bian chi	230
 边上	bian shang	2023
 变身	bian shen	688
@@ -28139,7 +28139,7 @@ sort: by_weight
 粮草	liang cao	107
 两侧	liang ce	1308
 两层	liang ceng	498
-两次	liang ci	5902
+两次	liang ci	7189
 两三	liang san	804
 两艘	liang sou	107
 两岁	liang sui	373
@@ -33877,7 +33877,7 @@ sort: by_weight
 坚挺	jian ting	420
 监听	jian ting	494
 肩头	jian tou	263
-箭头	jian tou	558533
+箭头	jian tou	558534
 减退	jian tui	333
 艰难	jian nan	2244
 见你	jian ni	655
@@ -37524,7 +37524,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246546
+现在	xian zai	246547
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -42149,7 +42149,7 @@ sort: by_weight
 初夏	chu xia	189
 初现	chu xian	110
 出线	chu xian	639
-出现	chu xian	126958
+出现	chu xian	126971
 出血	chu xie	181
 出新	chu xin	249
 雏形	chu xing	292
@@ -58812,7 +58812,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1192989
+为什么	wei shen me	1192990
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
