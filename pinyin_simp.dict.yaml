@@ -4,7 +4,7 @@
 # A minimal Pinyin dictionary for simplified Chinese script
 #
 # Derived from android open source project:
-# http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.git
+# http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.
 #
  
 ---
@@ -19,8 +19,8 @@ sort: by_weight
 
 
 
-
-花洒	hua sa	1
+竹席	zhu xi	1
+花洒	hua sa	665090
 二选一	er xuan yi	1
 秉公办事	bin gong ban shi	1
 秉公	bin gong	1
@@ -573,7 +573,7 @@ sort: by_weight
 是一个	shi yi ge	208
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	540
-在不	zai bu	975281
+在不	zai bu	975347
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	101
 父神	fu sheng	69592
@@ -619,7 +619,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	159
-是什么意思	shi sheng mo yi si	1181401
+是什么意思	shi sheng mo yi si	1181469
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -3263,7 +3263,7 @@ sort: by_weight
 德	de	7178
 地	de	4828478
 得	de	4828425
-的	de	4828731
+的	de	4828733
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4219,7 +4219,7 @@ sort: by_weight
 苕	tiao	42
 眺	tiao	430
 挑	tiao	4515
-调	tiao	12499
+调	tiao	343993
 跳	tiao	7089
 条	tiao	343979
 驖	tie	0
@@ -4525,7 +4525,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	1500323
-那	na	1500325
+那	na	1500332
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -12273,7 +12273,7 @@ sort: by_weight
 助	zhu	1559
 珠	zhu	1777
 驻	zhu	2132
-竹	zhu	975033
+竹	zhu	975349
 注	zhu	2808
 煮	zhu	2836
 著	zhu	3225
@@ -23470,7 +23470,7 @@ sort: by_weight
 到第	dao di	205
 倒地	dao di	411
 到底	dao di	4828487
-导电	dao dian	4828510
+导电	dao dian	4828732
 倒掉	dao diao	181
 导读	dao du	171
 到他	dao ta	609
@@ -25495,7 +25495,7 @@ sort: by_weight
 条幅	tiao fu	161
 调到	tiao dao	315
 跳到	tiao dao	538
-跳得	tiao de	183
+跳得	tiao de	343992
 调低	tiao di	273
 挑逗	tiao dou	512
 跳动	tiao dong	586
@@ -26283,7 +26283,7 @@ sort: by_weight
 拿来	na lai	2445
 纳兰	na lan	263
 那里	na li	33200
-哪里	na li	1500322
+哪里	na li	1500333
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -40789,7 +40789,7 @@ sort: by_weight
 朱雀	zhu que	218
 助学	zhu xue	400
 朱熹	zhu xi	154
-主席	zhu xi	5409
+主席	zhu xi	975348
 住下	zhu xia	151
 主线	zhu xian	781
 诛仙	zhu xian	843
@@ -41033,7 +41033,7 @@ sort: by_weight
 创面	chuang mian	135
 床单	chuang dan	446
 闯荡	chuang dang	271
-床垫	chuang dian	303
+床垫	chuang dian	126997
 窗台	chuang tai	351
 窗体	chuang ti	467
 创投	chuang tou	298
@@ -42224,8 +42224,8 @@ sort: by_weight
 触手	chu shou	106
 出手	chu shou	2208
 出售	chu shou	4284
-出书	chu shu	451
-出水	chu shui	304
+出书	chu shu	126995
+出水	chu shui	126996
 出让	chu rang	727
 出任	chu ren	918
 出入	chu ru	1208
@@ -44518,7 +44518,7 @@ sort: by_weight
 然后	ran hou	1500275
 染红	ran hong	141
 燃起	ran qi	264
-燃气	ran qi	1500269
+燃气	ran qi	1500300
 染指	ran zhi	106
 染成	ran cheng	127
 染上	ran shang	314
@@ -50440,7 +50440,7 @@ sort: by_weight
 文帝	wen di	105
 问鼎	wen ding	140
 稳定	wen ding	1192991
-温度	wen du	5108
+温度	wen du	1193035
 问他	wen ta	1899
 稳态	wen tai	107
 文坛	wen tan	322
@@ -57548,7 +57548,7 @@ sort: by_weight
 热心人	re xin ren	111
 热处理	re chu li	201
 热身赛	re shen sai	247
-热水器	re shui qi	738
+热水器	re shui qi	1500301
 忍不住	ren bu zhu	3095
 认不出	ren bu chu	178
 人民币	ren min bi	6408
