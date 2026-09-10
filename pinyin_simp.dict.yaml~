@@ -17,6 +17,8 @@ sort: by_weight
 
 
 
+海飞丝	hai fei si	1
+计划任务	ji hua leng wu	1
 避风港	bi feng gang	1
 饶恕	lao shu	1
 自启动	zhi qi dong	1
@@ -1359,7 +1361,7 @@ sort: by_weight
 簿	bu	293
 捕	bu	420
 卜	bu	487
-步	bu	3931
+步	bu	590872
 布	bu	4781
 补	bu	590769
 部	bu	13825
@@ -33370,7 +33372,7 @@ sort: by_weight
 击溃	ji kui	127
 极化	ji hua	117
 激化	ji hua	276
-计划	ji hua	558523
+计划	ji hua	558516
 疾患	ji huan	190
 饥荒	ji huang	146
 几行	ji hang	175
@@ -33718,7 +33720,7 @@ sort: by_weight
 架空	jia kong	209
 佳话	jia hua	130
 嘉华	jia hua	175
-假话	jia hua	558521
+假话	jia hua	398
 加号	jia hao	105
 嘉禾	jia he	164
 加厚	jia hou	117
@@ -42827,7 +42829,7 @@ sort: by_weight
 商业	shang ye	1181077
 上亿	shang yi	193
 商议	shang yi	394
-上一	shang yi	1181378
+上一	shang yi	1181494
 上衣	shang yi	748
 上瘾	shang yin	518
 上映	shang ying	1179
@@ -44805,8 +44807,8 @@ sort: by_weight
 人为	ren wei	1341
 认为	ren wei	250298
 人无	ren wu	131
-人物	ren wu	1500333
-任务	ren wu	1500334
+人物	ren wu	250299
+任务	ren wu	38604
 人啊	ren a	743
 仁爱	ren ai	147
 人儿	ren er	175
