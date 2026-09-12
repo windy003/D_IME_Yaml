@@ -18,6 +18,8 @@ sort: by_weight
 
 
 
+
+求主	qiu zhu	1
 有结果	you jie guo	1
 有结果吗	you jie guo ma	1
 方法签名	fang fa qian min	1
@@ -3330,7 +3332,7 @@ sort: by_weight
 凳	deng	147
 蹬	deng	391
 瞪	deng	457
-邓	deng	2554
+邓	deng	4828857
 登	deng	3026
 灯	deng	4376
 等	deng	4828810
@@ -3474,7 +3476,7 @@ sort: by_weight
 殿	dian	1153
 电	dian	6752
 店	dian	4828528
-点	dian	4828853
+点	dian	4828859
 窵	diao	0
 奝	diao	0
 簓	diao	0
@@ -10100,7 +10102,7 @@ sort: by_weight
 丘	qiu	725
 邱	qiu	1432
 秋	qiu	330920
-求	qiu	330965
+求	qiu	330968
 球	qiu	8740
 斪	qu	0
 坥	qu	0
@@ -12092,7 +12094,7 @@ sort: by_weight
 纸	zhi	3607
 制	zhi	4902
 直	zhi	5038
-知	zhi	975003
+知	zhi	975407
 指	zhi	8783
 值	zhi	975287
 至	zhi	17782
@@ -12328,7 +12330,7 @@ sort: by_weight
 朱	zhu	5587
 主	zhu	975389
 猪	zhu	15935
-住	zhu	975397
+住	zhu	975408
 鵫	zhuo	0
 蓔	zhuo	0
 硺	zhuo	0
@@ -13080,7 +13082,7 @@ sort: by_weight
 捶	chui	237
 锤	chui	581
 垂	chui	773
-吹	chui	5133
+吹	chui	127014
 唰	shua	92
 耍	shua	5269
 刷	shua	1181165
@@ -13430,7 +13432,7 @@ sort: by_weight
 甚	shen	2161
 身	shen	5764
 沈	shen	6710
-深	shen	1181180
+深	shen	1181533
 神	shen	9418
 鵿	sheng	0
 曻	sheng	0
@@ -17287,7 +17289,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193069
+我	wo	1193077
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -17421,7 +17423,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	83894
+啊	a	83896
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -23769,7 +23771,7 @@ sort: by_weight
 等人	deng ren	2382
 登入	deng ru	317
 登载	deng zai	184
-凳子	deng zi	540
+凳子	deng zi	4828858
 等死	deng si	215
 登月	deng yue	137
 等于	deng yu	4338
@@ -32582,7 +32584,7 @@ sort: by_weight
 洪灾	hong zai	144
 红枣	hong zao	310
 红字	hong zi	239
-红色	hong se	665033
+红色	hong se	665119
 宏远	hong yuan	135
 红云	hong yun	110
 红晕	hong yun	129
@@ -46075,7 +46077,7 @@ sort: by_weight
 最受	zui shou	494
 最让	zui rang	146
 最热	zui re	255
-罪人	zui ren	975388
+罪人	zui ren	975406
 醉人	zui ren	338
 最早	zui zao	2350
 最最	zui zui	611
@@ -50975,7 +50977,7 @@ sort: by_weight
 握有	wo you	116
 我又	wo you	3225
 我有	wo you	1192997
-我用	wo yong	1192989
+我用	wo yong	1193075
 我往	wo wang	105
 我问	wo wen	1212
 我为	wo wei	113
@@ -58948,7 +58950,7 @@ sort: by_weight
 我承认	wo cheng ren	521
 我是你	wo shi ni	240
 卧室里	wo shi li	131
-我是个	wo shi ge	1193056
+我是个	wo shi ge	1193076
 我是谁	wo shi shui	2222
 我说过	wo shuo guo	384
 我说我	wo shuo wo	501
@@ -64491,7 +64493,7 @@ sort: by_weight
 怎么办啊	zen me ban a	245
 怎么能够	zen me neng gou	169
 怎么可能	zen me ke neng	1054
-怎么回事	zen me hui shi	1841
+怎么回事	zen me hui shi	975405
 怎么解决	zen me jie jue	196
 怎么这么	zen me zhe me	656
 怎么处理	zen me chu li	212
