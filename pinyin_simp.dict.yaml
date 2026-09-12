@@ -16,9 +16,9 @@ sort: by_weight
 
 
 
-
+玩腻	wan ni	1
 回环	hui huan	1
-回环地址	hui huan di zhi	1
+回环地址	hui huan di zhi	2
 求主	qiu zhu	1
 有结果	you jie guo	1
 有结果吗	you jie guo ma	1
@@ -629,7 +629,7 @@ sort: by_weight
 刷新	sua xin	1181491
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
-上面的	shang mian de	1181489
+上面的	shang mian de	1181490
 其中的	qi zong de	464
 花括号	hua kuo hao	201
 可以了	ke yi le	206
@@ -682,7 +682,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	975364
-是什么	shi sheng mo	1181414
+是什么	shi sheng mo	1181415
 简拼	jian pin	4632
 安卓	an zhuo	83881
 就这样子	jiu zhe yang zhi	100
@@ -1950,7 +1950,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325756
+吗	ma	325757
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3312,7 +3312,7 @@ sort: by_weight
 德	de	7178
 地	de	4828478
 得	de	4828778
-的	de	4828856
+的	de	4828860
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4734,7 +4734,7 @@ sort: by_weight
 昵	ni	164
 倪	ni	894
 逆	ni	981
-腻	ni	1500211
+腻	ni	1500371
 妮	ni	1163
 妳	ni	1751
 泥	ni	1944
@@ -13823,7 +13823,7 @@ sort: by_weight
 娆	rao	43
 桡	rao	53
 扰	rao	358
-饶	rao	1500330
+饶	rao	1500332
 绕	rao	1854
 喏	re	9
 熱	re	48
@@ -16985,7 +16985,7 @@ sort: by_weight
 晚	wan	1192958
 完	wan	24072
 万	wan	1192998
-玩	wan	1192955
+玩	wan	1193079
 瀇	wang	0
 輞	wang	0
 菵	wang	1
@@ -47292,7 +47292,7 @@ sort: by_weight
 缩小	suo xiao	1181314
 所想	suo xiang	366
 所写	suo xie	389
-缩写	suo xie	1181248
+缩写	suo xie	1181495
 所幸	suo xing	245
 索性	suo xing	769
 所需	suo xu	2665
@@ -48381,7 +48381,7 @@ sort: by_weight
 野生	ye sheng	62388
 夜市	ye shi	287
 也使	ye shi	511
-也是	ye shi	614124
+也是	ye shi	614130
 页首	ye shou	168
 野兽	ye shou	654
 页数	ye shu	178
