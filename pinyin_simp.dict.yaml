@@ -16,6 +16,8 @@ sort: by_weight
 
 
 
+
+百叶帘	bai ye lian	1
 玩腻	wan ni	1
 回环	hui huan	1
 回环地址	hui huan di zhi	2
@@ -749,7 +751,7 @@ sort: by_weight
 拜	bai	2033
 摆	bai	2364
 百	bai	4588
-白	bai	15236
+白	bai	590875
 斒	ban	0
 魬	ban	0
 螁	ban	0
@@ -1950,7 +1952,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325757
+吗	ma	325758
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3312,7 +3314,7 @@ sort: by_weight
 德	de	7178
 地	de	4828478
 得	de	4828778
-的	de	4828860
+的	de	4828861
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -9742,7 +9744,7 @@ sort: by_weight
 签	qian	4658
 千	qian	330889
 前	qian	330951
-钱	qian	330925
+钱	qian	330969
 郻	qiao	0
 頝	qiao	0
 踍	qiao	0
@@ -13621,7 +13623,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181516
-是	shi	1181532
+是	shi	1181534
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -17244,7 +17246,7 @@ sort: by_weight
 味	wei	3099
 喂	wei	3754
 位	wei	1193032
-未	wei	1193073
+未	wei	1193080
 为	wei	1193066
 薶	wo	0
 捰	wo	0
@@ -23647,7 +23649,7 @@ sort: by_weight
 的大	de da	1363
 得当	de dang	313
 得道	de dao	133
-得到	de dao	29752
+得到	de dao	4828776
 得得	de de	122
 的第	de di	2238
 得多	de duo	3037
@@ -31894,7 +31896,7 @@ sort: by_weight
 喊声	han sheng	131
 韩式	han shi	153
 函授	han shou	172
-函数	han shu	665103
+函数	han shu	665120
 含税	han shui	232
 汗水	han shui	966
 汉人	han ren	470
@@ -40029,7 +40031,7 @@ sort: by_weight
 之道	zhi dao	1252
 直到	zhi dao	6127
 指导	zhi dao	8377
-知道	zhi dao	975368
+知道	zhi dao	975397
 质的	zhi de	341
 只得	zhi de	948
 值得	zhi de	975371
@@ -45517,7 +45519,7 @@ sort: by_weight
 字段	zi duan	974850
 自打	zi da	149
 自大	zi da	280
-自带	zi dai	975396
+自带	zi dai	975398
 自担	zi dan	532
 子弹	zi dan	1118
 自导	zi dao	121
@@ -51436,7 +51438,7 @@ sort: by_weight
 岸边	an bian	466
 安排	an pai	17388
 俺们	an men	1368
-按摩	an mo	83851
+按摩	an mo	83852
 暗牧	an mu	387
 案发	an fa	354
 暗访	an fang	220
