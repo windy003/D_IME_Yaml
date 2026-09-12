@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-罗非鱼	luo fei yu	1
+头茬	tou ca	1
+罗非鱼	luo fei yu	1500370
 百叶帘	bai ye lian	1
 玩腻	wan ni	1
 回环	hui huan	1
@@ -672,7 +672,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	160
-是什么意思	shi sheng mo yi si	1181505
+是什么意思	shi sheng mo yi si	1181538
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -958,7 +958,7 @@ sort: by_weight
 背	bei	5608
 北	bei	6464
 呗	bei	8019
-被	bei	590874
+被	bei	590876
 滭	bi	0
 驆	bi	0
 鷝	bi	0
@@ -3026,7 +3026,7 @@ sort: by_weight
 扶	fu	1107
 傅	fu	1163
 符	fu	1353
-附	fu	1595
+附	fu	69646
 父	fu	1755
 府	fu	1757
 赴	fu	2178
@@ -3036,7 +3036,7 @@ sort: by_weight
 富	fu	3549
 福	fu	3902
 服	fu	4634
-付	fu	69612
+付	fu	69645
 副	fu	17045
 碫	duan	0
 躖	duan	0
@@ -4228,7 +4228,7 @@ sort: by_weight
 钿	tian	60
 恬	tian	162
 舔	tian	1418
-甜	tian	2180
+甜	tian	344005
 添	tian	2385
 填	tian	44058
 田	tian	4781
@@ -4355,7 +4355,7 @@ sort: by_weight
 透	tou	1771
 偷	tou	343931
 投	tou	344000
-头	tou	343995
+头	tou	344004
 餇	tong	0
 蓪	tong	0
 鉖	tong	0
@@ -6210,7 +6210,7 @@ sort: by_weight
 寡	gua	305
 卦	gua	641
 刮	gua	1343
-瓜	gua	1641
+瓜	gua	246101
 挂	gua	12144
 痯	guan	0
 鱞	guan	0
@@ -6802,7 +6802,7 @@ sort: by_weight
 规	gui	1058
 桂	gui	1247
 归	gui	246084
-鬼	gui	6652
+鬼	gui	246100
 贵	gui	13963
 舿	kua	1
 絓	kua	1
@@ -10996,7 +10996,7 @@ sort: by_weight
 象	xiang	13251
 像	xiang	246511
 向	xiang	246569
-想	xiang	246471
+想	xiang	246620
 齂	xie	0
 齘	xie	0
 焎	xie	0
@@ -12539,7 +12539,7 @@ sort: by_weight
 碴	cha	74
 岔	cha	161
 搽	cha	262
-茬	cha	272
+茬	cha	127015
 察	cha	507
 叉	cha	853
 插	cha	126994
@@ -13625,7 +13625,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181516
-是	shi	1181534
+是	shi	1181537
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -25058,7 +25058,7 @@ sort: by_weight
 滩涂	tan tu	115
 谈吐	tan tu	188
 贪图	tan tu	244
-谈论	tan lun	1452
+谈论	tan lun	344002
 贪婪	tan lan	899
 叹了	tan le	558
 弹力	tan li	199
@@ -26737,7 +26737,7 @@ sort: by_weight
 逆风	ni feng	126
 你到	ni dao	325
 你得	ni de	441
-你的	ni de	1500294
+你的	ni de	1500372
 你得	ni dei	327
 拟订	ni ding	142
 拟定	ni ding	617
@@ -30222,7 +30222,7 @@ sort: by_weight
 国强	guo qiang	181
 国情	guo qing	770
 国庆	guo qing	3072
-过去	guo qu	246047
+过去	guo qu	246099
 国学	guo xue	376
 过些	guo xie	137
 国信	guo xin	198
@@ -33489,7 +33489,7 @@ sort: by_weight
 几许	ji xu	173
 积蓄	ji xu	787
 急需	ji xu	1260
-继续	ji xu	558551
+继续	ji xu	558601
 基准	ji zhun	634
 挤占	ji zhan	117
 机战	ji zhan	148
@@ -46691,7 +46691,7 @@ sort: by_weight
 孙悦	sun yue	326
 损益	sun yi	260
 萨满	sa man	759
-撒旦	sa dan	299
+撒旦	sa dan	1181535
 萨特	sa te	120
 洒脱	sa tuo	443
 撒尿	sa niao	203
