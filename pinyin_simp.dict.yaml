@@ -18,6 +18,7 @@ sort: by_weight
 
 
 
+不支持	bu zhi ci	1
 棒槌	bang cui	1
 不成功	bu cheng gong	1
 息屏	xi pin	3542
@@ -1384,7 +1385,7 @@ sort: by_weight
 布	bu	4781
 补	bu	590769
 部	bu	13825
-不	bu	590877
+不	bu	590879
 汃	pa	0
 跁	pa	1
 舥	pa	1
@@ -2587,7 +2588,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69643
+发	fa	69647
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -10828,7 +10829,7 @@ sort: by_weight
 仙	xian	2749
 闲	xian	3241
 咁	xian	5076
-现	xian	246617
+现	xian	246622
 县	xian	7573
 线	xian	246560
 先	xian	246588
@@ -13629,7 +13630,7 @@ sort: by_weight
 市	shi	1181488
 使	shi	34422
 事	shi	1181410
-时	shi	1181516
+时	shi	1181540
 是	shi	1181537
 獣	shou	4
 綬	shou	5
@@ -14092,7 +14093,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975330
-在	zai	975409
+在	zai	975410
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -16639,7 +16640,7 @@ sort: by_weight
 拥	yong	801
 勇	yong	1939
 永	yong	2712
-用	yong	614218
+用	yong	614219
 稶	yu	0
 軉	yu	0
 礖	yu	0
@@ -19528,7 +19529,7 @@ sort: by_weight
 不只	bu zhi	587
 布置	bu zhi	2210
 不止	bu zhi	2692
-不知	bu zhi	590734
+不知	bu zhi	590872
 步骤	bu zhou	590733
 不忠	bu zhong	115
 不中	bu zhong	118
@@ -22916,7 +22917,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	16920
+打开	da kai	16921
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -23465,7 +23466,7 @@ sort: by_weight
 当局	dang ju	1472
 档期	dang qi	284
 当期	dang qi	356
-当前	dang qian	4828536
+当前	dang qian	4828537
 当选	dang xuan	1375
 当下	dang xia	978
 党校	dang xiao	459
@@ -35544,7 +35545,7 @@ sort: by_weight
 巨额	ju e	1205
 全班	quan ban	553
 全包	quan bao	199
-全部	quan bu	23140
+全部	quan bu	23142
 全盘	quan pan	423
 全片	quan pian	119
 全凭	quan ping	2221
@@ -36830,7 +36831,7 @@ sort: by_weight
 取样	qu yang	247
 曲艺	qu yi	174
 趋于	qu yu	847
-区域	qu yu	330943
+区域	qu yu	330944
 去玩	qu wan	661
 去往	qu wang	128
 趣闻	qu wen	118
@@ -37595,7 +37596,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246612
+显示	xian shi	246613
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -37607,7 +37608,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246601
+现在	xian zai	246602
 仙子	xian zi	712
 先走	xian zou	351
 先祖	xian zu	136
@@ -39516,7 +39517,7 @@ sort: by_weight
 这道	zhe dao	316
 这等	zhe deng	136
 这点	zhe dian	3825
-折叠	zhe die	975289
+折叠	zhe die	975400
 这都	zhe dou	398
 这栋	zhe dong	176
 这对	zhe dui	1932
@@ -39540,7 +39541,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975404
+这个	zhe ge	975406
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40295,7 +40296,7 @@ sort: by_weight
 咫尺	zhi chi	128
 智齿	zhi chi	139
 只吃	zhi chi	311
-支持	zhi chi	975249
+支持	zhi chi	975258
 直冲	zhi chong	208
 之初	zhi chu	7517
 支出	zhi chu	2596
@@ -50421,7 +50422,7 @@ sort: by_weight
 网赚	wang zhuan	273
 网状	wang zhuang	155
 网摘	wang zhai	154
-网站	wang zhan	1192964
+网站	wang zhan	1192984
 王者	wang zhe	847
 望着	wang zhe	2494
 王振	wang zhen	123
