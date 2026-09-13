@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-分别是	fen bie shi	1
+铰链	jiao lian	1
+分别是	fen bie shi	69648
 不支持	bu zhi ci	1
 棒槌	bang cui	1
 不成功	bu cheng gong	1
@@ -562,7 +562,7 @@ sort: by_weight
 机器码	ji qi ma	346
 不需要	bu xu yao	590768
 在这里	zai zhe li	975116
-这段文字中的	zhe duan wen zhi zong de	975205
+这段文字中的	zhe duan wen zhi zong de	975411
 开恩	kai en	304573
 单个	dan ge	4828489
 我可以	wo ke yi	200
@@ -668,7 +668,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614070
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181347
+上面说的	shang mian shuo de	1181541
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -5595,7 +5595,7 @@ sort: by_weight
 怜	lian	498
 帘	lian	530
 炼	lian	881
-链	lian	1411
+链	lian	1500372
 莲	lian	1431
 恋	lian	1521
 联	lian	3141
@@ -6831,8 +6831,8 @@ sort: by_weight
 寬	kuan	16
 寛	kuan	19
 髋	kuan	45
-宽	kuan	304470
-款	kuan	304524
+宽	kuan	304582
+款	kuan	304581
 砿	kuang	0
 筺	kuang	0
 昿	kuang	0
@@ -8794,7 +8794,7 @@ sort: by_weight
 跤	jiao	55
 狡	jiao	55
 剿	jiao	57
-铰	jiao	60
+铰	jiao	558603
 皎	jiao	64
 饺	jiao	75
 蛟	jiao	107
@@ -23387,7 +23387,7 @@ sort: by_weight
 诞生	dan sheng	2355
 单是	dan shi	181
 胆识	dan shi	182
-但是	dan shi	4828789
+但是	dan shi	4828863
 单手	dan shou	395
 单数	dan shu	135
 淡水	dan shui	346
@@ -24693,7 +24693,7 @@ sort: by_weight
 多出	duo chu	13435
 多杀	duo sha	182
 躲闪	duo shan	219
-多少	duo shao	4828550
+多少	duo shao	4828864
 多食	duo shi	126
 多事	duo shi	213
 多时	duo shi	4828395
@@ -35032,7 +35032,7 @@ sort: by_weight
 精美	jing mei	1569
 粳米	jing mi	121
 静谧	jing mi	238
-精密	jing mi	692
+精密	jing mi	558602
 镜面	jing mian	367
 精妙	jing miao	180
 精明	jing ming	700
