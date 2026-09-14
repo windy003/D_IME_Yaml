@@ -17,6 +17,8 @@ sort: by_weight
 
 
 
+
+旧房	jiu fang	1
 没事了	mei shi le	1
 找到了	zao dao le	1
 孑然一生	jie ran yi sheng	1
@@ -265,7 +267,7 @@ sort: by_weight
 字符级	zhi fu ji	1
 字符级模型	zhi fu ji mo xin	2
 词元	ci yuan	126940
-融富府	nong fu fu	1500320
+融富府	nong fu fu	1500373
 融富城	nong fu cheng	1
 意思是	yi shi si	1
 开恩看顾	kai en kan gu	1
@@ -9211,7 +9213,7 @@ sort: by_weight
 揪	jiu	543
 救	jiu	3373
 九	jiu	558434
-旧	jiu	5456
+旧	jiu	558605
 久	jiu	558575
 酒	jiu	558433
 就	jiu	558596
@@ -21918,7 +21920,7 @@ sort: by_weight
 放假	fang jia	5302
 房价	fang jia	6242
 坊间	fang jian	195
-房间	fang jian	69583
+房间	fang jian	69649
 放进	fang jin	9681
 放弃	fang qi	10446
 放学	fang xue	774
@@ -24073,7 +24075,7 @@ sort: by_weight
 电池	dian chi	5429
 电扇	dian shan	230
 点上	dian shang	538
-电视	dian shi	4828788
+电视	dian shi	4828865
 点数	dian shu	664
 点水	dian shui	125
 点燃	dian ran	1090
@@ -26637,7 +26639,7 @@ sort: by_weight
 能改	neng gai	106
 能干	neng gan	677
 能给	neng gei	1206
-能够	neng gou	1500343
+能够	neng gou	1500374
 能过	neng guo	198
 能看	neng kan	339
 能耗	neng hao	618
@@ -35415,7 +35417,7 @@ sort: by_weight
 就问	jiu wen	429
 久违	jiu wei	535
 酒窝	jiu wo	176
-救我	jiu wo	558450
+救我	jiu wo	558604
 就我	jiu wo	336
 九五	jiu wu	200
 就爱	jiu ai	201
@@ -38398,7 +38400,7 @@ sort: by_weight
 心烦	xin fan	544
 心房	xin fang	176
 信访	xin fang	810
-新房	xin fang	844
+新房	xin fang	246623
 新风	xin feng	190
 信奉	xin feng	341
 信封	xin feng	591
@@ -40846,7 +40848,7 @@ sort: by_weight
 主讲	zhu jiang	253
 珠江	zhu jiang	690
 注解	zhu jie	250
-住进	zhu jin	435
+住进	zhu jin	975412
 铸就	zhu jiu	167
 主权	zhu quan	709
 朱雀	zhu que	218
@@ -42685,7 +42687,7 @@ sort: by_weight
 上到	shang dao	186
 上的	shang de	1181256
 上地	shang di	254
-上帝	shang di	1181229
+上帝	shang di	1181542
 上电	shang dian	122
 商店	shang dian	21385
 上调	shang diao	168
@@ -50895,7 +50897,7 @@ sort: by_weight
 我党	wo dang	144
 我倒	wo dao	1014
 我得	wo de	597
-我的	wo de	1193039
+我的	wo de	1193082
 我等	wo deng	161
 我得	wo dei	389
 卧底	wo di	386
