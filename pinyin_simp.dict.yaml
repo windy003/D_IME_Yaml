@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-实现原理	shi xian yuan li	1
+实现吗	shi xian ma	1
+实现原理	shi xian yuan li	1181556
 千禧年	qian xi nian	1
 来不来	lai bu lai	1
 感谢主	gan xie zhu	1
@@ -707,9 +707,9 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	975365
-是什么	shi sheng mo	1181551
+是什么	shi sheng mo	1181557
 简拼	jian pin	4632
-安卓	an zhuo	83881
+安卓	an zhuo	83898
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -3337,7 +3337,7 @@ sort: by_weight
 德	de	7178
 地	de	4828478
 得	de	4828778
-的	de	4828875
+的	de	4828877
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -12519,7 +12519,7 @@ sort: by_weight
 醇	chun	463
 蠢	chun	641
 唇	chun	920
-纯	chun	4448
+纯	chun	127024
 春	chun	5269
 膗	chuai	0
 欼	chuai	1
@@ -13646,7 +13646,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181543
-是	shi	1181544
+是	shi	1181558
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14108,7 +14108,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975330
-在	zai	975410
+在	zai	975443
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -31009,7 +31009,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304588
+可以	ke yi	304601
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -40002,7 +40002,7 @@ sort: by_weight
 之滨	zhi bin	110
 致病	zhi bing	244
 治病	zhi bing	722
-直播	zhi bo	975418
+直播	zhi bo	975444
 止步	zhi bu	228
 支部	zhi bu	547
 只怕	zhi pa	619
@@ -40758,7 +40758,7 @@ sort: by_weight
 中午	zhong wu	11831
 钟爱	zhong ai	326
 中俄	zhong e	515
-中欧	zhong ou	402
+中欧	zhong ou	975439
 主办	zhu ban	1666
 主板	zhu ban	975257
 珠宝	zhu bao	909
@@ -42681,7 +42681,7 @@ sort: by_weight
 上马	shang ma	437
 商贸	shang mao	837
 上门	shang men	1181405
-上面	shang mian	1181431
+上面	shang mian	1181562
 商贩	shang fan	220
 上访	shang fang	669
 上方	shang fang	1271
@@ -43699,7 +43699,7 @@ sort: by_weight
 时限	shi xian	470
 视线	shi xian	1181496
 事先	shi xian	2183
-实现	shi xian	1181497
+实现	shi xian	1181563
 时效	shi xiao	258
 实效	shi xiao	492
 失效	shi xiao	1015
@@ -44056,7 +44056,7 @@ sort: by_weight
 守军	shou jun	105
 手记	shou ji	234
 收集	shou ji	4781
-手机	shou ji	1181492
+手机	shou ji	1181561
 首家	shou jia	758
 售价	shou jia	2119
 收件	shou jian	181
@@ -45421,7 +45421,7 @@ sort: by_weight
 遭人	zao ren	191
 早日	zao ri	1440
 早在	zao zai	1361
-早早	zao zao	1126
+早早	zao zao	975440
 造作	zao zuo	143
 早餐	zao can	1607
 早死	zao si	114
@@ -45586,7 +45586,7 @@ sort: by_weight
 自觉	zi jue	2735
 子集	zi ji	112
 字迹	zi ji	251
-自己	zi ji	975374
+自己	zi ji	975441
 自驾	zi jia	260
 自家	zi jia	1157
 自荐	zi jian	156
@@ -46680,7 +46680,7 @@ sort: by_weight
 算了	suan le	1181215
 算个	suan ge	312
 算好	suan hao	175
-算计	suan ji	1181493
+算计	suan ji	1181560
 算起	suan qi	212
 酸性	suan xing	427
 算账	suan zhang	274
@@ -49776,7 +49776,7 @@ sort: by_weight
 用刀	yong dao	235
 用到	yong dao	614047
 用得	yong de	406
-用的	yong de	614044
+用的	yong de	614231
 用地	yong di	1329
 用电	yong dian	776
 用掉	yong diao	160
@@ -50960,7 +50960,7 @@ sort: by_weight
 我先	wo xian	1551
 我笑	wo xiao	199
 我校	wo xiao	1313
-我想	wo xiang	1192979
+我想	wo xiang	1193091
 我写	wo xie	524
 我心	wo xin	754
 我找	wo zhao	1192976
@@ -54151,7 +54151,7 @@ sort: by_weight
 流通股	liu tong gu	448
 六年级	liu nian ji	156
 浏览量	liu lan liang	166
-浏览器	liu lan qi	1500220
+浏览器	liu lan qi	1500378
 浏览者	liu lan zhe	132
 流浪猫	liu lang mao	117
 流浪狗	liu lang gou	123
