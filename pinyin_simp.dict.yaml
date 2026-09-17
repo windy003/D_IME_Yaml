@@ -18,6 +18,7 @@ sort: by_weight
 
 
 
+检查器	jian ca qi	1
 通知我	tong zhi wo	1
 崩了	ben le	1
 原文件	yuan wen jian	614241
@@ -848,7 +849,7 @@ sort: by_weight
 浜	bang	1173
 邦	bang	1708
 榜	bang	2403
-棒	bang	590878
+棒	bang	590902
 帮	bang	590847
 飹	bao	0
 忁	bao	0
@@ -3345,7 +3346,7 @@ sort: by_weight
 德	de	7178
 地	de	4828478
 得	de	4828778
-的	de	4828884
+的	de	4828889
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4705,7 +4706,7 @@ sort: by_weight
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	1500347
+能	neng	1500400
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -4774,7 +4775,7 @@ sort: by_weight
 呢	ni	2485
 尼	ni	2504
 拟	ni	2833
-你	ni	1500396
+你	ni	1500401
 躎	nian	0
 秊	nian	0
 簐	nian	0
@@ -9640,7 +9641,7 @@ sort: by_weight
 奇	qi	2926
 齐	qi	4112
 七	qi	58170
-器	qi	330956
+器	qi	330974
 气	qi	9442
 期	qi	9716
 起	qi	330955
@@ -18176,7 +18177,7 @@ sort: by_weight
 棒子	bang zi	967
 榜样	bang yang	868
 傍晚	bang wan	1065
-帮我	bang wo	590684
+帮我	bang wo	590685
 包办	bao ban	148
 饱饱	bao bao	119
 包包	bao bao	1703
@@ -19858,7 +19859,7 @@ sort: by_weight
 炮弹	pao dan	338
 跑道	pao dao	400
 跑到	pao dao	3072
-跑得	pao de	428
+跑得	pao de	8071
 抛掉	pao diao	229
 跑掉	pao diao	305
 跑动	pao dong	201
@@ -20844,7 +20845,7 @@ sort: by_weight
 每套	mei tao	160
 美体	mei ti	132
 媒体	mei ti	325625
-每天	mei tian	325689
+每天	mei tian	325690
 每条	mei tiao	326
 梅婷	mei ting	119
 没听	mei ting	589
@@ -25894,7 +25895,7 @@ sort: by_weight
 同比	tong bi	1255
 通便	tong bian	114
 通病	tong bing	273
-同步	tong bu	343984
+同步	tong bu	343985
 铜牌	tong pai	196
 通篇	tong pian	148
 痛骂	tong ma	143
@@ -34093,7 +34094,7 @@ sort: by_weight
 舰船	jian chuan	128
 检察	jian cha	423
 监察	jian cha	755
-检查	jian cha	558550
+检查	jian cha	558555
 减产	jian chan	295
 见长	jian chang	108
 建厂	jian chang	211
@@ -39564,7 +39565,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975460
+这个	zhe ge	975461
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -43000,7 +43001,7 @@ sort: by_weight
 设想	she xiang	1181249
 社长	she zhang	557
 摄制	she zhi	130
-设置	she zhi	1181574
+设置	she zhi	1181575
 设成	she cheng	174
 射程	she cheng	273
 奢侈	she chi	1193
@@ -44850,8 +44851,8 @@ sort: by_weight
 人为	ren wei	1341
 认为	ren wei	250298
 人无	ren wu	131
-人物	ren wu	250299
-任务	ren wu	38604
+人物	ren wu	1500332
+任务	ren wu	1500333
 人啊	ren a	743
 仁爱	ren ai	147
 人儿	ren er	175
@@ -48692,7 +48693,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614216
+一个	yi ge	614217
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -50563,7 +50564,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	1193074
+文件	wen jian	1193075
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -65843,5 +65844,5 @@ sort: by_weight
 宫保拼音	gong bao pin yin	100
 谢谢你	xie xie ni	100
 这样子	zhe yang zi	975451
-能不能	neng bu neng	1500394
+能不能	neng bu neng	1500395
 热重载	re zhong zai	100
