@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-采样点	cai yang dian	1
+乐善好施	le san hao shi	1
+采样点	cai yang dian	437
 声源	sheng yuan	1181494
 这段文字什么意思	zhe duan wen zhi sheng mo yi shi	1
 智能体	zhi neng ti	1
@@ -663,7 +663,7 @@ sort: by_weight
 是多少	shi duo sao	1181394
 截个图	jie ge tu	200
 虚拟环境	xu ni huan jin	200
-是一个	shi yi ge	209
+是一个	shi yi ge	210
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	540
 在不	zai bu	975430
@@ -673,7 +673,7 @@ sort: by_weight
 刷新	sua xin	1181491
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
-上面的	shang mian de	1181490
+上面的	shang mian de	1181491
 其中的	qi zong de	464
 花括号	hua kuo hao	201
 可以了	ke yi le	206
@@ -711,7 +711,7 @@ sort: by_weight
 硬删除	yin san chua	207
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
-这里的	zhe li de	160
+这里的	zhe li de	161
 是什么意思	shi sheng mo yi si	1181539
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
@@ -726,7 +726,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	975452
-是什么	shi sheng mo	1181581
+是什么	shi sheng mo	1181582
 简拼	jian pin	4632
 安卓	an zhuo	83898
 就这样子	jiu zhe yang zhi	100
@@ -772,7 +772,7 @@ sort: by_weight
 爸	ba	3625
 八	ba	6677
 把	ba	590905
-吧	ba	590897
+吧	ba	590906
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -1994,7 +1994,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325764
+吗	ma	325766
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3096,8 +3096,8 @@ sort: by_weight
 锻	duan	114
 端	duan	4828719
 断	duan	4835
-短	duan	4828720
-段	duan	4828398
+短	duan	4828920
+段	duan	4828921
 驐	dun	0
 壿	dun	0
 撉	dun	1
@@ -3356,7 +3356,7 @@ sort: by_weight
 德	de	7178
 地	de	4828914
 得	de	4828778
-的	de	4828916
+的	de	4828919
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5298,7 +5298,7 @@ sort: by_weight
 仂	le	139
 叻	le	827
 勒	le	3034
-乐	le	6513
+乐	le	1500402
 了	le	1500400
 踜	leng	0
 薐	leng	1
@@ -8585,7 +8585,7 @@ sort: by_weight
 架	jia	3782
 价	jia	5685
 假	jia	8140
-加	jia	558585
+加	jia	558618
 家	jia	558600
 麉	jian	0
 葌	jian	0
@@ -13297,7 +13297,7 @@ sort: by_weight
 珊	shan	627
 扇	shan	947
 衫	shan	970
-善	shan	2658
+善	shan	1181586
 闪	shan	26762
 删	shan	4393
 山	shan	10951
@@ -13665,7 +13665,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181543
-是	shi	1181584
+是	shi	1181585
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14644,7 +14644,7 @@ sort: by_weight
 策	ce	914
 册	ce	1123
 侧	ce	2221
-测	ce	3189
+测	ce	127029
 嵾	cen	0
 梣	cen	4
 参	cen	12
@@ -19612,7 +19612,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	590813
+不是	bu shi	590815
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	590716
@@ -19811,7 +19811,7 @@ sort: by_weight
 盘面	pan mian	532
 判罚	pan fa	228
 盘符	pan fu	303
-判断	pan duan	8070
+判断	pan duan	8073
 攀登	pan deng	341
 盘点	pan dian	685
 判定	pan ding	846
@@ -22480,7 +22480,7 @@ sort: by_weight
 浮雕	fu diao	206
 浮动	fu dong	862
 复读	fu du	470
-幅度	fu du	2784
+幅度	fu du	69585
 赴台	fu tai	157
 福特	fu te	741
 附体	fu ti	147
@@ -24376,7 +24376,7 @@ sort: by_weight
 都应	dou ying	348
 豆油	dou you	334
 都由	dou you	373
-都有	dou you	39586
+都有	dou you	4828877
 都用	dou yong	1137
 都与	dou yu	175
 都未	dou wei	143
@@ -31855,7 +31855,7 @@ sort: by_weight
 海岩	hai yan	207
 海燕	hai yan	259
 海洋	hai yang	2632
-还要	hai yao	664980
+还要	hai yao	664981
 还以	hai yi	255
 还应	hai ying	499
 还有	hai you	664979
@@ -39696,7 +39696,7 @@ sort: by_weight
 阵地	zhen di	972
 镇定	zhen ding	418
 振动	zhen dong	973
-震动	zhen dong	1065
+震动	zhen dong	975460
 真多	zhen duo	584
 针对	zhen dui	975372
 侦探	zhen tan	375
@@ -42200,7 +42200,7 @@ sort: by_weight
 处男	chu nan	587
 初年	chu nian	138
 初来	chu lai	121
-出来	chu lai	127019
+出来	chu lai	127020
 出栏	chu lan	120
 出了	chu le	59131
 除了	chu le	126983
@@ -48703,7 +48703,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614221
+一个	yi ge	614222
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -48923,7 +48923,7 @@ sort: by_weight
 一支	yi zhi	3141
 一致	yi zhi	6786
 一只	yi zhi	7071
-一直	yi zhi	614138
+一直	yi zhi	614139
 一周	yi zhou	4583
 一中	yi zhong	641
 一种	yi zhong	613919
@@ -49185,7 +49185,7 @@ sort: by_weight
 饮料	yin liao	1903
 银两	yin liang	115
 阴凉	yin liang	123
-音量	yin liang	732
+音量	yin liang	614114
 引领	yin ling	1181
 引流	yin liu	129
 因公	yin gong	125
@@ -49335,7 +49335,7 @@ sort: by_weight
 樱桃	ying tao	723
 英伦	ying lun	267
 迎来	ying lai	1786
-硬朗	ying lang	232
+硬朗	ying lang	614113
 营利	ying li	129
 英里	ying li	201
 应力	ying li	483
@@ -58930,7 +58930,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193044
+为什么	wei shen me	1193045
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
