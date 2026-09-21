@@ -20,6 +20,8 @@ sort: by_weight
 
 
 
+
+在一起	zai yi qi	1
 亦星	yi xin	1
 三田真玲	san tian zheng lin	1
 空文件	kong wen jian	1
@@ -4142,7 +4144,7 @@ sort: by_weight
 讨	tao	1067
 涛	tao	1601
 陶	tao	1708
-逃	tao	2129
+逃	tao	344010
 套	tao	7960
 鋱	te	0
 蟘	te	0
@@ -7744,7 +7746,7 @@ sort: by_weight
 合	he	664921
 何	he	6636
 喝	he	15293
-和	he	665138
+和	he	665140
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -9669,7 +9671,7 @@ sort: by_weight
 器	qi	330974
 气	qi	9442
 期	qi	9716
-起	qi	330955
+起	qi	330979
 其	qi	330967
 酠	qia	1
 殎	qia	1
@@ -13110,7 +13112,7 @@ sort: by_weight
 楚	chu	2427
 初	chu	4757
 除	chu	8546
-处	chu	126961
+处	chu	127033
 出	chu	126993
 擉	chuo	0
 嚽	chuo	1
@@ -14142,7 +14144,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975453
-在	zai	975472
+在	zai	975478
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -17043,7 +17045,7 @@ sort: by_weight
 碗	wan	1193071
 晚	wan	1192958
 完	wan	24072
-万	wan	1192998
+万	wan	1193105
 玩	wan	1193079
 瀇	wang	0
 輞	wang	0
@@ -17348,7 +17350,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193102
+我	wo	1193104
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -32014,7 +32016,7 @@ sort: by_weight
 好片	hao pian	198
 好评	hao ping	1525
 好嘛	hao ma	699
-好吗	hao ma	664989
+好吗	hao ma	665141
 号码	hao ma	11047
 好卖	hao mai	197
 豪迈	hao mai	265
@@ -32323,7 +32325,7 @@ sort: by_weight
 喝完	he wan	409
 何谓	he wei	259
 何为	he wei	321
-和我	he wo	4757
+和我	he wo	665142
 核武	he wu	135
 何物	he wu	153
 和蔼	he ai	223
@@ -41151,7 +41153,7 @@ sort: by_weight
 闯关	chuang guan	112
 创刊	chuang kan	137
 窗口	chuang kou	126930
-窗户	chuang hu	126941
+窗户	chuang hu	127032
 创建	chuang jian	127014
 闯进	chuang jin	311
 创举	chuang ju	129
@@ -42188,7 +42190,7 @@ sort: by_weight
 触犯	chu fan	356
 出访	chu fang	304
 处方	chu fang	487
-厨房	chu fang	127002
+厨房	chu fang	127031
 处分	chu fen	757
 除非	chu fei	5355
 触到	chu dao	123
@@ -45347,7 +45349,7 @@ sort: by_weight
 再送	zai song	113
 再也	zai ye	3091
 再议	zai yi	126
-在一	zai yi	155
+在一	zai yi	975479
 再以	zai yi	181
 在意	zai yi	2194
 再由	zai you	258
@@ -48851,7 +48853,7 @@ sort: by_weight
 以其	yi qi	1122
 仪器	yi qi	1721
 一期	yi qi	2090
-一起	yi qi	55755
+一起	yi qi	614259
 一千	yi qian	1674
 以前	yi qian	55759
 一腔	yi qiang	120
