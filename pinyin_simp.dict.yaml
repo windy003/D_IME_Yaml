@@ -19,7 +19,7 @@ sort: by_weight
 
 
 
-
+封禁	feng jin	1
 这个错误	zhe ge cuo wu	1
 你可以	ni ke yi	1
 渐进式	jian jin shi	1
@@ -792,7 +792,7 @@ sort: by_weight
 爸	ba	3625
 八	ba	6677
 把	ba	590914
-吧	ba	590912
+吧	ba	590920
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -2845,7 +2845,7 @@ sort: by_weight
 冯	feng	2510
 疯	feng	3471
 峰	feng	3510
-封	feng	69674
+封	feng	69677
 风	feng	12099
 鼣	fei	0
 胇	fei	0
@@ -3376,7 +3376,7 @@ sort: by_weight
 德	de	7178
 地	de	4828914
 得	de	4828778
-的	de	4828972
+的	de	4828975
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -8135,7 +8135,7 @@ sort: by_weight
 辉	hui	2272
 灰	hui	208392
 回	hui	31665
-会	hui	665156
+会	hui	665157
 錈	juan	0
 絭	juan	1
 裐	juan	1
@@ -9108,7 +9108,7 @@ sort: by_weight
 仅	jin	6472
 近	jin	558493
 金	jin	558492
-进	jin	24648
+进	jin	558634
 鶁	jing	0
 鵛	jing	0
 剄	jing	0
@@ -13685,7 +13685,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181600
-是	shi	1181608
+是	shi	1181609
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -21442,7 +21442,7 @@ sort: by_weight
 默然	mo ran	148
 蓦然	mo ran	157
 漠然	mo ran	189
-默认	mo ren	9449
+默认	mo ren	9450
 末日	mo ri	387
 墨子	mo zi	203
 魔族	mo zu	118
@@ -22716,7 +22716,7 @@ sort: by_weight
 短路	duan lu	415
 段落	duan luo	22708
 断开	duan kai	576
-端口	duan kou	16916
+端口	duan kou	4828925
 短裤	duan ku	4828922
 断货	duan huo	228
 断绝	duan jue	290
@@ -33549,7 +33549,7 @@ sort: by_weight
 几许	ji xu	173
 积蓄	ji xu	787
 急需	ji xu	1260
-继续	ji xu	558604
+继续	ji xu	558605
 基准	ji zhun	634
 挤占	ji zhan	117
 机战	ji zhan	148
@@ -33587,7 +33587,7 @@ sort: by_weight
 极差	ji cha	191
 稽查	ji cha	401
 几场	ji chang	335
-机场	ji chang	558629
+机场	ji chang	558631
 机车	ji che	371
 即成	ji cheng	233
 继承	ji cheng	2263
@@ -34626,7 +34626,7 @@ sort: by_weight
 接地	jie di	407
 节电	jie dian	175
 结点	jie dian	301
-节点	jie dian	558618
+节点	jie dian	558621
 戒掉	jie diao	150
 界定	jie ding	999
 解冻	jie dong	338
@@ -34968,7 +34968,7 @@ sort: by_weight
 尽职	jin zhi	117
 紧致	jin zhi	123
 进制	jin zhi	26020
-禁止	jin zhi	26013
+禁止	jin zhi	558561
 锦州	jin zhou	309
 金钟	jin zhong	121
 进驻	jin zhu	692
@@ -37650,7 +37650,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246613
+显示	xian shi	246614
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -38422,7 +38422,7 @@ sort: by_weight
 鞋业	xie ye	188
 谢意	xie yi	182
 写意	xie yi	218
-协议	xie yi	246546
+协议	xie yi	246587
 谐音	xie yin	250
 写有	xie you	114
 写完	xie wan	1132
@@ -38931,7 +38931,7 @@ sort: by_weight
 续约	xu yue	353
 序言	xu yan	152
 须要	xu yao	113
-需要	xu yao	246585
+需要	xu yao	246586
 蓄意	xu yi	174
 需用	xu yong	111
 虚妄	xu wang	109
@@ -40598,7 +40598,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	975462
+中的	zhong de	975466
 中等	zhong deng	900
 中的	zhong di	974986
 种地	zhong di	287
