@@ -19,6 +19,8 @@ sort: by_weight
 
 
 
+
+复现	fu xian	1
 封禁	feng jin	1
 这个错误	zhe ge cuo wu	1
 你可以	ni ke yi	1
@@ -3376,7 +3378,7 @@ sort: by_weight
 德	de	7178
 地	de	4828914
 得	de	4828778
-的	de	4828975
+的	de	4828980
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -13685,7 +13687,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181600
-是	shi	1181609
+是	shi	1181610
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -28915,7 +28917,7 @@ sort: by_weight
 惯了	guan le	395
 官吏	guan li	210
 惯例	guan li	670
-管理	guan li	246036
+管理	guan li	246062
 关联	guan lian	246028
 官僚	guan liao	566
 管路	guan lu	150
@@ -29882,7 +29884,7 @@ sort: by_weight
 共同	gong tong	11597
 供暖	gong nuan	403
 宫女	gong nv	333
-功能	gong neng	246111
+功能	gong neng	246112
 宫内	gong nei	182
 公牛	gong niu	355
 工农	gong nong	199
@@ -36514,7 +36516,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	330962
+请你	qing ni	330979
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -37662,7 +37664,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246609
+现在	xian zai	246610
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -41849,7 +41851,7 @@ sort: by_weight
 成亲	cheng qin	118
 澄清	cheng qing	1053
 城区	cheng qu	1845
-城西	cheng xi	269
+城西	cheng xi	127025
 成仙	cheng xian	162
 呈现	cheng xian	3122
 承销	cheng xiao	140
@@ -41863,7 +41865,7 @@ sort: by_weight
 成行	cheng xing	206
 成形	cheng xing	472
 成型	cheng xing	700
-程序	cheng xu	127024
+程序	cheng xu	127026
 成长	cheng zhang	7053
 诚招	cheng zhao	182
 乘着	cheng zhe	193
@@ -43367,7 +43369,7 @@ sort: by_weight
 生辰	sheng chen	108
 省城	sheng cheng	315
 声称	sheng cheng	1205
-生成	sheng cheng	1181375
+生成	sheng cheng	1181379
 生吃	sheng chi	165
 牲畜	sheng chu	259
 胜出	sheng chu	467
@@ -46542,7 +46544,7 @@ sort: by_weight
 磁卡	ci ka	111
 刺客	ci ke	551
 此刻	ci ke	1515
-词库	ci ku	126932
+词库	ci ku	127022
 此话	ci hua	199
 伺候	ci hou	694
 此后	ci hou	1309
@@ -48723,7 +48725,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614227
+一个	yi ge	614229
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -50912,7 +50914,7 @@ sort: by_weight
 喂喂	wei wei	212
 薇薇	wei wei	291
 微微	wei wei	1751
-为我	wei wo	961
+为我	wei wo	10604
 为伍	wei wu	119
 威武	wei wu	215
 胃癌	wei ai	300
@@ -57588,7 +57590,7 @@ sort: by_weight
 舒适性	shu shi xing	281
 数十亿	shu shi yi	115
 数十万	shu shi wan	256
-输入法	shu ru fa	2668
+输入法	shu ru fa	2669
 输入您	shu ru nin	191
 输入框	shu ru kuang	740
 数字化	shu zi hua	878
@@ -61434,7 +61436,7 @@ sort: by_weight
 会计报表	kuai ji bao biao	107
 会计核算	kuai ji he suan	131
 会计准则	kuai ji zhun ze	148
-快捷方式	kuai jie fang shi	318
+快捷方式	kuai jie fang shi	319
 脍炙人口	kuai zhi ren kou	147
 快速发展	kuai su fa zhan	1284
 快速反应	kuai su fan ying	153
