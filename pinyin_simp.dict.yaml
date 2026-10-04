@@ -17,7 +17,10 @@ sort: by_weight
 
 
 
-什么文件	sheng mo wen jian	1
+
+
+什么用的	sheng mo yong de	1
+什么文件	sheng mo wen jian	2
 把这个文件	ba zhe ge wen jian	2
 把这个	ba zhe ge	1
 这个是一个什么文件	zhe ge shi yi ge sheng mo wen jian	2
@@ -778,7 +781,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614241
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181644
+上面说的	shang mian shuo de	1181645
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -804,7 +807,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614042
 这样子	zhe yang zhi	975460
-是什么	shi sheng mo	1181609
+是什么	shi sheng mo	1181610
 简拼	jian pin	4632
 安卓	an zhuo	83905
 就这样子	jiu zhe yang zhi	100
@@ -13743,7 +13746,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181640
-是	shi	1181653
+是	shi	1181654
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14569,7 +14572,7 @@ sort: by_weight
 左	zuo	154140
 坐	zuo	11583
 作	zuo	19307
-做	zuo	975537
+做	zuo	975548
 纗	zui	0
 欈	zui	1
 絊	zui	1
@@ -41035,7 +41038,7 @@ sort: by_weight
 逐月	zhu yue	120
 蛀牙	zhu ya	188
 主演	zhu yan	1609
-主要	zhu yao	46887
+主要	zhu yao	975483
 竹叶	zhu ye	111
 主业	zhu ye	513
 主页	zhu ye	975103
@@ -50652,7 +50655,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	1193103
+文件	wen jian	1193104
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -59275,7 +59278,7 @@ sort: by_weight
 二锅头	er guo tou	150
 二季度	er ji du	323
 二极管	er ji guan	257
-二进制	er jin zhi	396
+二进制	er jin zhi	397
 儿媳妇	er xi fu	178
 二十八	er shi ba	271
 二十多	er shi duo	566
