@@ -17,7 +17,10 @@ sort: by_weight
 
 
 
-音量键	yin liang jian	1
+
+
+短按	duan an	1
+音量键	yin liang jian	524
 一乃葵	yi nai kui	2
 行号	hang hao	1
 相对路径	xiang dui lu jin	2
@@ -328,7 +331,7 @@ sort: by_weight
 百度统计	bai du tong ji	2
 加吧	jia ba	558504
 子域名	zhi yu min	774
-用起来	yong qi lai	220
+用起来	yong qi lai	221
 就行了	jiu xin le	1
 做一个	zuo yi ge	205
 响应头	xiang yin tou	550
@@ -810,7 +813,7 @@ sort: by_weight
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
 闪退	san tui	18166
-长按	chang an	1284
+长按	chang an	1285
 横杠	heng gang	100
 那么	na mo	185
 是的	shi de	1181633
@@ -864,7 +867,7 @@ sort: by_weight
 巴	ba	3193
 爸	ba	3625
 八	ba	6677
-把	ba	590949
+把	ba	590950
 吧	ba	590948
 竡	bai	0
 拝	bai	2
@@ -3187,7 +3190,7 @@ sort: by_weight
 椴	duan	61
 缎	duan	105
 锻	duan	114
-端	duan	4829027
+端	duan	4829110
 断	duan	4835
 短	duan	4828920
 段	duan	4828969
@@ -5392,7 +5395,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500472
+了	le	1500473
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -10790,7 +10793,7 @@ sort: by_weight
 瞎	xia	2132
 吓	xia	3197
 夏	xia	4503
-下	xia	246657
+下	xia	246658
 鼸	xian	0
 鷳	xian	0
 烍	xian	0
@@ -13758,7 +13761,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181410
 时	shi	1181664
-是	shi	1181671
+是	shi	1181672
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -16080,7 +16083,7 @@ sort: by_weight
 业	ye	5470
 叶	ye	404393
 页	ye	614184
-也	ye	614307
+也	ye	614323
 燡	yi	0
 齸	yi	0
 熪	yi	0
@@ -17426,7 +17429,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193143
+我	wo	1193144
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -19705,7 +19708,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	590824
+不是	bu shi	590826
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	590716
@@ -20330,7 +20333,7 @@ sort: by_weight
 平板	ping ban	473
 屏保	ping bao	294
 评比	ping bi	590
-屏蔽	ping bi	58932
+屏蔽	ping bi	58934
 评标	ping biao	275
 评判	ping pan	668
 乒乓	ping pang	355
@@ -24164,7 +24167,7 @@ sort: by_weight
 电极	dian ji	413
 惦记	dian ji	607
 电机	dian ji	1202
-点击	dian ji	4828894
+点击	dian ji	4828895
 店家	dian jia	317
 电价	dian jia	4828367
 电教	dian jiao	110
@@ -42904,7 +42907,7 @@ sort: by_weight
 上学	shang xue	3976
 上旬	shang xun	112
 赏析	shang xi	239
-上下	shang xia	1181585
+上下	shang xia	1181587
 上限	shang xian	1277
 上线	shang xian	1181172
 上校	shang xiao	200
@@ -48278,7 +48281,7 @@ sort: by_weight
 腰痛	yao tong	274
 要拿	yao na	242
 要能	yao neng	157
-要你	yao ni	617
+要你	yao ni	13829
 妖孽	yao nie	149
 要来	yao lai	851
 摇篮	yao lan	318
@@ -58435,7 +58438,7 @@ sort: by_weight
 杨浦区	yang pu qu	145
 羊毛衫	yang mao shan	107
 样东西	yang dong xi	141
-养老金	yang lao jin	522
+养老金	yang lao jin	523
 养老院	yang lao yuan	116
 杨丽娟	yang li juan	250
 养路费	yang lu fei	285
