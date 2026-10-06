@@ -20,7 +20,8 @@ sort: by_weight
 
 
 
-怎么算的	zheng mo suan de	1
+一般是	yi ban shi	1
+怎么算的	zheng mo suan de	2
 是哪些	shi na xie	1
 认识你	ren shi ni	1
 二宫光	er gong guang	1
@@ -802,7 +803,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614242
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181649
+上面说的	shang mian shuo de	1181650
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1520,7 +1521,7 @@ sort: by_weight
 步	bu	3931
 布	bu	4781
 补	bu	590769
-部	bu	590923
+部	bu	590951
 不	bu	590922
 汃	pa	0
 跁	pa	1
@@ -3458,7 +3459,7 @@ sort: by_weight
 德	de	7178
 地	de	4828914
 得	de	4828778
-的	de	4829108
+的	de	4829111
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -9565,7 +9566,7 @@ sort: by_weight
 雀	que	469
 确	que	1082
 缺	que	330910
-却	que	330985
+却	que	330999
 峮	qun	1
 宭	qun	1
 麕	qun	1
@@ -11244,7 +11245,7 @@ sort: by_weight
 鞋	xie	3364
 谢	xie	6505
 些	xie	40882
-写	xie	246654
+写	xie	246660
 阠	xin	0
 礥	xin	0
 愖	xin	0
@@ -19631,7 +19632,7 @@ sort: by_weight
 不谢	bu xie	265
 不懈	bu xie	430
 不写	bu xie	488
-不屑	bu xie	590893
+不屑	bu xie	590897
 不信	bu xin	3209
 不醒	bu xing	184
 步行	bu xing	932
@@ -19714,7 +19715,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	590826
+不是	bu shi	590827
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	590716
@@ -22798,7 +22799,7 @@ sort: by_weight
 短路	duan lu	415
 段落	duan luo	22708
 断开	duan kai	576
-端口	duan kou	4828930
+端口	duan kou	4828935
 短裤	duan ku	4828922
 断货	duan huo	228
 断绝	duan jue	290
@@ -28101,7 +28102,7 @@ sort: by_weight
 联接	lian jie	281
 廉洁	lian jie	335
 连接	lian jie	1500397
-链接	lian jie	1500398
+链接	lian jie	1500399
 炼金	lian jin	370
 练就	lian jiu	207
 恋情	lian qing	854
@@ -34836,7 +34837,7 @@ sort: by_weight
 结肠	jie chang	143
 竭诚	jie cheng	188
 结成	jie cheng	452
-劫持	jie chi	357
+劫持	jie chi	558632
 结出	jie chu	124
 杰出	jie chu	1026
 解除	jie chu	558553
@@ -48353,7 +48354,7 @@ sort: by_weight
 要像	yao xiang	205
 要向	yao xiang	563
 要想	yao xiang	2729
-要挟	yao xie	614065
+要挟	yao xie	614168
 要写	yao xie	513
 要抓	yao zhua	111
 要找	yao zhao	1000
@@ -59032,7 +59033,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193060
+为什么	wei shen me	1193061
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
