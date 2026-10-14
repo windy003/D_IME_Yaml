@@ -19,7 +19,7 @@ sort: by_weight
 
 
 
-码点	ma dian	1
+码点	ma dian	325713
 下一曲	xia yi qu	1
 上一曲	shang yi qu	1
 去重	qu cong	17564
@@ -810,7 +810,7 @@ sort: by_weight
 候选词	hou xuan ci	201
 第一个	di yi ge	425
 单个	dan ge	200
-是多少	shi duo sao	1181634
+是多少	shi duo sao	1181635
 截个图	jie ge tu	200
 虚拟环境	xu ni huan jin	200
 是一个	shi yi ge	212
@@ -2139,12 +2139,12 @@ sort: by_weight
 嗎	ma	335
 玛	ma	325664
 麻	ma	2635
-码	ma	325891
+码	ma	325892
 骂	ma	9163
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325890
+吗	ma	325893
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3506,7 +3506,7 @@ sort: by_weight
 德	de	7178
 地	de	4829332
 得	de	4828778
-的	de	4829358
+的	de	4829361
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -17437,7 +17437,7 @@ sort: by_weight
 微	wei	1192820
 味	wei	3099
 喂	wei	3754
-位	wei	1193193
+位	wei	1193194
 未	wei	1193191
 为	wei	1193188
 薶	wo	0
@@ -17617,7 +17617,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	83951
+啊	a	83952
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -23607,7 +23607,7 @@ sort: by_weight
 耽于	dan yu	204
 淡忘	dan wang	307
 但未	dan wei	147
-单位	dan wei	25182
+单位	dan wei	25190
 但我	dan wo	5395
 耽误	dan wu	1806
 挡板	dang ban	145
@@ -31150,7 +31150,7 @@ sort: by_weight
 可视	ke shi	466
 科室	ke shi	939
 可使	ke shi	1137
-可是	ke shi	304616
+可是	ke shi	304617
 恪守	ke shou	185
 棵树	ke shu	225
 可说	ke shuo	695
@@ -39718,7 +39718,7 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	975569
+这里	zhe li	975570
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
@@ -48853,7 +48853,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614372
+一个	yi ge	614373
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -56788,7 +56788,7 @@ sort: by_weight
 指导价	zhi dao jia	145
 指导性	zhi dao xing	201
 指导员	zhi dao yuan	353
-指的是	zhi de shi	957
+指的是	zhi de shi	958
 制定者	zhi ding zhe	106
 制度化	zhi du hua	305
 制度性	zhi du xing	133
