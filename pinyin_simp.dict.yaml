@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-浏览数	liu lan shu	1
+去重	qu cong	1
+浏览数	liu lan shu	929
 浏览量	liu lan liang	1
 多设备	duo se bei	1
 有救吗	you jiu ma	2
@@ -3502,7 +3502,7 @@ sort: by_weight
 德	de	7178
 地	de	4828914
 得	de	4828778
-的	de	4829317
+的	de	4829320
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -3972,7 +3972,7 @@ sort: by_weight
 對	dui	576
 堆	dui	4828311
 队	dui	10367
-对	dui	4829287
+对	dui	4829319
 鷻	tuan	0
 鷒	tuan	0
 猯	tuan	1
@@ -4764,7 +4764,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	1500511
-那	na	1500527
+那	na	1500531
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -4931,7 +4931,7 @@ sort: by_weight
 呢	ni	2485
 尼	ni	2504
 拟	ni	2833
-你	ni	1500530
+你	ni	1500532
 躎	nian	0
 秊	nian	0
 簐	nian	0
@@ -6691,7 +6691,7 @@ sort: by_weight
 歌	ge	246128
 格	ge	246139
 各	ge	245962
-个	ge	246161
+个	ge	246165
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -10386,7 +10386,7 @@ sort: by_weight
 曲	qu	3201
 取	qu	330997
 区	qu	25334
-去	qu	331009
+去	qu	331010
 愃	xuan	0
 蔙	xuan	0
 萲	xuan	0
@@ -13811,7 +13811,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181720
 时	shi	1181747
-是	shi	1181749
+是	shi	1181750
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -21230,7 +21230,7 @@ sort: by_weight
 迷惘	mi wang	360
 迷雾	mi wu	296
 米尔	mi er	168
-面板	mian ban	325718
+面板	mian ban	325719
 面包	mian bao	325714
 棉被	mian bei	219
 面壁	mian bi	171
@@ -26522,7 +26522,7 @@ sort: by_weight
 拿来	na lai	1500403
 纳兰	na lan	263
 那里	na li	1500406
-哪里	na li	1500451
+哪里	na li	1500452
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -31146,7 +31146,7 @@ sort: by_weight
 可视	ke shi	466
 科室	ke shi	939
 可使	ke shi	1137
-可是	ke shi	304615
+可是	ke shi	304616
 恪守	ke shou	185
 棵树	ke shu	225
 可说	ke shuo	695
@@ -35079,7 +35079,7 @@ sort: by_weight
 尽心	jin xin	158
 尽兴	jin xing	273
 金星	jin xing	425
-进行	jin xing	558621
+进行	jin xing	558624
 锦绣	jin xiu	346
 进修	jin xiu	480
 仅需	jin xu	179
@@ -35814,7 +35814,7 @@ sort: by_weight
 全省	quan sheng	4669
 权势	quan shi	294
 诠释	quan shi	1093
-全是	quan shi	330896
+全是	quan shi	330902
 全市	quan shi	330894
 全数	quan shu	107
 权属	quan shu	200
@@ -37776,7 +37776,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246624
+显示	xian shi	246626
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -37788,7 +37788,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246683
+现在	xian zai	246685
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -39721,7 +39721,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975649
+这个	zhe ge	975650
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -44433,7 +44433,7 @@ sort: by_weight
 暑假	shu jia	3352
 树胶	shu jiao	105
 书局	shu ju	131
-数据	shu ju	1181659
+数据	shu ju	1181660
 竖起	shu qi	1181710
 舒淇	shu qi	367
 暑期	shu qi	784
