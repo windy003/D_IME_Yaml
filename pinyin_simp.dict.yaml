@@ -16,7 +16,9 @@ sort: by_weight
 
 
 
-左移	zuo yi	1
+有什么用啊	you sheng mo yong a	1
+有什么用	you sheng mo yong	1
+左移	zuo yi	975492
 大润发	da lun fa	1
 回答我	hui da wo	1
 彩礼	cai li	1
@@ -866,7 +868,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	172
-是什么意思	shi sheng mo yi si	1181764
+是什么意思	shi sheng mo yi si	1181765
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -1962,7 +1964,7 @@ sort: by_weight
 聘	pin	487
 贫	pin	633
 频	pin	806
-拼	pin	8011
+拼	pin	58975
 品	pin	4693
 涄	ping	0
 竮	ping	0
@@ -3510,7 +3512,7 @@ sort: by_weight
 德	de	7178
 地	de	4829332
 得	de	4828778
-的	de	4829366
+的	de	4829368
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4772,7 +4774,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	1500511
-那	na	1500541
+那	na	1500545
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -6699,7 +6701,7 @@ sort: by_weight
 歌	ge	246128
 格	ge	246139
 各	ge	245962
-个	ge	246167
+个	ge	246171
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -13039,7 +13041,7 @@ sort: by_weight
 呈	cheng	3576
 城	cheng	7812
 称	cheng	13485
-成	cheng	127054
+成	cheng	127059
 麶	chi	0
 齝	chi	0
 岻	chi	0
@@ -16079,7 +16081,7 @@ sort: by_weight
 腰	yao	2606
 咬	yao	3558
 药	yao	613931
-要	yao	614398
+要	yao	614402
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -17621,7 +17623,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	83954
+啊	a	83955
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -40004,7 +40006,7 @@ sort: by_weight
 整套	zheng tao	323
 政体	zheng ti	149
 正题	zheng ti	219
-整体	zheng ti	975421
+整体	zheng ti	975424
 整天	zheng tian	3666
 整条	zheng tiao	206
 正统	zheng tong	408
@@ -42854,7 +42856,7 @@ sort: by_weight
 上马	shang ma	437
 商贸	shang mao	837
 上门	shang men	1181593
-上面	shang mian	1181723
+上面	shang mian	1181725
 商贩	shang fan	220
 上访	shang fang	669
 上方	shang fang	1271
@@ -44501,7 +44503,7 @@ sort: by_weight
 殊荣	shu rong	291
 输入	shu ru	1181229
 梳子	shu zi	269
-数字	shu zi	1181350
+数字	shu zi	1181714
 数组	shu zu	1152
 赎罪	shu zui	132
 蔬菜	shu cai	54050
@@ -46587,7 +46589,7 @@ sort: by_weight
 操守	cao shou	131
 嘈杂	cao za	315
 操纵	cao zong	1005
-操作	cao zuo	127005
+操作	cao zuo	127007
 草草	cao cao	419
 曹操	cao cao	1205
 草丛	cao cong	247
@@ -47429,7 +47431,7 @@ sort: by_weight
 塑性	su xing	117
 苏醒	su xing	615
 诉状	su zhuang	127
-素质	su zhi	1181709
+素质	su zhi	1181713
 宿州	su zhou	146
 苏州	su zhou	4823
 诉诸	su zhu	146
@@ -48857,7 +48859,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614375
+一个	yi ge	614377
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -59084,7 +59086,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193079
+为什么	wei shen me	1193080
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
