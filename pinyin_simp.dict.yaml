@@ -23,6 +23,10 @@ sort: by_weight
 
 
 
+
+
+
+大润发	da lun fa	1
 回答我	hui da wo	1
 彩礼	cai li	1
 怎么会有	zheng mo hui you	1
@@ -759,12 +763,12 @@ sort: by_weight
 我可以	wo ke yi	200
 自己的	zi ji de	463
 保护模式	bao hu mo shi	200
-烤鸡	kao ji	10
+烤鸡	kao ji	304639
 操作系统	cao zuo xi tong	126959
 好几个	hao ji ge	200
 阿里云	a li yun	83922
 周秋良	zhou qiu liang	975229
-建德	jian de	558652
+建德	jian de	558679
 在哪里	zai na li	667
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
@@ -799,7 +803,7 @@ sort: by_weight
 不工作	bu gong zuo	418
 没反应	mei fan yin	20
 返回键	fan hui jian	20
-我说的	wo suo de	206
+我说的	wo suo de	1193204
 捞女	lao nv	200
 添加了	tian jia le	202
 都可以	dou ke yi	4828522
@@ -871,7 +875,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	172
-是什么意思	shi sheng mo yi si	1181556
+是什么意思	shi sheng mo yi si	1181764
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -885,7 +889,7 @@ sort: by_weight
 常用语	chang yong yu	322
 一定	yi din	614251
 这样子	zhe yang zhi	975466
-是什么	shi sheng mo	1181732
+是什么	shi sheng mo	1181768
 简拼	jian pin	4635
 安卓	an zhuo	83921
 就这样子	jiu zhe yang zhi	100
@@ -2781,7 +2785,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69707
+发	fa	69712
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -3317,7 +3321,7 @@ sort: by_weight
 搭	da	2238
 答	da	3087
 达	da	9692
-大	da	4829059
+大	da	4829367
 打	da	4828792
 艜	dai	0
 軩	dai	0
@@ -3515,7 +3519,7 @@ sort: by_weight
 德	de	7178
 地	de	4829332
 得	de	4828778
-的	de	4829363
+的	de	4829366
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4820,7 +4824,7 @@ sort: by_weight
 囡	nan	169
 楠	nan	720
 喃	nan	1485
-南	nan	7350
+南	nan	1500544
 难	nan	15640
 男	nan	16792
 鬞	nang	0
@@ -11796,7 +11800,7 @@ sort: by_weight
 展	zhan	3377
 战	zhan	3991
 占	zhan	974835
-站	zhan	975649
+站	zhan	975677
 遧	zhang	0
 瞕	zhang	0
 弡	zhang	0
@@ -13824,7 +13828,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181720
 时	shi	1181747
-是	shi	1181763
+是	shi	1181769
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -13980,7 +13984,7 @@ sort: by_weight
 閏	run	3
 潤	run	15
 闰	run	90
-润	run	1500338
+润	run	1500507
 珃	ran	0
 髥	ran	0
 袡	ran	1
@@ -26170,7 +26174,7 @@ sort: by_weight
 同城	tong cheng	21021
 痛斥	tong chi	128
 通吃	tong chi	284
-统筹	tong chou	1008
+统筹	tong chou	344032
 痛楚	tong chu	341
 通顺	tong shun	135
 统帅	tong shuai	228
@@ -26195,7 +26199,7 @@ sort: by_weight
 同业	tong ye	266
 同一	tong yi	3996
 同意	tong yi	343982
-统一	tong yi	343980
+统一	tong yi	344031
 通用	tong yong	343977
 同于	tong yu	427
 通往	tong wang	736
@@ -29134,7 +29138,7 @@ sort: by_weight
 惯用	guan yong	242
 管用	guan yong	579
 关羽	guan yu	493
-关于	guan yu	246146
+关于	guan yu	246168
 关外	guan wai	184
 管网	guan wang	296
 官网	guan wang	1184
@@ -30154,7 +30158,7 @@ sort: by_weight
 公测	gong ce	578
 公孙	gong sun	268
 公私	gong si	116
-公司	gong si	246090
+公司	gong si	246170
 公诉	gong su	222
 弓虽	gong sui	115
 公元	gong yuan	424
@@ -30234,7 +30238,7 @@ sort: by_weight
 股改	gu gai	1469
 骨干	gu gan	1156
 骨骼	gu ge	512
-谷歌	gu ge	246002
+谷歌	gu ge	246169
 故宫	gu gong	564
 鼓鼓	gu gu	115
 咕咕	gu gu	146
@@ -39734,7 +39738,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975661
+这个	zhe ge	975675
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -42167,7 +42171,7 @@ sort: by_weight
 筹款	chou kuan	148
 抽空	chou kong	707
 丑化	chou hua	155
-筹划	chou hua	468
+筹划	chou hua	127058
 仇恨	chou hen	1458
 筹集	chou ji	441
 仇家	chou jia	128
@@ -44205,7 +44209,7 @@ sort: by_weight
 收割	shou ge	347
 首歌	shou ge	546
 首个	shou ge	885
-收购	shou gou	6282
+收购	shou gou	1181770
 收工	shou gong	302
 手工	shou gong	2018
 受过	shou guo	868
@@ -44463,7 +44467,7 @@ sort: by_weight
 树下	shu xia	383
 属相	shu xiang	113
 书香	shu xiang	170
-书写	shu xie	1168
+书写	shu xie	1181766
 舒心	shu xin	246
 书信	shu xin	331
 树形	shu xing	179
@@ -46056,7 +46060,7 @@ sort: by_weight
 组长	zu zhang	1277
 阻滞	zu zhi	156
 阻止	zu zhi	2403
-组织	zu zhi	25176
+组织	zu zhi	975676
 诅咒	zu zhou	1356
 租住	zu zhu	220
 祖传	zu chuan	116
@@ -47495,7 +47499,7 @@ sort: by_weight
 缩小	suo xiao	1181314
 所想	suo xiang	366
 所写	suo xie	389
-缩写	suo xie	1181594
+缩写	suo xie	1181767
 所幸	suo xing	245
 索性	suo xing	769
 所需	suo xu	2665
@@ -58501,7 +58505,7 @@ sort: by_weight
 杨浦区	yang pu qu	145
 羊毛衫	yang mao shan	107
 样东西	yang dong xi	141
-养老金	yang lao jin	523
+养老金	yang lao jin	614401
 养老院	yang lao yuan	116
 杨丽娟	yang li juan	250
 养路费	yang lu fei	285
