@@ -18,6 +18,8 @@ sort: by_weight
 
 
 
+
+是什么关系	shi sheng mo guan xi	1
 不一样吗	bu yi yang ma	1
 空格键	kong ge jian	671
 西瓜皮	xi gua pi	1
@@ -67,7 +69,7 @@ sort: by_weight
 上面是什么意思	shang mian shi sheng mo yi shi	2
 佳洁士	jia jie shi	1
 伶长	lin zhang	1
-父类	fu nei	1
+父类	fu nei	3591
 洗洁精	xi jie jin	1
 洗手液	xi sou ye	1
 恬不知耻	tian bu zhi ci	1
@@ -877,7 +879,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614247
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1181778
+上面说的	shang mian shuo de	1181780
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -2171,7 +2173,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	325907
+吗	ma	325909
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3533,7 +3535,7 @@ sort: by_weight
 德	de	7178
 地	de	4829332
 得	de	4828778
-的	de	4829395
+的	de	4829398
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5476,7 +5478,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500554
+了	le	1500555
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -7906,7 +7908,7 @@ sort: by_weight
 合	he	664921
 何	he	6636
 喝	he	15293
-和	he	665262
+和	he	665263
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -13841,8 +13843,8 @@ sort: by_weight
 市	shi	1181488
 使	shi	34422
 事	shi	1181720
-时	shi	1181795
-是	shi	1181796
+时	shi	1181797
+是	shi	1181798
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -17918,7 +17920,7 @@ sort: by_weight
 尔	er	2729
 儿	er	15408
 二	er	162024
-而	er	162027
+而	er	162029
 筽	o	13
 嚄	o	18
 喔	o	1939
@@ -22059,7 +22061,7 @@ sort: by_weight
 访美	fang mei	112
 方面	fang mian	69697
 放牧	fang mu	149
-方法	fang fa	29398
+方法	fang fa	29399
 防范	fang fan	1565
 方方	fang fang	125
 芳芳	fang fang	310
@@ -22069,7 +22071,7 @@ sort: by_weight
 放飞	fang fei	314
 防腐	fang fu	281
 仿佛	fang fu	4920
-放大	fang da	69595
+放大	fang da	69596
 放贷	fang dai	177
 房贷	fang dai	69590
 放荡	fang dang	230
@@ -22176,7 +22178,7 @@ sort: by_weight
 放生	fang sheng	257
 房事	fang shi	163
 房市	fang shi	341
-方式	fang shi	69712
+方式	fang shi	69715
 放手	fang shou	929
 防守	fang shou	2567
 放水	fang shui	299
@@ -22401,7 +22403,7 @@ sort: by_weight
 封口	feng kou	227
 风化	feng hua	153
 风华	feng hua	240
-凤凰	feng huang	2258
+凤凰	feng huang	69686
 风寒	feng han	186
 封号	feng hao	69684
 缝合	feng he	211
@@ -29241,7 +29243,7 @@ sort: by_weight
 滚动	gun dong	1051
 滚烫	gun tang	190
 滚筒	gun tong	11599
-滚轮	gun lun	246061
+滚轮	gun lun	246180
 滚滚	gun gun	544
 滚出	gun chu	130
 滚石	gun shi	137
@@ -29868,7 +29870,7 @@ sort: by_weight
 更能	geng neng	1081
 更令	geng ling	154
 更广	geng guang	200
-更改	geng gai	246173
+更改	geng gai	246175
 更高	geng gao	246170
 更贵	geng gui	152
 更快	geng kuai	1467
@@ -30164,7 +30166,7 @@ sort: by_weight
 工人	gong ren	4247
 攻入	gong ru	203
 公仔	gong zai	203
-公子	gong zi	246069
+公子	gong zi	246104
 工资	gong zi	13671
 工作	gong zuo	107929
 共存	gong cun	352
@@ -32115,7 +32117,7 @@ sort: by_weight
 喊声	han sheng	131
 韩式	han shi	153
 函授	han shou	172
-函数	han shu	665144
+函数	han shu	665146
 含税	han shui	232
 汗水	han shui	966
 汉人	han ren	470
@@ -36671,7 +36673,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	331016
+请你	qing ni	331017
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -37017,7 +37019,7 @@ sort: by_weight
 祛除	qu chu	136
 驱除	qu chu	184
 去处	qu chu	253
-去除	qu chu	17560
+去除	qu chu	17565
 取出	qu chu	1371
 取舍	qu she	400
 取胜	qu sheng	709
@@ -37819,7 +37821,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246696
+现在	xian zai	246699
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -39745,14 +39747,14 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	3811
 哲理	zhe li	478
-这里	zhe li	975672
+这里	zhe li	975675
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975684
+这个	zhe ge	975687
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -42282,7 +42284,7 @@ sort: by_weight
 冲洗	chong xi	714
 重现	chong xian	705
 冲向	chong xiang	283
-重写	chong xie	401
+重写	chong xie	127036
 重新	chong xin	127033
 重修	chong xiu	334
 冲撞	chong zhuang	204
@@ -44025,7 +44027,7 @@ sort: by_weight
 市容	shi rong	315
 驶入	shi ru	183
 示弱	shi ruo	134
-是在	shi zai	1181091
+是在	shi zai	1181716
 实在	shi zai	16176
 实则	shi ze	277
 虱子	shi zi	119
@@ -44390,7 +44392,7 @@ sort: by_weight
 书包	shu bao	632
 书本	shu ben	671
 数倍	shu bei	191
-鼠标	shu biao	1181375
+鼠标	shu biao	1181381
 树皮	shu pi	160
 薯片	shu pian	207
 述评	shu ping	122
@@ -45738,7 +45740,7 @@ sort: by_weight
 字段	zi duan	975554
 自打	zi da	149
 自大	zi da	280
-自带	zi dai	975566
+自带	zi dai	975582
 自担	zi dan	532
 子弹	zi dan	1118
 自导	zi dao	121
@@ -46054,7 +46056,7 @@ sort: by_weight
 足够	zu gou	5976
 祖国	zu guo	2702
 阻抗	zu kang	243
-组合	zu he	975231
+组合	zu he	975684
 租户	zu hu	113
 祖籍	zu ji	238
 阻击	zu ji	238
@@ -47482,7 +47484,7 @@ sort: by_weight
 锁门	suo men	128
 所发	suo fa	307
 所犯	suo fan	105
-缩放	suo fang	1181557
+缩放	suo fang	1181558
 缩短	suo duan	1326
 所带	suo dai	149
 索道	suo dao	186
@@ -47510,7 +47512,7 @@ sort: by_weight
 所学	suo xue	532
 所辖	suo xia	185
 所限	suo xian	153
-缩小	suo xiao	1181772
+缩小	suo xiao	1181773
 所想	suo xiang	366
 所写	suo xie	389
 缩写	suo xie	1181767
@@ -49131,7 +49133,7 @@ sort: by_weight
 一尺	yi chi	183
 一筹	yi chou	123
 衣橱	yi chu	171
-移除	yi chu	33229
+移除	yi chu	33230
 益处	yi chu	278
 溢出	yi chu	544
 一出	yi chu	780
