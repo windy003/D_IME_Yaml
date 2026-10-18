@@ -20,7 +20,7 @@ sort: by_weight
 
 
 
-
+琵琶腿	pi pa tui	1
 猪大排	zhu da pai	1
 差遣	cai qian	1
 异象	yi xiang	1
@@ -48,7 +48,7 @@ sort: by_weight
 有什么用啊	you sheng mo yong a	2
 有什么用	you sheng mo yong	1
 左移	zuo yi	975492
-大润发	da lun fa	1
+大润发	da lun fa	4829400
 回答我	hui da wo	1
 彩礼	cai li	1
 怎么会有	zheng mo hui you	1
@@ -785,7 +785,7 @@ sort: by_weight
 我可以	wo ke yi	200
 自己的	zi ji de	463
 保护模式	bao hu mo shi	200
-烤鸡	kao ji	304639
+烤鸡	kao ji	304644
 操作系统	cao zuo xi tong	126959
 好几个	hao ji ge	200
 阿里云	a li yun	83922
@@ -3532,7 +3532,7 @@ sort: by_weight
 刀	dao	4829122
 倒	dao	4828443
 道	dao	4828646
-到	dao	4829386
+到	dao	4829399
 淂	de	23
 悳	de	27
 徳	de	41
@@ -4761,7 +4761,7 @@ sort: by_weight
 颓	tui	125
 忒	tui	153
 褪	tui	201
-腿	tui	4066
+腿	tui	344036
 推	tui	5296
 退	tui	344015
 唔	n	1500535
@@ -20206,7 +20206,7 @@ sort: by_weight
 疲惫	pi bei	1269
 批驳	pi bo	109
 枇杷	pi pa	176
-琵琶	pi pa	361
+琵琶	pi pa	58978
 批判	pi pan	58965
 匹配	pi pei	58918
 屁屁	pi pi	333
@@ -33543,7 +33543,7 @@ sort: by_weight
 机头	ji tou	126
 寄托	ji tuo	905
 击退	ji tui	153
-鸡腿	ji tui	558484
+鸡腿	ji tui	558682
 妓女	ji nv	1218
 济南	ji nan	3068
 既能	ji neng	536
@@ -44680,7 +44680,7 @@ sort: by_weight
 水价	shui jia	260
 谁家	shui jia	575
 水煎	shui jian	117
-水饺	shui jiao	224
+水饺	shui jiao	1181806
 谁叫	shui jiao	391
 睡觉	shui jiao	23044
 水解	shui jie	171
@@ -50591,7 +50591,7 @@ sort: by_weight
 网管	wang guan	1563
 王刚	wang gang	238
 网格	wang ge	593
-网购	wang gou	265
+网购	wang gou	1193218
 王宫	wang gong	162
 亡国	wang guo	204
 王国	wang guo	910
