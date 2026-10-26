@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-机器学习	ji qi xue xi	1
+监督学习	jian du xue xi	1
+机器学习	ji qi xue xi	558736
 深度学习	sheng du xue xi	1181999
 线性变换	xian xin bian huan	246784
 既然是	ji lan shi	558735
@@ -947,7 +947,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614249
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182001
+上面说的	shang mian shuo de	1182003
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -973,7 +973,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975490
-是什么	shi sheng mo	1182000
+是什么	shi sheng mo	1182002
 简拼	jian pin	4635
 安卓	an zhuo	83980
 就这样子	jiu zhe yang zhi	100
@@ -4865,7 +4865,7 @@ sort: by_weight
 纳	na	2103
 哪	na	31902
 拿	na	1500511
-那	na	1500626
+那	na	1500629
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -16863,7 +16863,7 @@ sort: by_weight
 油	you	5961
 由	you	614277
 又	you	614365
-有	you	614523
+有	you	614536
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -22379,7 +22379,7 @@ sort: by_weight
 奋战	fen zhan	353
 纷争	fen zheng	392
 分值	fen zhi	261
-分支	fen zhi	69678
+分支	fen zhi	69738
 分众	fen zhong	239
 分钟	fen zhong	69685
 分叉	fen cha	108
@@ -64627,7 +64627,7 @@ sort: by_weight
 人格魅力	ren ge mei li	171
 认购权证	ren gou quan zheng	142
 人工流产	ren gong liu chan	147
-人工智能	ren gong zhi neng	209
+人工智能	ren gong zhi neng	1500603
 认沽权证	ren gu quan zheng	188
 任何地方	ren he di fang	243
 任何东西	ren he dong xi	291
