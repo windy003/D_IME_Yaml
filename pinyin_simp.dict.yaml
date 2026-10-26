@@ -16,8 +16,9 @@ sort: by_weight
 
 
 
-
-导数	dao shu	1
+不要登录	bu yao deng lu	1
+要登录	yao deng lu	1
+导数	dao shu	4829786
 监督学习	jian du xue xi	558737
 机器学习	ji qi xue xi	558736
 深度学习	sheng du xue xi	1181999
@@ -974,7 +975,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975490
-是什么	shi sheng mo	1182002
+是什么	shi sheng mo	1182008
 简拼	jian pin	4635
 安卓	an zhuo	83980
 就这样子	jiu zhe yang zhi	100
@@ -1667,7 +1668,7 @@ sort: by_weight
 布	bu	4781
 补	bu	590769
 部	bu	590951
-不	bu	591059
+不	bu	591079
 汃	pa	0
 跁	pa	1
 舥	pa	1
@@ -3604,7 +3605,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829780
+的	de	4829785
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -3833,7 +3834,7 @@ sort: by_weight
 叠	die	4829215
 蝶	die	1018
 爹	die	1498
-碟	die	1824
+碟	die	4829787
 跌	die	4829124
 甼	ding	0
 碠	ding	0
@@ -5547,7 +5548,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500622
+了	le	1500626
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -12502,7 +12503,7 @@ sort: by_weight
 钟	zhong	975785
 重	zhong	243218
 种	zhong	975285
-中	zhong	975849
+中	zhong	975857
 麆	zhu	0
 壴	zhu	0
 鮢	zhu	0
@@ -24244,7 +24245,7 @@ sort: by_weight
 低矮	di ai	146
 迪奥	di ao	142
 地儿	di er	200
-第二	di er	4829781
+第二	di er	4829784
 点吧	dian ba	373
 点半	dian ban	1731
 电报	dian bao	319
@@ -28802,7 +28803,7 @@ sort: by_weight
 留心	liu xin	404
 刘星	liu xing	192
 流星	liu xing	904
-流行	liu xing	34383
+流行	liu xing	1500625
 柳絮	liu xu	166
 流转	liu zhuan	618
 流着	liu zhe	274
@@ -37890,7 +37891,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246780
+现在	xian zai	246785
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -44633,7 +44634,7 @@ sort: by_weight
 说到	shuo dao	1181776
 说道	shuo dao	3428
 说得	shuo de	2688
-说的	shuo de	1181885
+说的	shuo de	1182007
 说点	shuo dian	301
 说那	shuo na	170
 说呢	shuo ne	479
@@ -50329,7 +50330,7 @@ sort: by_weight
 雨燕	yu yan	233
 寓言	yu yan	279
 预言	yu yan	614100
-语言	yu yan	614534
+语言	yu yan	614538
 余姚	yu yao	212
 雨夜	yu ye	212
 渔业	yu ye	574
@@ -59178,7 +59179,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193096
+为什么	wei shen me	1193294
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
