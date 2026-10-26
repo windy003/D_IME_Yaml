@@ -20,6 +20,8 @@ sort: by_weight
 
 
 
+
+开发的	kai fa de	1
 五小虎	wu xiao hu	1
 四小龙	shi xiao rong	1
 一个点	yi ge dian	1
@@ -907,7 +909,7 @@ sort: by_weight
 是一个	shi yi ge	212
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	540
-在不	zai bu	975582
+在不	zai bu	975850
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
 父神	fu sheng	69735
@@ -953,7 +955,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	178
-是什么意思	shi sheng mo yi si	1181914
+是什么意思	shi sheng mo yi si	1181974
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -967,7 +969,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975490
-是什么	shi sheng mo	1181926
+是什么	shi sheng mo	1181973
 简拼	jian pin	4635
 安卓	an zhuo	83980
 就这样子	jiu zhe yang zhi	100
@@ -1959,7 +1961,7 @@ sort: by_weight
 披	pi	504
 屁	pi	2822
 批	pi	3519
-皮	pi	5013
+皮	pi	58989
 鶣	pian	0
 騈	pian	0
 駢	pian	0
@@ -2371,7 +2373,7 @@ sort: by_weight
 茂	mao	933
 冒	mao	3290
 冇	mao	3377
-猫	mao	8212
+猫	mao	325980
 毛	mao	10978
 嚜	me	15
 麼	me	133
@@ -3597,7 +3599,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829778
+的	de	4829780
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -9145,7 +9147,7 @@ sort: by_weight
 降	jiang	3488
 奖	jiang	4629
 江	jiang	5217
-讲	jiang	558490
+讲	jiang	558731
 将	jiang	558695
 媎	jie	0
 鶛	jie	0
@@ -11642,7 +11644,7 @@ sort: by_weight
 簻	zhua	3
 挝	zhua	62
 爪	zhua	891
-抓	zhua	975032
+抓	zhua	975852
 蟤	zhuan	0
 腞	zhuan	0
 鄟	zhuan	0
@@ -12842,7 +12844,7 @@ sort: by_weight
 钗	chai	207
 差	chai	281
 柴	chai	978
-拆	chai	2529
+拆	chai	127081
 鋓	chan	0
 艬	chan	0
 酁	chan	0
@@ -13906,7 +13908,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1181971
-是	shi	1181972
+是	shi	1181975
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -16915,7 +16917,7 @@ sort: by_weight
 拥	yong	801
 勇	yong	1939
 永	yong	2712
-用	yong	614529
+用	yong	614532
 稶	yu	0
 軉	yu	0
 礖	yu	0
@@ -17176,7 +17178,7 @@ sort: by_weight
 雨	yu	7744
 鱼	yu	614201
 于	yu	613971
-与	yu	614531
+与	yu	614533
 溛	wa	0
 膃	wa	1
 瓲	wa	1
@@ -17708,7 +17710,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	83989
+啊	a	83995
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -22992,7 +22994,7 @@ sort: by_weight
 大把	da ba	796
 大巴	da ba	826
 大败	da bai	153
-大白	da bai	228
+大白	da bai	4829779
 打败	da bai	1002
 大板	da ban	110
 大班	da ban	140
@@ -30819,7 +30821,7 @@ sort: by_weight
 开明	kai ming	277
 楷模	kai mo	270
 开幕	kai mu	1609
-开发	kai fa	304672
+开发	kai fa	304686
 开饭	kai fan	208
 开房	kai fang	427
 开放	kai fang	7133
@@ -31269,7 +31271,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304679
+可以	ke yi	304685
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -33847,9 +33849,9 @@ sort: by_weight
 奇数	ji shu	143
 级数	ji shu	206
 记述	ji shu	264
-计数	ji shu	558713
+计数	ji shu	558732
 基数	ji shu	707
-技术	ji shu	558526
+技术	ji shu	558733
 计税	ji shui	125
 积水	ji shui	373
 既然	ji ran	558560
@@ -39816,7 +39818,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975838
+这个	zhe ge	975851
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -43286,7 +43288,7 @@ sort: by_weight
 审批	shen pi	1181268
 神码	shen ma	206
 深埋	shen mai	146
-什么	shen me	1181890
+什么	shen me	1181976
 审美	shen mei	1349
 神秘	shen mi	3854
 神庙	shen miao	464
@@ -50322,7 +50324,7 @@ sort: by_weight
 雨燕	yu yan	233
 寓言	yu yan	279
 预言	yu yan	614100
-语言	yu yan	614434
+语言	yu yan	614534
 余姚	yu yao	212
 雨夜	yu ye	212
 渔业	yu ye	574
@@ -50388,7 +50390,7 @@ sort: by_weight
 外电	wai dian	122
 外滩	wai tan	395
 外逃	wai tao	156
-外套	wai tao	947
+外套	wai tao	1193292
 外头	wai tou	274
 外来	wai lai	1133
 歪了	wai le	170
