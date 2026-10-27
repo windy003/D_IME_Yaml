@@ -19,8 +19,9 @@ sort: by_weight
 
 
 
-灵活就业	lin huo jiu ye	1
-精残二级	jin can er ji	558749
+病退	bin tui	1
+灵活就业	lin huo jiu ye	1500634
+精残二级	jin can er ji	558754
 精残	jin can	1
 丘吉尔	qiu ji er	1
 说个事	suo ge shi	1
@@ -587,7 +588,7 @@ sort: by_weight
 但以理	dan yi li	1
 请帮我	qin bang wo	2
 功能是	gong neng shi	1
-告诉我	gao shu wo	2
+告诉我	gao shu wo	246245
 尽量吧	jin liang ba	1
 我能	wo neng	1
 我能有	wo neng you	1192937
@@ -751,7 +752,7 @@ sort: by_weight
 小野坂由香	xiao ye ban you xiang	246453
 是哪里的	shi na li de	1
 哪里的	na li de	348
-病残津贴	bin can jin tie	1
+病残津贴	bin can jin tie	591089
 生个孩子	sheng ge hai zi	1181122
 新台币	xin tai bi	1
 中岛美雪	zong dao mei xue	4
@@ -1573,7 +1574,7 @@ sort: by_weight
 饼	bing	1276
 兵	bing	4611
 冰	bing	4841
-病	bing	591087
+病	bing	591090
 并	bing	591072
 鵓	bo	0
 鱍	bo	0
@@ -3622,7 +3623,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829802
+的	de	4829808
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -3733,7 +3734,7 @@ sort: by_weight
 睇	di	4939
 底	di	4829783
 滴	di	11816
-低	di	4829804
+低	di	4829807
 第	di	4829706
 地	di	101785
 嗲	dia	1341
@@ -4844,7 +4845,7 @@ sort: by_weight
 褪	tui	201
 腿	tui	344036
 推	tui	5296
-退	tui	344015
+退	tui	344064
 唔	n	1500535
 嗯	n	31984
 餪	nuan	0
@@ -9634,7 +9635,7 @@ sort: by_weight
 居	ju	2926
 句	ju	4021
 距	ju	13757
-局	ju	558530
+局	ju	558753
 据	ju	13756
 韏	quan	0
 駩	quan	0
@@ -10506,7 +10507,7 @@ sort: by_weight
 曲	qu	331066
 取	qu	331056
 区	qu	331011
-去	qu	331051
+去	qu	331069
 愃	xuan	0
 蔙	xuan	0
 萲	xuan	0
@@ -14055,7 +14056,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182028
+说	shuo	1182039
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -14181,7 +14182,7 @@ sort: by_weight
 认	ren	1500506
 忍	ren	2612
 任	ren	7851
-人	ren	1500600
+人	ren	1500622
 芿	reng	1
 陾	reng	2
 礽	reng	26
@@ -26928,7 +26929,7 @@ sort: by_weight
 能对	neng dui	248
 能听	neng ting	115
 能耐	neng nai	433
-能力	neng li	27266
+能力	neng li	1500634
 能量	neng liang	3045
 能改	neng gai	106
 能干	neng gan	677
@@ -30255,7 +30256,7 @@ sort: by_weight
 公仔	gong zai	203
 公子	gong zi	246106
 工资	gong zi	13671
-工作	gong zuo	246244
+工作	gong zuo	246246
 共存	gong cun	352
 公厕	gong ce	239
 公测	gong ce	578
@@ -30748,7 +30749,7 @@ sort: by_weight
 捆绑	kun bang	926
 昆明	kun ming	2561
 困顿	kun dun	108
-困难	kun nan	9453
+困难	kun nan	304694
 昆仑	kun lun	410
 困苦	kun ku	133
 困惑	kun huo	1494
@@ -31294,7 +31295,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304693
+可以	ke yi	304695
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -33877,7 +33878,7 @@ sort: by_weight
 技术	ji shu	558733
 计税	ji shui	125
 积水	ji shui	373
-既然	ji ran	558734
+既然	ji ran	558755
 己任	ji ren	222
 几人	ji ren	478
 即日	ji ri	240
@@ -34189,7 +34190,7 @@ sort: by_weight
 价位	jia wei	2580
 加我	jia wo	558472
 家务	jia wu	578
-减半	jian ban	261
+减半	jian ban	558752
 肩膀	jian bang	2041
 见报	jian bao	107
 简报	jian bao	381
@@ -43233,7 +43234,7 @@ sort: by_weight
 少于	shao yu	647
 稍微	shao wei	4681
 少儿	shao er	415
-社保	she bao	1182033
+社保	she bao	1182038
 设备	she bei	1181384
 射频	she pin	342
 射门	she men	970
@@ -43382,7 +43383,7 @@ sort: by_weight
 深切	shen qie	492
 神情	shen qing	1168
 深情	shen qing	1168
-申请	shen qing	1182035
+申请	shen qing	1182040
 深秋	shen qiu	274
 身躯	shen qu	560
 神学	shen xue	178
@@ -44874,7 +44875,7 @@ sort: by_weight
 燃放	ran fang	195
 染料	ran liao	316
 燃料	ran liao	1045
-然后	ran hou	1500619
+然后	ran hou	1500623
 染红	ran hong	141
 燃起	ran qi	264
 燃气	ran qi	1500302
@@ -45107,7 +45108,7 @@ sort: by_weight
 人死	ren si	133
 人所	ren suo	407
 人缘	ren yuan	383
-人员	ren yuan	23159
+人员	ren yuan	1500620
 人眼	ren yan	138
 人要	ren yao	447
 人妖	ren yao	728
@@ -49104,7 +49105,7 @@ sort: by_weight
 一期	yi qi	2090
 一起	yi qi	614263
 一千	yi qian	1674
-以前	yi qian	55759
+以前	yi qian	614550
 一腔	yi qiang	120
 一枪	yi qiang	371
 一切	yi qie	22116
@@ -51235,7 +51236,7 @@ sort: by_weight
 我讲	wo jiang	254
 我将	wo jiang	596
 握紧	wo jin	175
-我就	wo jiu	15010
+我就	wo jiu	1193304
 我局	wo ju	550
 我却	wo que	1321
 我区	wo qu	860
@@ -61475,7 +61476,7 @@ sort: by_weight
 工作单位	gong zuo dan wei	245
 工作地点	gong zuo di dian	155
 工作态度	gong zuo tai du	160
-工作能力	gong zuo neng li	227
+工作能力	gong zuo neng li	246247
 工作内容	gong zuo nei rong	168
 工作力度	gong zuo li du	195
 工作流程	gong zuo liu cheng	203
