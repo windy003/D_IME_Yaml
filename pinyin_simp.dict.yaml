@@ -16,9 +16,11 @@ sort: by_weight
 
 
 
-不要登录	bu yao deng lu	1
-要登录	yao deng lu	1
-导数	dao shu	4829786
+
+点积	dian ji	1
+不要登录	bu yao deng lu	591080
+要登录	yao deng lu	614539
+导数	dao shu	4829788
 监督学习	jian du xue xi	558737
 机器学习	ji qi xue xi	558736
 深度学习	sheng du xue xi	1181999
@@ -918,7 +920,7 @@ sort: by_weight
 在不	zai bu	975850
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
-父神	fu sheng	69735
+父神	fu sheng	69739
 刷新	sua xin	1181787
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
@@ -949,7 +951,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614249
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182003
+上面说的	shang mian shuo de	1182014
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -975,7 +977,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975490
-是什么	shi sheng mo	1182008
+是什么	shi sheng mo	1182013
 简拼	jian pin	4635
 安卓	an zhuo	83980
 就这样子	jiu zhe yang zhi	100
@@ -3769,7 +3771,7 @@ sort: by_weight
 殿	dian	1153
 电	dian	6752
 店	dian	4828528
-点	dian	4829718
+点	dian	4829789
 窵	diao	0
 奝	diao	0
 簓	diao	0
@@ -17582,7 +17584,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193287
+我	wo	1193296
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -35325,7 +35327,7 @@ sort: by_weight
 境地	jing di	613
 静电	jing dian	378
 景点	jing dian	1716
-经典	jing dian	558475
+经典	jing dian	558738
 惊动	jing dong	358
 京东	jing dong	558577
 精读	jing du	106
@@ -43387,7 +43389,7 @@ sort: by_weight
 深证	shen zheng	248
 神志	shen zhi	154
 伸直	shen zhi	206
-深知	shen zhi	1181921
+深知	shen zhi	1182009
 甚至	shen zhi	1181203
 神州	shen zhou	582
 神舟	shen zhou	833
@@ -46370,7 +46372,7 @@ sort: by_weight
 最受	zui shou	494
 最让	zui rang	146
 最热	zui re	255
-罪人	zui ren	975684
+罪人	zui ren	975858
 醉人	zui ren	338
 最早	zui zao	2350
 最最	zui zui	611
@@ -51717,7 +51719,7 @@ sort: by_weight
 碍于	ai yu	178
 爱与	ai yu	278
 爱玩	ai wan	182
-爱我	ai wo	83926
+爱我	ai wo	83996
 唉唉	ai ai	136
 皑皑	ai ai	137
 爱爱	ai ai	263
@@ -59243,7 +59245,7 @@ sort: by_weight
 我承认	wo cheng ren	521
 我是你	wo shi ni	240
 卧室里	wo shi li	131
-我是个	wo shi ge	1193281
+我是个	wo shi ge	1193295
 我是谁	wo shi shui	2222
 我说过	wo shuo guo	384
 我说我	wo shuo wo	501
@@ -64184,7 +64186,7 @@ sort: by_weight
 神经末梢	shen jing mo shao	129
 神经系统	shen jing xi tong	272
 神经衰弱	shen jing shuai ruo	154
-神经网络	shen jing wang luo	230
+神经网络	shen jing wang luo	1182012
 申请加入	shen qing jia ru	109
 申请材料	shen qing cai liao	184
 深信不疑	shen xin bu yi	105
