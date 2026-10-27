@@ -18,8 +18,11 @@ sort: by_weight
 
 
 
+
+
+硅基流动	gui ji liu dong	1
 自封	zhi feng	1
-自封口	zhi feng kou	1
+自封口	zhi feng kou	975862
 保鲜袋	bao xian dai	1
 模长	mo chang	325984
 这个是	zhe ge shi	975861
@@ -754,7 +757,7 @@ sort: by_weight
 响应式	xiang yin shi	1
 这里说的	zhe li suo de	3
 桌面环境	zuo mian huan jin	2
-常说的	chang suo de	127080
+常说的	chang suo de	127085
 手机号	sou ji hao	168
 最重要的	zui zong yao de	975096
 最重要	zui zong yao	1
@@ -917,7 +920,7 @@ sort: by_weight
 候选词	hou xuan ci	201
 第一个	di yi ge	428
 单个	dan ge	200
-是多少	shi duo sao	1181639
+是多少	shi duo sao	1182023
 截个图	jie ge tu	200
 虚拟环境	xu ni huan jin	200
 是一个	shi yi ge	1182017
@@ -957,7 +960,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614249
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182019
+上面说的	shang mian shuo de	1182022
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -969,7 +972,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	178
-是什么意思	shi sheng mo yi si	1181974
+是什么意思	shi sheng mo yi si	1182024
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -3613,7 +3616,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829793
+的	de	4829796
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -6985,7 +6988,7 @@ sort: by_weight
 固	gu	977
 孤	gu	1092
 鼓	gu	1232
-骨	gu	2332
+骨	gu	246237
 谷	gu	2678
 顾	gu	3015
 古	gu	4404
@@ -7121,7 +7124,7 @@ sort: by_weight
 寛	kuan	19
 髋	kuan	45
 宽	kuan	304582
-款	kuan	304581
+款	kuan	304690
 砿	kuang	0
 筺	kuang	0
 昿	kuang	0
@@ -11284,7 +11287,7 @@ sort: by_weight
 翔	xiang	1282
 湘	xiang	1318
 祥	xiang	1863
-响	xiang	246473
+响	xiang	246787
 箱	xiang	246472
 乡	xiang	3961
 项	xiang	246692
@@ -12511,7 +12514,7 @@ sort: by_weight
 钟	zhong	975785
 重	zhong	243218
 种	zhong	975285
-中	zhong	975857
+中	zhong	975863
 麆	zhu	0
 壴	zhu	0
 鮢	zhu	0
@@ -23795,7 +23798,7 @@ sort: by_weight
 当晚	dang wan	854
 档位	dang wei	159
 党委	dang wei	1561
-当我	dang wo	4829792
+当我	dang wo	4829795
 党务	dang wu	115
 档案	dang an	3801
 盗版	dao ban	2461
@@ -29232,7 +29235,7 @@ sort: by_weight
 惯用	guan yong	242
 管用	guan yong	579
 关羽	guan yu	493
-关于	guan yu	246235
+关于	guan yu	246238
 关外	guan wai	184
 管网	guan wang	296
 官网	guan wang	1184
@@ -33177,7 +33180,7 @@ sort: by_weight
 回退	hui tui	664986
 回暖	hui nuan	238
 惠农	hui nong	143
-汇率	hui lv	665256
+汇率	hui lv	665347
 会来	hui lai	330
 回来	hui lai	47004
 会里	hui li	208
@@ -39832,7 +39835,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975851
+这个	zhe ge	975864
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -43956,7 +43959,7 @@ sort: by_weight
 失球	shi qiu	136
 时区	shi qu	1181816
 拾取	shi qu	199
-逝去	shi qu	611
+逝去	shi qu	1182025
 市区	shi qu	3225
 失去	shi qu	9656
 失学	shi xue	105
@@ -45187,7 +45190,7 @@ sort: by_weight
 日日	ri ri	865
 日子	ri zi	1500233
 日圆	ri yuan	227
-日元	ri yuan	1500511
+日元	ri yuan	1500616
 日月	ri yue	477
 日夜	ri ye	492
 日益	ri yi	3281
@@ -51173,7 +51176,7 @@ sort: by_weight
 卧铺	wo pu	373
 我吗	wo ma	280
 我妈	wo ma	1193006
-我们	wo men	1193265
+我们	wo men	1193298
 我没	wo mei	1192891
 我发	wo fa	387
 我方	wo fang	25974
@@ -57901,7 +57904,7 @@ sort: by_weight
 热水器	re shui qi	1500301
 忍不住	ren bu zhu	3095
 认不出	ren bu chu	178
-人民币	ren min bi	1500510
+人民币	ren min bi	1500605
 人民路	ren min lu	127
 人民网	ren min wang	689
 任达华	ren da hua	117
