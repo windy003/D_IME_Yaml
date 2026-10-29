@@ -19,9 +19,11 @@ sort: by_weight
 
 
 
-代码中的	dai ma zong de	1
+
+子文件夹	zhi wen jian jia	1
+代码中的	dai ma zong de	2
 功能代码	gong neng dai ma	2
-上下键	shang xia jian	974
+上下键	shang xia jian	975
 网络地址	wang luo di zhi	2
 可选项	ke xuan xiang	784
 评评理	pin pin li	1
@@ -467,7 +469,7 @@ sort: by_weight
 可点击	ke dian ji	1
 每分钟	mei feng zong	325970
 不可以	bu ke yi	1
-系统托盘	xi tong tuo pan	6
+系统托盘	xi tong tuo pan	7
 是怎么实现的	shi zheng mo shi xian de	2
 捏放	nie fang	6306
 双指捏放	suang zhi nie fang	2
@@ -476,7 +478,7 @@ sort: by_weight
 矢量图	shi liang tu	1
 是什么公司	shi sheng mo gong shi	1
 测不出	che bu chu	1
-下面的	xia mian de	5
+下面的	xia mian de	6
 柱状图	zhu zhuang tu	2
 柱状	zhu zhuang	1
 拿上来	na shang lai	1
@@ -772,7 +774,7 @@ sort: by_weight
 这里说的	zhe li suo de	3
 桌面环境	zuo mian huan jin	2
 常说的	chang suo de	127085
-手机号	sou ji hao	168
+手机号	sou ji hao	169
 最重要的	zui zong yao de	975096
 最重要	zui zong yao	1
 发货吗	fa huo ma	69552
@@ -811,7 +813,7 @@ sort: by_weight
 传进来	cuan jin lai	1
 虚方法	xu fang fa	1
 咖啡云	ka fei yun	304446
-有一个	you yi ge	614424
+有一个	you yi ge	614425
 快速设置磁贴	kuai shu se zhi ci tie	3
 快速设置	kuai shu se zhi	1
 一个月	yi ge yue	614423
@@ -878,7 +880,7 @@ sort: by_weight
 操作系统	cao zuo xi tong	126959
 好几个	hao ji ge	200
 阿里云	a li yun	83924
-周秋良	zhou qiu liang	975233
+周秋良	zhou qiu liang	975234
 建德	jian de	558742
 在哪里	zai na li	672
 万事大吉	wan shi da ji	30
@@ -905,7 +907,7 @@ sort: by_weight
 也就是	ye jiu si	4067
 加进去	jia jin qu 20
 有哪些	you na xie	614017
-写一个	xie yi ge	214
+写一个	xie yi ge	215
 没有了	mei you le	200
 软链接	ruan lian jie	200
 键值对	jian zhi dui	200
@@ -1711,8 +1713,8 @@ sort: by_weight
 啪	pa	244
 趴	pa	680
 帕	pa	1079
-爬	pa	3501
-怕	pa	22787
+爬	pa	58992
+怕	pa	58991
 箄	pai	0
 鎃	pai	0
 犤	pai	2
@@ -3573,7 +3575,7 @@ sort: by_weight
 挡	dang	4828772
 档	dang	2850
 党	dang	4354
-当	dang	4829686
+当	dang	4829859
 隯	dao	0
 陦	dao	0
 隝	dao	0
@@ -3630,7 +3632,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829852
+的	de	4829861
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5573,7 +5575,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500643
+了	le	1500644
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -6816,10 +6818,10 @@ sort: by_weight
 割	ge	245965
 隔	ge	1866
 哥	ge	246020
-歌	ge	246241
+歌	ge	246253
 格	ge	246139
 各	ge	245962
-个	ge	246231
+个	ge	246254
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -6895,7 +6897,7 @@ sort: by_weight
 沟	gou	1802
 购	gou	2028
 狗	gou	10200
-够	gou	246219
+够	gou	246252
 熕	gong	1
 匑	gong	1
 輁	gong	1
@@ -7237,7 +7239,7 @@ sort: by_weight
 侩	kuai	80
 筷	kuai	102
 块	kuai	304609
-快	kuai	304698
+快	kuai	304701
 裃	ka	1
 擖	ka	1
 鉲	ka	2
@@ -9518,7 +9520,7 @@ sort: by_weight
 旧	jiu	558613
 久	jiu	558575
 酒	jiu	558433
-就	jiu	558724
+就	jiu	558764
 鵴	ju	0
 鋦	ju	0
 郹	ju	0
@@ -10908,7 +10910,7 @@ sort: by_weight
 係	xi	3253
 喜	xi	3558
 戏	xi	4360
-洗	xi	246674
+洗	xi	246798
 西	xi	246468
 系	xi	23892
 騢	xia	0
@@ -13240,7 +13242,7 @@ sort: by_weight
 尺	chi	764
 赤	chi	1130
 迟	chi	126945
-池	chi	127092
+池	chi	127096
 持	chi	3792
 吃	chi	126946
 嬦	chou	0
@@ -13939,7 +13941,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1181971
-是	shi	1182060
+是	shi	1182063
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14063,7 +14065,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182039
+说	shuo	1182062
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -14189,7 +14191,7 @@ sort: by_weight
 认	ren	1500506
 忍	ren	2612
 任	ren	7851
-人	ren	1500625
+人	ren	1500626
 芿	reng	1
 陾	reng	2
 礽	reng	26
@@ -14401,7 +14403,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975793
-在	zai	975886
+在	zai	975890
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -14795,7 +14797,7 @@ sort: by_weight
 醉	zui	2491
 罪	zui	975775
 嘴	zui	4583
-最	zui	975888
+最	zui	975889
 簒	cuan	0
 躥	cuan	0
 攛	cuan	0
@@ -16948,7 +16950,7 @@ sort: by_weight
 拥	yong	801
 勇	yong	1939
 永	yong	2712
-用	yong	614571
+用	yong	614574
 稶	yu	0
 軉	yu	0
 礖	yu	0
@@ -17607,7 +17609,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193310
+我	wo	1193313
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -17741,7 +17743,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84004
+啊	a	84007
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -17830,7 +17832,7 @@ sort: by_weight
 案	an	4805
 安	an	25813
 俺	an	16897
-按	an	84005
+按	an	84006
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -19388,7 +19390,7 @@ sort: by_weight
 并举	bing ju	296
 摒弃	bing qi	300
 兵器	bing qi	536
-并且	bing qie	17803
+并且	bing qie	17807
 并请	bing qing	144
 病情	bing qing	1621
 冰雪	bing xue	750
@@ -20066,7 +20068,7 @@ sort: by_weight
 排水	pai shui	538
 派人	pai ren	837
 排入	pai ru	106
-排在	pai zai	58975
+排在	pai zai	58978
 拍子	pai zi	312
 牌子	pai zi	4221
 派送	pai song	230
@@ -23506,7 +23508,7 @@ sort: by_weight
 带来	dai lai	4829593
 代劳	dai lao	107
 待了	dai le	191
-代理	dai li	4829621
+代理	dai li	4829626
 代练	dai lian	276
 带领	dai ling	2815
 带路	dai lu	360
@@ -24473,7 +24475,7 @@ sort: by_weight
 碟子	die zi	362
 蝶衣	die yi	114
 蝶舞	die wu	132
-顶部	ding bu	4828795
+顶部	ding bu	4829780
 订票	ding piao	686
 订房	ding fang	168
 顶风	ding feng	107
@@ -26179,7 +26181,7 @@ sort: by_weight
 同比	tong bi	1255
 通便	tong bian	114
 通病	tong bing	273
-同步	tong bu	344038
+同步	tong bu	344039
 铜牌	tong pai	196
 通篇	tong pian	148
 痛骂	tong ma	143
@@ -26318,7 +26320,7 @@ sort: by_weight
 同屋	tong wu	135
 突变	tu bian	415
 图表	tu biao	1383
-图标	tu biao	344031
+图标	tu biao	344041
 土鳖	tu bie	161
 徒步	tu bu	582
 图片	tu pian	344004
@@ -30942,7 +30944,7 @@ sort: by_weight
 开山	kai shan	149
 开设	kai she	304641
 开市	kai shi	274
-开始	kai shi	304642
+开始	kai shi	304682
 楷书	kai shu	304438
 开水	kai shui	904
 凯子	kai zi	117
@@ -31302,7 +31304,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304696
+可以	ke yi	304697
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -32129,7 +32131,7 @@ sort: by_weight
 海岩	hai yan	207
 海燕	hai yan	259
 海洋	hai yang	2632
-还要	hai yao	665351
+还要	hai yao	665354
 还以	hai yi	255
 还应	hai ying	499
 还有	hai you	665353
@@ -33885,7 +33887,7 @@ sort: by_weight
 技术	ji shu	558733
 计税	ji shui	125
 积水	ji shui	373
-既然	ji ran	558755
+既然	ji ran	558761
 己任	ji ren	222
 几人	ji ren	478
 即日	ji ri	240
@@ -34854,7 +34856,7 @@ sort: by_weight
 解密	jie mi	614
 洁面	jie mian	225
 截面	jie mian	261
-界面	jie mian	558614
+界面	jie mian	558730
 芥末	jie mo	154
 揭幕	jie mu	224
 节目	jie mu	8960
@@ -36768,7 +36770,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	331066
+请你	qing ni	331067
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -37219,7 +37221,7 @@ sort: by_weight
 选人	xuan ren	169
 悬在	xuan zai	157
 玄奘	xuan zang	139
-选择	xuan ze	246794
+选择	xuan ze	246797
 选自	xuan zi	117
 选材	xuan cai	155
 轩辕	xuan yuan	478
@@ -37904,7 +37906,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246671
+显示	xian shi	246675
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -37916,7 +37918,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246791
+现在	xian zai	246795
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -39158,7 +39160,7 @@ sort: by_weight
 酗酒	xu jiu	201
 许久	xu jiu	705
 续签	xu qian	247
-需求	xu qiu	19500
+需求	xu qiu	246676
 序曲	xu qu	116
 许下	xu xia	220
 许仙	xu xian	118
@@ -39849,7 +39851,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975886
+这个	zhe ge	975888
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40455,7 +40457,7 @@ sort: by_weight
 纸盒	zhi he	191
 制衡	zhi heng	205
 滞后	zhi hou	899
-之后	zhi hou	975692
+之后	zhi hou	975693
 直呼	zhi hu	110
 支护	zhi hu	119
 之火	zhi huo	233
@@ -40852,7 +40854,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	975872
+中的	zhong de	975879
 中等	zhong deng	900
 中的	zhong di	975856
 种地	zhong di	287
@@ -41729,7 +41731,7 @@ sort: by_weight
 长治	chang zhi	130
 常州	chang zhou	1184
 常住	chang zhu	241
-常驻	chang zhu	127012
+常驻	chang zhu	127014
 长传	chang chuan	155
 长春	chang chun	1896
 长长	chang chang	307
@@ -44561,7 +44563,7 @@ sort: by_weight
 暑假	shu jia	3352
 树胶	shu jiao	105
 书局	shu ju	131
-数据	shu ju	1181958
+数据	shu ju	1182035
 竖起	shu qi	1181710
 舒淇	shu qi	367
 暑期	shu qi	784
@@ -45591,7 +45593,7 @@ sort: by_weight
 再说	zai shuo	10897
 再让	zai rang	233
 载人	zai ren	129
-载入	zai ru	547
+载入	zai ru	975862
 仔仔	zai zai	390
 再造	zai zao	327
 再走	zai zou	301
@@ -46475,7 +46477,7 @@ sort: by_weight
 裁缝	cai feng	591
 财富	cai fu	4675
 财大	cai da	187
-菜单	cai dan	127070
+菜单	cai dan	127071
 踩到	cai dao	191
 才到	cai dao	264
 猜到	cai dao	476
@@ -48746,7 +48748,7 @@ sort: by_weight
 一版	yi ban	186
 一班	yi ban	744
 一半	yi ban	6975
-一般	yi ban	614297
+一般	yi ban	614299
 一帮	yi bang	1165
 一包	yi bao	690
 医保	yi bao	788
@@ -48977,7 +48979,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614549
+一个	yi ge	614551
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -50097,7 +50099,7 @@ sort: by_weight
 永和	yong he	127
 永恒	yong heng	1806
 拥护	yong hu	582
-用户	yong hu	614333
+用户	yong hu	614334
 拥挤	yong ji	934
 用脚	yong jiao	197
 涌进	yong jin	115
@@ -50730,7 +50732,7 @@ sort: by_weight
 网赚	wang zhuan	273
 网状	wang zhuang	155
 网摘	wang zhai	154
-网站	wang zhan	1193187
+网站	wang zhan	1193188
 王者	wang zhe	847
 望着	wang zhe	2494
 王振	wang zhen	123
@@ -54898,7 +54900,7 @@ sort: by_weight
 快递费	kuai di fei	263
 会计学	kuai ji xue	108
 会计师	kuai ji shi	418
-快捷键	kuai jie jian	773
+快捷键	kuai jie jian	774
 快节奏	kuai jie zou	160
 快车道	kuai che dao	130
 快餐店	kuai can dian	169
@@ -56786,7 +56788,7 @@ sort: by_weight
 这么慢	zhe me man	161
 这么大	zhe me da	975229
 这么点	zhe me dian	155
-这么多	zhe me duo	4958
+这么多	zhe me duo	975230
 这么难	zhe me nan	203
 这么好	zhe me hao	1318
 这么久	zhe me jiu	1002
@@ -56948,7 +56950,7 @@ sort: by_weight
 知情人	zhi qing ren	223
 支球队	zhi qiu dui	432
 直辖市	zhi xia shi	602
-只显示	zhi xian shi	817
+只显示	zhi xian shi	818
 只限于	zhi xian yu	181
 执行力	zhi xing li	355
 执行者	zhi xing zhe	141
@@ -59204,7 +59206,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193298
+为什么	wei shen me	1193299
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
@@ -61688,7 +61690,7 @@ sort: by_weight
 会计报表	kuai ji bao biao	107
 会计核算	kuai ji he suan	131
 会计准则	kuai ji zhun ze	148
-快捷方式	kuai jie fang shi	321
+快捷方式	kuai jie fang shi	324
 脍炙人口	kuai zhi ren kou	147
 快速发展	kuai su fa zhan	1284
 快速反应	kuai su fan ying	153
