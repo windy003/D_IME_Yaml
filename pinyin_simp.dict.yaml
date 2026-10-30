@@ -19,8 +19,8 @@ sort: by_weight
 
 
 
-
-
+整行	zheng hang	1
+整列	zheng lie	1
 小一点	xiao yi dian	1
 大一点	da yi dian	1
 网页端	wang ye duan	1
@@ -6041,7 +6041,7 @@ sort: by_weight
 裂	lie	768
 烈	lie	1000
 咧	lie	3501
-列	lie	1500522
+列	lie	1500656
 甐	lin	0
 焛	lin	0
 碄	lin	0
@@ -12150,7 +12150,7 @@ sort: by_weight
 阵	zhen	1729
 针	zhen	2103
 镇	zhen	9073
-真	zhen	975803
+真	zhen	975902
 掟	zheng	0
 塣	zheng	0
 埩	zheng	0
@@ -12207,7 +12207,7 @@ sort: by_weight
 挣	zheng	2794
 郑	zheng	3941
 证	zheng	5296
-整	zheng	7151
+整	zheng	975903
 正	zheng	20523
 这	zhei	975629
 疐	zhi	0
@@ -66138,5 +66138,5 @@ sort: by_weight
 宫保拼音	gong bao pin yin	100
 谢谢你	xie xie ni	100
 这样子	zhe yang zi	975829
-能不能	neng bu neng	1500418
+能不能	neng bu neng	1500420
 热重载	re zhong zai	100
