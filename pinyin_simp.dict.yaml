@@ -18,6 +18,8 @@ sort: by_weight
 
 
 
+
+嘶嘶	si si	1
 生的	sheng de	1
 拉结	la jie	1500667
 雅各	ya ge	614586
@@ -214,7 +216,7 @@ sort: by_weight
 一般是	yi ban shi	1
 怎么算的	zheng mo suan de	2
 是哪些	shi na xie	1
-认识你	ren shi ni	1
+认识你	ren shi ni	1500675
 二宫光	er gong guang	1
 合和本	he he ben	665203
 短按	duan an	1
@@ -298,7 +300,7 @@ sort: by_weight
 你可以	ni ke yi	1
 渐进式	jian jin shi	1
 历书	li shu	1500587
-在一起	zai yi qi	1
+在一起	zai yi qi	975929
 亦星	yi xin	1
 三田真玲	san tian zheng lin	1
 空文件	kong wen jian	1
@@ -373,7 +375,7 @@ sort: by_weight
 裸机	luo ji	1
 失败了	shi bai le	1
 成功了	cheng gong le	678
-只要求	zhi yao qiu	162
+只要求	zhi yao qiu	975928
 玩意儿	wan yi er	523
 竖屏	shu pin	1181266
 横屏	heng pin	5415
@@ -963,7 +965,7 @@ sort: by_weight
 在不	zai bu	975850
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
-父神	fu sheng	69741
+父神	fu sheng	69750
 刷新	sua xin	1181787
 什么配置	sheng mo pei zhi	200
 可以是	ke yi shi	177
@@ -3650,7 +3652,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829950
+的	de	4829952
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -11260,7 +11262,7 @@ sort: by_weight
 肖	xiao	2577
 晓	xiao	246517
 笑	xiao	14513
-小	xiao	246766
+小	xiao	246820
 鯗	xiang	0
 缿	xiang	0
 鱶	xiang	0
@@ -13690,7 +13692,7 @@ sort: by_weight
 舌	she	875
 摄	she	1406
 舍	she	1452
-蛇	she	2059
+蛇	she	1182097
 射	she	2318
 社	she	2966
 设	she	3787
@@ -13813,7 +13815,7 @@ sort: by_weight
 升	sheng	1181370
 声	sheng	20269
 省	sheng	13586
-生	sheng	1181258
+生	sheng	1182096
 谁	shei	11979
 烒	shi	0
 嘘	shi	0
@@ -17322,7 +17324,7 @@ sort: by_weight
 碗	wan	1193071
 晚	wan	1192958
 完	wan	1193241
-万	wan	1193280
+万	wan	1193331
 玩	wan	1193122
 瀇	wang	0
 輞	wang	0
@@ -17627,7 +17629,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193328
+我	wo	1193330
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -17761,7 +17763,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84012
+啊	a	84016
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -25019,7 +25021,7 @@ sort: by_weight
 多出	duo chu	13435
 多杀	duo sha	182
 躲闪	duo shan	219
-多少	duo shao	4829407
+多少	duo shao	4829951
 多食	duo shi	126
 多事	duo shi	213
 多时	duo shi	4828395
@@ -26961,7 +26963,7 @@ sort: by_weight
 能改	neng gai	106
 能干	neng gan	677
 能给	neng gei	1206
-能够	neng gou	1500598
+能够	neng gou	1500673
 能过	neng guo	198
 能看	neng kan	339
 能耗	neng hao	618
@@ -32293,8 +32295,8 @@ sort: by_weight
 好片	hao pian	198
 好评	hao ping	1525
 好嘛	hao ma	699
-好吗	hao ma	665144
-号码	hao ma	665150
+好吗	hao ma	665373
+号码	hao ma	665372
 好卖	hao mai	197
 豪迈	hao mai	265
 好慢	hao man	764
@@ -38316,7 +38318,7 @@ sort: by_weight
 小样	xiao yang	1236
 小妖	xiao yao	488
 逍遥	xiao yao	1147
-小野	xiao ye	122
+小野	xiao ye	246821
 小叶	xiao ye	299
 宵夜	xiao ye	414
 小姨	xiao yi	322
@@ -44930,7 +44932,7 @@ sort: by_weight
 嚷嚷	rang rang	425
 让人	rang ren	14659
 让座	rang zuo	236
-让我	rang wo	1500573
+让我	rang wo	1500674
 让爱	rang ai	137
 扰民	rao min	151
 绕到	rao dao	105
@@ -46415,7 +46417,7 @@ sort: by_weight
 最受	zui shou	494
 最让	zui rang	146
 最热	zui re	255
-罪人	zui ren	975865
+罪人	zui ren	975927
 醉人	zui ren	338
 最早	zui zao	2350
 最最	zui zui	611
@@ -51210,7 +51212,7 @@ sort: by_weight
 卧铺	wo pu	373
 我吗	wo ma	280
 我妈	wo ma	1193006
-我们	wo men	1193298
+我们	wo men	1193332
 我没	wo mei	1192891
 我发	wo fa	387
 我方	wo fang	25974
@@ -59288,7 +59290,7 @@ sort: by_weight
 我承认	wo cheng ren	521
 我是你	wo shi ni	240
 卧室里	wo shi li	131
-我是个	wo shi ge	1193296
+我是个	wo shi ge	1193329
 我是谁	wo shi shui	2222
 我说过	wo shuo guo	384
 我说我	wo shuo wo	501
