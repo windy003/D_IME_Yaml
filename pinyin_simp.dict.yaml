@@ -18,7 +18,13 @@ sort: by_weight
 
 
 
-也支持	ye zhi ci	1
+
+
+
+
+只加了	zhi jia le	1
+只加	zhi jia	1
+也支持	ye zhi ci	253
 嘶嘶	si si	1
 生的	sheng de	1
 拉结	la jie	1500667
@@ -819,7 +825,7 @@ sort: by_weight
 刘保杰	liu bao jie	1
 也可以	ye ke yi	614120
 降序	jiang xu	84560
-是怎么样子的	shi zheng mo yang zhi de	3
+是怎么样子的	shi zheng mo yang zhi de	4
 什么快递	sheng mo kuai di	1181346
 卡顿	ka dun	1
 梅干菜	mei gan cai	1
@@ -961,7 +967,7 @@ sort: by_weight
 虚拟环境	xu ni huan jin	200
 是一个	shi yi ge	1182017
 上滑按钮	shang hua an niu	200
-反斜扛	fan xie gang	540
+反斜扛	fan xie gang	541
 在不	zai bu	975850
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
@@ -1022,7 +1028,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975837
-是什么	shi sheng mo	1182047
+是什么	shi sheng mo	1182048
 简拼	jian pin	4638
 安卓	an zhuo	83980
 就这样子	jiu zhe yang zhi	100
@@ -2976,7 +2982,7 @@ sort: by_weight
 帆	fan	619
 樊	fan	633
 繁	fan	724
-泛	fan	69708
+泛	fan	69751
 番	fan	976
 犯	fan	2350
 返	fan	2406
@@ -3652,7 +3658,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4829956
+的	de	4829957
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5595,7 +5601,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500675
+了	le	1500676
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -14423,7 +14429,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	975906
-在	zai	975932
+在	zai	975933
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -16221,7 +16227,7 @@ sort: by_weight
 腰	yao	614433
 咬	yao	3558
 药	yao	613931
-要	yao	614580
+要	yao	614587
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -24367,7 +24373,7 @@ sort: by_weight
 电极	dian ji	413
 惦记	dian ji	607
 电机	dian ji	1202
-点击	dian ji	4829800
+点击	dian ji	4829801
 店家	dian jia	317
 电价	dian jia	4828367
 电教	dian jiao	110
@@ -28459,7 +28465,7 @@ sort: by_weight
 两路	liang lu	186
 亮光	liang guang	186
 晾干	liang gan	141
-两个	liang ge	1500635
+两个	liang ge	1500676
 两根	liang gen	507
 两国	liang guo	2665
 两款	liang kuan	1093
@@ -37938,7 +37944,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246818
+现在	xian zai	246819
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -38369,7 +38375,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246604
+项目	xiang mu	246605
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -39864,14 +39870,14 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	975694
 哲理	zhe li	478
-这里	zhe li	975866
+这里	zhe li	975928
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975920
+这个	zhe ge	975921
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40515,7 +40521,7 @@ sort: by_weight
 执教	zhi jiao	479
 指教	zhi jiao	876
 肢解	zhi jie	130
-直接	zhi jie	975886
+直接	zhi jie	975887
 纸巾	zhi jin	375
 至今	zhi jin	5728
 致敬	zhi jing	604
@@ -42996,7 +43002,7 @@ sort: by_weight
 上马	shang ma	437
 商贸	shang mao	837
 上门	shang men	1181593
-上面	shang mian	1182039
+上面	shang mian	1182043
 商贩	shang fan	220
 上访	shang fang	669
 上方	shang fang	1271
@@ -43726,7 +43732,7 @@ sort: by_weight
 石壁	shi bi	129
 势必	shi bi	954
 事变	shi bian	171
-识别	shi bie	2879
+识别	shi bie	1182039
 士兵	shi bing	2406
 世博	shi bo	222
 是不	shi bu	4431
@@ -44483,7 +44489,7 @@ sort: by_weight
 兽药	shou yao	178
 受邀	shou yao	193
 首要	shou yao	958
-首页	shou ye	1182058
+首页	shou ye	1182060
 授意	shou yi	112
 兽医	shou yi	361
 手艺	shou yi	506
@@ -46497,7 +46503,7 @@ sort: by_weight
 裁缝	cai feng	591
 财富	cai fu	4675
 财大	cai da	187
-菜单	cai dan	127071
+菜单	cai dan	127073
 踩到	cai dao	191
 才到	cai dao	264
 猜到	cai dao	476
@@ -50196,7 +50202,7 @@ sort: by_weight
 于民	yu min	186
 渔民	yu min	483
 余名	yu ming	384
-域名	yu ming	614169
+域名	yu ming	614170
 预谋	yu mou	228
 愈发	yu fa	314
 语法	yu fa	613984
@@ -59226,7 +59232,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193305
+为什么	wei shen me	1193307
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
