@@ -18,6 +18,7 @@ sort: by_weight
 
 
 
+风的季节	feng de ji jie	1
 朝觐	cao jin	1
 存成	cun cheng	1
 帧图	zheng tu	975715
@@ -1079,7 +1080,7 @@ sort: by_weight
 常用语	chang yong yu	327
 一定	yi din	614251
 这样子	zhe yang zhi	975837
-是什么	shi sheng mo	1182109
+是什么	shi sheng mo	1182123
 简拼	jian pin	4638
 安卓	an zhuo	83983
 就这样子	jiu zhe yang zhi	100
@@ -3179,7 +3180,7 @@ sort: by_weight
 疯	feng	3471
 峰	feng	3510
 封	feng	69677
-风	feng	12099
+风	feng	69758
 鼣	fei	0
 胇	fei	0
 疿	fei	0
@@ -13083,7 +13084,7 @@ sort: by_weight
 场	chang	5636
 厂	chang	5991
 常	chang	127006
-唱	chang	7744
+唱	chang	127105
 长	chang	127055
 窲	chao	0
 轈	chao	0
@@ -17461,7 +17462,7 @@ sort: by_weight
 稳	wen	2822
 温	wen	2981
 文	wen	1193312
-问	wen	1193128
+问	wen	1193340
 塕	weng	0
 瞈	weng	0
 鶲	weng	1
@@ -21614,7 +21615,7 @@ sort: by_weight
 明了	ming liao	515
 明亮	ming liang	325917
 名列	ming lie	536
-命令	ming ling	325999
+命令	ming ling	326031
 名流	ming liu	251
 名录	ming lu	498
 名贵	ming gui	328
@@ -22424,7 +22425,7 @@ sort: by_weight
 分段	fen duan	417
 分担	fen dan	692
 分到	fen dao	440
-分得	fen de	335
+分得	fen de	69759
 粉底	fen di	340
 分店	fen dian	540
 奋斗	fen dou	2632
@@ -29938,7 +29939,7 @@ sort: by_weight
 格局	ge ju	2557
 搁浅	ge qian	257
 各区	ge qu	279
-歌曲	ge qu	246103
+歌曲	ge qu	246264
 阁下	ge xia	506
 各县	ge xian	270
 各校	ge xiao	151
@@ -33817,7 +33818,7 @@ sort: by_weight
 计较	ji jiao	1135
 即将	ji jiang	5807
 集结	ji jie	597
-季节	ji jie	2941
+季节	ji jie	558780
 几斤	ji jin	137
 挤进	ji jin	188
 极尽	ji jin	221
@@ -44154,7 +44155,7 @@ sort: by_weight
 失身	shi shen	128
 失声	shi sheng	194
 师生	shi sheng	1250
-是谁	shi shei	1181955
+是谁	shi shei	1182124
 失实	shi shi	107
 湿湿	shi shi	131
 失事	shi shi	154
@@ -48066,8 +48067,8 @@ sort: by_weight
 月影	yue ying	614212
 越有	yue you	150
 约有	yue you	480
-粤语	yue yu	838
-越狱	yue yu	1625
+粤语	yue yu	614597
+越狱	yue yu	614596
 越位	yue wei	228
 约为	yue wei	1093
 月儿	yue er	223
@@ -53211,7 +53212,7 @@ sort: by_weight
 大屏幕	da ping mu	509
 打麻将	da ma jiang	493
 大卖场	da mai chang	237
-大满贯	da man guan	153
+大满贯	da man guan	4830016
 大忙人	da mang ren	111
 大门口	da men kou	264
 大美女	da mei nv	341
@@ -56878,7 +56879,7 @@ sort: by_weight
 这两天	zhe liang tian	3563
 这两个	zhe liang ge	975579
 这两种	zhe liang zhong	855
-这个人	zhe ge ren	975058
+这个人	zhe ge ren	975959
 这个字	zhe ge zi	290
 这个词	zhe ge ci	975705
 这个月	zhe ge yue	1119
@@ -57111,7 +57112,7 @@ sort: by_weight
 中国区	zhong guo qu	461
 中国驻	zhong guo zhu	409
 中国式	zhong guo shi	268
-中国人	zhong guo ren	975626
+中国人	zhong guo ren	975958
 中科院	zhong ke yuan	834
 中控台	zhong kong tai	110
 中华网	zhong hua wang	147
@@ -59517,7 +59518,7 @@ sort: by_weight
 安全感	an quan gan	925
 安全期	an quan qi	174
 安全性	an quan xing	1682
-安装包	an zhuang bao	261
+安装包	an zhuang bao	84021
 安装盘	an zhuang pan	193
 安装完	an zhuang wan	122
 按顺序	an shun xu	129
