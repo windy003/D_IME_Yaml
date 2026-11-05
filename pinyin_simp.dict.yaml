@@ -16,7 +16,12 @@ sort: by_weight
 
 
 
-代理页面	dai li ye mian	1
+
+
+
+哪年的	na nian de	1
+哪年	na nian	1
+代理页面	dai li ye mian	2
 咱的	zhan de	975952
 驼峰	tuo feng	6283
 也能用	ye neng yong	1
@@ -3702,7 +3707,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4830007
+的	de	4830012
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4962,7 +4967,7 @@ sort: by_weight
 呐	na	1861
 娜	na	1998
 纳	na	2103
-哪	na	31902
+哪	na	1500683
 拿	na	1500511
 那	na	1500682
 錼	nai	1
@@ -5160,7 +5165,7 @@ sort: by_weight
 廿	nian	355
 粘	nian	816
 念	nian	4327
-年	nian	1500559
+年	nian	1500684
 樢	niao	0
 嬝	niao	0
 裊	niao	1
@@ -5645,7 +5650,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500685
+了	le	1500687
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -14011,7 +14016,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1182099
-是	shi	1182114
+是	shi	1182120
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -26715,7 +26720,7 @@ sort: by_weight
 那男	na nan	125
 哪呢	na ne	180
 哪能	na neng	1309
-那年	na nian	892
+那年	na nian	1500645
 拿捏	na nie	156
 那您	na nin	145
 哪来	na lai	806
@@ -26728,7 +26733,7 @@ sort: by_weight
 那该	na gai	108
 哪敢	na gan	171
 拿个	na ge	557
-哪个	na ge	1500636
+哪个	na ge	1500678
 那个	na ge	1500478
 那根	na gen	354
 拿给	na gei	232
@@ -29212,7 +29217,7 @@ sort: by_weight
 挂载	gua zai	246070
 挂在	gua zai	1390
 瓜子	gua zi	398
-关闭	guan bi	246179
+关闭	guan bi	246180
 官兵	guan bing	1163
 关门	guan men	1226
 冠名	guan ming	254
@@ -30208,7 +30213,7 @@ sort: by_weight
 共同	gong tong	11597
 供暖	gong nuan	403
 宫女	gong nv	333
-功能	gong neng	246236
+功能	gong neng	246262
 宫内	gong nei	182
 公牛	gong niu	355
 工农	gong nong	199
@@ -41653,7 +41658,7 @@ sort: by_weight
 差事	chai shi	123
 拆散	chai san	136
 柴油	chai you	704
-产品	chan pin	51485
+产品	chan pin	127083
 缠绵	chan mian	628
 阐明	chan ming	309
 产房	chan fang	137
@@ -41768,7 +41773,7 @@ sort: by_weight
 猖獗	chang jue	291
 场均	chang jun	150
 长假	chang jia	918
-厂家	chang jia	4295
+厂家	chang jia	127019
 长剑	chang jian	308
 常见	chang jian	3581
 长焦	chang jiao	311
@@ -46289,7 +46294,7 @@ sort: by_weight
 坐到	zuo dao	661
 做到	zuo dao	975393
 做得	zuo de	2564
-做的	zuo de	975284
+做的	zuo de	975954
 坐垫	zuo dian	975424
 做点	zuo dian	970
 做掉	zuo diao	130
@@ -46434,7 +46439,7 @@ sort: by_weight
 最快	zui kuai	1438
 最酷	zui ku	106
 最坏	zui huai	373
-最好	zui hao	22844
+最好	zui hao	975702
 最恨	zui hen	150
 最后	zui hou	975403
 最红	zui hong	140
@@ -48925,7 +48930,7 @@ sort: by_weight
 一党	yi dang	125
 一档	yi dang	314
 已到	yi dao	247
-移到	yi dao	614273
+移到	yi dao	614286
 一刀	yi dao	811
 一到	yi dao	1003
 一道	yi dao	614247
@@ -51550,8 +51555,8 @@ sort: by_weight
 无暇	wu xia	414
 武侠	wu xia	735
 诬陷	wu xian	195
-无限	wu xian	1193094
-无线	wu xian	1193093
+无限	wu xian	1193101
+无线	wu xian	1193102
 无效	wu xiao	1192819
 五项	wu xiang	335
 无邪	wu xie	131
@@ -51848,7 +51853,7 @@ sort: by_weight
 安南	an nan	263
 安妮	an ni	385
 安宁	an ning	647
-按钮	an niu	83831
+按钮	an niu	83832
 安乐	an le	205
 按理	an li	142
 安利	an li	849
@@ -54571,7 +54576,7 @@ sort: by_weight
 录音带	lu yin dai	111
 录音机	lu yin ji	218
 录音室	lu yin shi	106
-路由器	lu you qi	1500686
+路由器	lu you qi	1500687
 卢武铉	lu wu xuan	114
 罗伯特	luo bo te	344
 罗布泊	luo bu po	107
@@ -59071,7 +59076,7 @@ sort: by_weight
 又称为	you cheng wei	125
 有冲突	you chong tu	122
 又出现	you chu xian	381
-右上角	you shang jiao	1780
+右上角	you shang jiao	1781
 有时候	you shi hou	8011
 有人用	you ren yong	168
 又如何	you ru he	537
