@@ -18,6 +18,8 @@ sort: by_weight
 
 
 
+
+被提	bei ti	1
 补漏	bu lou	1
 热熔补漏棒	le rong bu lou bang	1
 热熔	le rong	1
@@ -718,7 +720,7 @@ sort: by_weight
 说一下	suo yi xia	1
 选到底	xuan dao di	422
 有办法	you ban fa	1
-晚叙	wan xu	1192991
+晚叙	wan xu	1193341
 多进程	duo jin cheng	1
 会怎么样	hui zheng mo yang	2
 建德本地	jian de ben di	2
@@ -772,7 +774,7 @@ sort: by_weight
 从机	cong ji	126937
 响铃	xiang lin	246488
 没问题	mei wen ti	3
-能打开	neng da kai	1
+能打开	neng da kai	1500687
 不使用	bu shi yong	1
 信靠	xin kao	1
 另一个	lin yi ge	1
@@ -984,7 +986,7 @@ sort: by_weight
 无衬线字体	wu cheng xian zhi ti	201
 无衬线	wu cheng xian	200
 什么区别	sheng mo qu bie	1181408
-是怎么回事	shi zheng mo hui shi	1182113
+是怎么回事	shi zheng mo hui shi	1182126
 怎么理解	zheng mo li jie	975637
 脑梗	nao geng	20
 看顾	kan gu	304643
@@ -1358,7 +1360,7 @@ sort: by_weight
 背	bei	5608
 北	bei	6464
 呗	bei	8019
-被	bei	591119
+被	bei	591127
 滭	bi	0
 驆	bi	0
 鷝	bi	0
@@ -2616,7 +2618,7 @@ sort: by_weight
 梅	mei	3492
 美	mei	325952
 每	mei	325967
-没	mei	325930
+没	mei	326032
 鸍	mi	0
 麊	mi	0
 塓	mi	0
@@ -4585,7 +4587,7 @@ sort: by_weight
 踢	ti	3745
 题	ti	344029
 体	ti	5566
-提	ti	8578
+提	ti	344073
 鷏	tian	0
 睼	tian	0
 鷆	tian	0
@@ -5076,7 +5078,7 @@ sort: by_weight
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	1500672
+能	neng	1500688
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -6905,7 +6907,7 @@ sort: by_weight
 歌	ge	246259
 格	ge	246139
 各	ge	245962
-个	ge	246263
+个	ge	246265
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -11593,7 +11595,7 @@ sort: by_weight
 星	xing	246632
 型	xing	246615
 性	xing	246489
-行	xing	246816
+行	xing	246831
 哅	xiong	1
 忷	xiong	1
 恟	xiong	1
@@ -12614,7 +12616,7 @@ sort: by_weight
 钟	zhong	975785
 重	zhong	243218
 种	zhong	975285
-中	zhong	975956
+中	zhong	975961
 麆	zhu	0
 壴	zhu	0
 鮢	zhu	0
@@ -14025,7 +14027,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1182099
-是	shi	1182122
+是	shi	1182127
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -18057,7 +18059,7 @@ sort: by_weight
 摁	en	319
 唔	en	1126
 嗯	en	31982
-恩	en	162032
+恩	en	162040
 鞥	eng	231
 诶	ei	1766
 衈	er	0
@@ -23311,7 +23313,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	4828963
+打开	da kai	4830018
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -24657,7 +24659,7 @@ sort: by_weight
 豆瓣	dou ban	606
 都被	dou bei	2596
 都比	dou bi	731
-都不	dou bu	4828780
+都不	dou bu	4830017
 斗篷	dou peng	142
 豆粕	dou po	208
 都没	dou mei	6066
@@ -29335,7 +29337,7 @@ sort: by_weight
 惯用	guan yong	242
 管用	guan yong	579
 关羽	guan yu	493
-关于	guan yu	246238
+关于	guan yu	246266
 关外	guan wai	184
 管网	guan wang	296
 官网	guan wang	1184
@@ -36190,7 +36192,7 @@ sort: by_weight
 启动	qi dong	19034
 气度	qi du	287
 其它	qi ta	12560
-其他	qi ta	331002
+其他	qi ta	331081
 乞讨	qi tao	386
 奇特	qi te	719
 气体	qi ti	1255
@@ -40815,7 +40817,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	975926
+只有	zhi you	975960
 之用	zhi yong	469
 只用	zhi yong	975494
 之语	zhi yu	148
@@ -43658,7 +43660,7 @@ sort: by_weight
 生姜	sheng jiang	391
 圣洁	sheng jie	1181881
 生津	sheng jin	106
-圣经	sheng jing	1182034
+圣经	sheng jing	1182128
 省局	sheng ju	265
 圣骑	sheng qi	233
 升起	sheng qi	758
@@ -43747,7 +43749,7 @@ sort: by_weight
 生涯	sheng ya	1432
 盛宴	sheng yan	463
 生意	sheng yi	6235
-声音	sheng yin	1181082
+声音	sheng yin	1182125
 生硬	sheng ying	382
 声优	sheng you	184
 省油	sheng you	346
@@ -50043,7 +50045,7 @@ sort: by_weight
 由市	you shi	359
 有事	you shi	5282
 又是	you shi	614563
-有时	you shi	614592
+有时	you shi	614598
 优势	you shi	614371
 右手	you shou	1738
 有数	you shu	340
@@ -50816,7 +50818,7 @@ sort: by_weight
 网赚	wang zhuan	273
 网状	wang zhuang	155
 网摘	wang zhai	154
-网站	wang zhan	1193199
+网站	wang zhan	1193343
 王者	wang zhe	847
 望着	wang zhe	2494
 王振	wang zhen	123
@@ -51380,7 +51382,7 @@ sort: by_weight
 我一	wo yi	19518
 握有	wo you	116
 我又	wo you	3225
-我有	wo you	1192997
+我有	wo you	1193342
 我用	wo yong	1193101
 我往	wo wang	105
 我问	wo wen	1212
@@ -54530,7 +54532,7 @@ sort: by_weight
 流通股	liu tong gu	448
 六年级	liu nian ji	156
 浏览量	liu lan liang	166
-浏览器	liu lan qi	1500381
+浏览器	liu lan qi	1500688
 浏览者	liu lan zhe	132
 流浪猫	liu lang mao	117
 流浪狗	liu lang gou	123
