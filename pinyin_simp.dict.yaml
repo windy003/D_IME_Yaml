@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-元组	yuan zhu	1
+消息队列	xiao xi dui lie	1
+元组	yuan zhu	614159
 种姓制度	zong xin zhi du	2
 种姓	zong xin	975885
 提示音	ti shi yin	644
@@ -802,7 +802,7 @@ sort: by_weight
 信靠	xin kao	1
 另一个	lin yi ge	1
 我之前	wo zhi qian	142
-新农都	xin nong du	246649
+新农都	xin nong du	246651
 是这个	shi zhe ge	4
 塞来昔布	sai lai xi bu	1
 核磁共震	he ci gong zheng	1
@@ -990,7 +990,7 @@ sort: by_weight
 好几个	hao ji ge	200
 阿里云	a li yun	83924
 周秋良	zhou qiu liang	975235
-建德	jian de	558742
+建德	jian de	558781
 在哪里	zai na li	691
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
@@ -1008,14 +1008,14 @@ sort: by_weight
 好了吗	hao le ma	200
 无衬线字体	wu cheng xian zhi ti	201
 无衬线	wu cheng xian	200
-什么区别	sheng mo qu bie	1181408
+什么区别	sheng mo qu bie	1181409
 是怎么回事	shi zheng mo hui shi	1182126
 怎么理解	zheng mo li jie	975637
 脑梗	nao geng	20
 看顾	kan gu	304643
 也就是	ye jiu si	4067
 加进去	jia jin qu 20
-有哪些	you na xie	614017
+有哪些	you na xie	614018
 写一个	xie yi ge	215
 没有了	mei you le	200
 软链接	ruan lian jie	200
@@ -1082,10 +1082,10 @@ sort: by_weight
 下标	xia biao	10803
 了啊	le a	4053
 希望歌	xi wang ge	202
-有什么区别	you sheng mo qu bie	614257
+有什么区别	you sheng mo qu bie	614258
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182042
+上面说的	shang mian shuo de	1182044
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1111,7 +1111,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614251
 这样子	zhe yang zhi	975837
-是什么	shi sheng mo	1182129
+是什么	shi sheng mo	1182130
 简拼	jian pin	4643
 安卓	an zhuo	83987
 就这样子	jiu zhe yang zhi	100
@@ -2379,7 +2379,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326048
+吗	ma	326050
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3543,7 +3543,7 @@ sort: by_weight
 搭	da	2238
 答	da	3087
 达	da	9692
-大	da	4830079
+大	da	4830084
 打	da	4828792
 艜	dai	0
 軩	dai	0
@@ -3732,7 +3732,7 @@ sort: by_weight
 刀	dao	4829122
 倒	dao	4828443
 道	dao	4828646
-到	dao	4830005
+到	dao	4830082
 淂	de	23
 悳	de	27
 徳	de	41
@@ -3741,7 +3741,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4830077
+的	de	4830083
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5170,7 +5170,7 @@ sort: by_weight
 呢	ni	2485
 尼	ni	2504
 拟	ni	2833
-你	ni	1500676
+你	ni	1500700
 躎	nian	0
 秊	nian	0
 簐	nian	0
@@ -7159,7 +7159,7 @@ sort: by_weight
 锅	guo	1884
 郭	guo	4365
 果	guo	4532
-国	guo	246230
+国	guo	246273
 过	guo	246143
 猤	gui	0
 茥	gui	0
@@ -7917,7 +7917,7 @@ sort: by_weight
 嗨	hai	1333
 害	hai	2854
 海	hai	12451
-还	hai	665391
+还	hai	665399
 莟	han	0
 雗	han	0
 蜭	han	0
@@ -8111,10 +8111,10 @@ sort: by_weight
 核	he	664972
 呵	he	3423
 河	he	3946
-合	he	665388
+合	he	665396
 何	he	6636
 喝	he	15293
-和	he	665387
+和	he	665398
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -28664,7 +28664,7 @@ sort: by_weight
 两位	liang wei	3863
 两岸	liang an	2049
 猎豹	lie bao	131
-列表	lie biao	1500506
+列表	lie biao	1500508
 列明	lie ming	109
 裂缝	lie feng	533
 列队	lie dui	112
@@ -32257,7 +32257,7 @@ sort: by_weight
 害我	hai wo	434
 海岸	hai an	583
 孩儿	hai er	205
-海尔	hai er	665116
+海尔	hai er	665117
 海鸥	hai ou	320
 韩版	han ban	167
 汉堡	han bao	546
@@ -32365,7 +32365,7 @@ sort: by_weight
 杭萧	hang xiao	145
 航行	hang xing	417
 行长	hang zhang	769
-杭州	hang zhou	665327
+杭州	hang zhou	665331
 航程	hang cheng	133
 杭城	hang cheng	140
 夯实	hang shi	251
@@ -45637,7 +45637,7 @@ sort: by_weight
 再好	zai hao	623
 载荷	zai he	230
 灾后	zai hou	341
-在乎	zai hu	2400
+在乎	zai hu	975706
 灾祸	zai huo	109
 再回	zai hui	294
 在即	zai ji	363
@@ -49815,7 +49815,7 @@ sort: by_weight
 营养	ying yang	4138
 硬要	ying yao	246
 应邀	ying yao	488
-营业	ying ye	1738
+营业	ying ye	614602
 应以	ying yi	614544
 影印	ying yin	109
 影音	ying yin	880
@@ -51372,7 +51372,7 @@ sort: by_weight
 我这	wo zhe	1193194
 我真	wo zhen	2143
 我正	wo zheng	403
-我只	wo zhi	1193344
+我只	wo zhi	1193347
 握住	wo zhu	581
 卧床	wo chuang	205
 我常	wo chang	119
@@ -54646,7 +54646,7 @@ sort: by_weight
 关键点	guan jian dian	175
 关键性	guan jian xing	246
 关键字	guan jian zi	1514
-关键词	guan jian ci	1898
+关键词	guan jian ci	1900
 关节炎	guan jie yan	246008
 管辖权	guan xia quan	138
 冠心病	guan xin bing	397
@@ -54864,7 +54864,7 @@ sort: by_weight
 攻击性	gong ji xing	203
 攻击者	gong ji zhe	195
 弓箭手	gong jian shou	154
-公交车	gong jiao che	1784
+公交车	gong jiao che	1901
 宫颈癌	gong jing ai	182
 工具条	gong ju tiao	1327
 工具栏	gong ju lan	531
