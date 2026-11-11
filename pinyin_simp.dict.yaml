@@ -17,7 +17,9 @@ sort: by_weight
 
 
 
-提示音	ti shi yin	1
+种姓制度	zong xin zhi du	1
+种姓	zong xin	1
+提示音	ti shi yin	644
 可读化	ke du hua	1
 长连接	chang lian jie	1
 不稳定	bu wen din	1
@@ -790,8 +792,8 @@ sort: by_weight
 有办法吗	you ban fa ma	2
 骄奢淫逸	jiao se yin yi	1
 我要求	wo yao qiu	114
-从机	cong ji	126937
-响铃	xiang lin	246488
+从机	cong ji	127020
+响铃	xiang lin	246788
 没问题	mei wen ti	3
 能打开	neng da kai	1500687
 不使用	bu shi yong	1
@@ -987,7 +989,7 @@ sort: by_weight
 阿里云	a li yun	83924
 周秋良	zhou qiu liang	975235
 建德	jian de	558742
-在哪里	zai na li	685
+在哪里	zai na li	687
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
@@ -3737,7 +3739,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4830056
+的	de	4830060
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -8169,7 +8171,7 @@ sort: by_weight
 侯	hou	665045
 後	hou	2787
 厚	hou	3079
-后	hou	665386
+后	hou	665390
 宖	hong	0
 篊	hong	0
 焢	hong	0
@@ -14296,7 +14298,7 @@ sort: by_weight
 认	ren	1500506
 忍	ren	2612
 任	ren	7851
-人	ren	1500690
+人	ren	1500693
 芿	reng	1
 陾	reng	2
 礽	reng	26
@@ -23588,7 +23590,7 @@ sort: by_weight
 带兵	dai bing	118
 代步	dai bu	152
 逮捕	dai bu	800
-代码	dai ma	4828577
+代码	dai ma	4828579
 怠慢	dai man	186
 待命	dai ming	232
 代发	dai fa	146
@@ -29219,7 +29221,7 @@ sort: by_weight
 瓜分	gua fen	245
 刮风	gua feng	146
 寡妇	gua fu	264
-挂断	gua duan	228
+挂断	gua duan	246072
 挂单	gua dan	155
 挂到	gua dao	120
 挂掉	gua diao	294
@@ -33210,7 +33212,7 @@ sort: by_weight
 或许	huo xu	8387
 获准	huo zhun	324
 活着	huo zhe	3703
-或者	huo zhe	665328
+或者	huo zhe	665329
 获知	huo zhi	282
 火种	huo zhong	160
 货主	huo zhu	133
@@ -33439,7 +33441,7 @@ sort: by_weight
 回音	hui yin	454
 辉映	hui ying	110
 回应	hui ying	2332
-会有	hui you	664993
+会有	hui you	665355
 会用	hui yong	826
 会玩	hui wan	132
 回望	hui wang	175
@@ -35001,7 +35003,7 @@ sort: by_weight
 接替	jie ti	381
 阶梯	jie ti	381
 借条	jie tiao	114
-接听	jie ting	558506
+接听	jie ting	558685
 接头	jie tou	534
 街头	jie tou	2186
 接通	jie tong	504
@@ -37199,7 +37201,7 @@ sort: by_weight
 区县	qu xian	545
 曲线	qu xian	1996
 取笑	qu xiao	292
-取消	qu xiao	7009
+取消	qu xiao	331068
 去向	qu xiang	523
 取向	qu xiang	546
 去想	qu xiang	564
@@ -38593,7 +38595,7 @@ sort: by_weight
 想象	xiang xiang	5402
 想想	xiang xiang	7535
 想写	xiang xie	308
-相信	xiang xin	246712
+相信	xiang xin	246722
 相撞	xiang zhuang	301
 乡长	xiang zhang	164
 想找	xiang zhao	774
@@ -39956,7 +39958,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	975949
+这个	zhe ge	975950
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40562,7 +40564,7 @@ sort: by_weight
 纸盒	zhi he	191
 制衡	zhi heng	205
 滞后	zhi hou	899
-之后	zhi hou	975703
+之后	zhi hou	975705
 直呼	zhi hu	110
 支护	zhi hu	119
 之火	zhi huo	233
@@ -45949,7 +45951,7 @@ sort: by_weight
 子弟	zi di	503
 字典	zi dian	982
 自定	zi ding	163
-自动	zi dong	975956
+自动	zi dong	975958
 姿态	zi tai	1619
 自提	zi ti	116
 自体	zi ti	138
@@ -49550,7 +49552,7 @@ sort: by_weight
 阴蒂	yin di	267
 音调	yin diao	175
 引渡	yin du	131
-印度	yin du	5282
+印度	yin du	614289
 银泰	yin tai	141
 阴天	yin tian	439
 阴囊	yin nang	159
@@ -56893,7 +56895,7 @@ sort: by_weight
 这么慢	zhe me man	161
 这么大	zhe me da	975229
 这么点	zhe me dian	155
-这么多	zhe me duo	975230
+这么多	zhe me duo	975231
 这么难	zhe me nan	203
 这么好	zhe me hao	1318
 这么久	zhe me jiu	1002
@@ -59311,7 +59313,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193340
+为什么	wei shen me	1193341
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
