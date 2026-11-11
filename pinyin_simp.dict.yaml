@@ -20,7 +20,9 @@ sort: by_weight
 
 
 
-禁木令	jin mu lin	1
+
+发什么快递	fa sheng mo kuai di	1
+禁木令	jin mu lin	558786
 有什么关系	you sheng mo guan xi	1
 消息队列	xiao xi dui lie	1
 元组	yuan zhu	614159
@@ -1056,7 +1058,7 @@ sort: by_weight
 是一个	shi yi ge	1182018
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	541
-在不	zai bu	975850
+在不	zai bu	975981
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
 父神	fu sheng	69752
@@ -3012,7 +3014,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69748
+发	fa	69765
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -3737,7 +3739,7 @@ sort: by_weight
 刀	dao	4829122
 倒	dao	4828443
 道	dao	4828646
-到	dao	4830082
+到	dao	4830090
 淂	de	23
 悳	de	27
 徳	de	41
@@ -3746,7 +3748,7 @@ sort: by_weight
 德	de	7178
 地	de	4829450
 得	de	4829502
-的	de	4830083
+的	de	4830089
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4193,7 +4195,7 @@ sort: by_weight
 朵	duo	4829687
 夺	duo	1083
 躲	duo	2188
-多	duo	4829691
+多	duo	4830088
 頧	dui	0
 祋	dui	0
 痽	dui	1
@@ -4785,7 +4787,7 @@ sort: by_weight
 透	tou	1771
 偷	tou	343931
 投	tou	344000
-头	tou	344033
+头	tou	344076
 餇	tong	0
 蓪	tong	0
 鉖	tong	0
@@ -6117,7 +6119,7 @@ sort: by_weight
 梁	liang	4148
 亮	liang	1500279
 量	liang	1500531
-两	liang	1500202
+两	liang	1500703
 犣	lie	0
 鮤	lie	0
 擸	lie	0
@@ -7451,7 +7453,7 @@ sort: by_weight
 拷	kao	946
 烤	kao	304432
 考	kao	16604
-靠	kao	304708
+靠	kao	304717
 嶱	ke	0
 翗	ke	0
 嵑	ke	0
@@ -8048,7 +8050,7 @@ sort: by_weight
 耗	hao	1100
 豪	hao	1625
 浩	hao	1631
-号	hao	665287
+号	hao	665400
 好	hao	665392
 麧	he	0
 齃	he	0
@@ -9239,7 +9241,7 @@ sort: by_weight
 焦	jiao	1205
 胶	jiao	1356
 角	jiao	558538
-脚	jiao	5573
+脚	jiao	558787
 较	jiao	7414
 教	jiao	558631
 交	jiao	558751
@@ -13121,7 +13123,7 @@ sort: by_weight
 厂	chang	5991
 常	chang	127006
 唱	chang	127105
-长	chang	127055
+长	chang	127109
 窲	chao	0
 轈	chao	0
 巐	chao	0
@@ -14055,7 +14057,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1182148
-是	shi	1182149
+是	shi	1182154
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -17444,7 +17446,7 @@ sort: by_weight
 汪	wang	1887
 望	wang	1192905
 忘	wang	4829
-往	wang	1193285
+往	wang	1193348
 王	wang	1192822
 网	wang	1193150
 鼤	wen	0
@@ -24475,7 +24477,7 @@ sort: by_weight
 电讯	dian xun	354
 殿下	dian xia	289
 癫痫	dian xian	238
-电线	dian xian	605
+电线	dian xian	4830086
 点心	dian xin	965
 电信	dian xin	7187
 典型	dian xing	4669
@@ -24507,7 +24509,7 @@ sort: by_weight
 电磁	dian ci	397
 点此	dian ci	2361
 店员	dian yuan	463
-电源	dian yuan	4828552
+电源	dian yuan	4830087
 典雅	dian ya	528
 电压	dian ya	2069
 点样	dian yang	138
@@ -28389,7 +28391,7 @@ sort: by_weight
 联接	lian jie	281
 廉洁	lian jie	335
 连接	lian jie	1500684
-链接	lian jie	1500683
+链接	lian jie	1500702
 炼金	lian jin	370
 练就	lian jiu	207
 恋情	lian qing	854
@@ -30821,7 +30823,7 @@ sort: by_weight
 款待	kuan dai	160
 宽带	kuan dai	304528
 宽的	kuan de	166
-宽度	kuan du	304695
+宽度	kuan du	304718
 宽广	kuan guang	480
 款款	kuan kuan	168
 宽阔	kuan kuo	469
@@ -30891,7 +30893,7 @@ sort: by_weight
 快慢	kuai man	169
 快门	kuai men	625
 快到	kuai dao	773
-快递	kuai di	304596
+快递	kuai di	304719
 快点	kuai dian	4611
 快艇	kuai ting	157
 快来	kuai lai	1003
@@ -31418,7 +31420,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304713
+可以	ke yi	304716
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -32248,7 +32250,7 @@ sort: by_weight
 还要	hai yao	665354
 还以	hai yi	255
 还应	hai ying	499
-还有	hai you	665353
+还有	hai you	665401
 还用	hai yong	907
 海域	hai yu	976
 海外	hai wai	4242
@@ -32370,7 +32372,7 @@ sort: by_weight
 杭萧	hang xiao	145
 航行	hang xing	417
 行长	hang zhang	769
-杭州	hang zhou	665331
+杭州	hang zhou	665402
 航程	hang cheng	133
 杭城	hang cheng	140
 夯实	hang shi	251
@@ -41622,7 +41624,7 @@ sort: by_weight
 差点	cha dian	3768
 查毒	cha du	115
 插队	cha dui	210
-插头	cha tou	448
+插头	cha tou	127110
 插图	cha tu	343
 刹那	cha na	377
 查理	cha li	208
@@ -43435,7 +43437,7 @@ sort: by_weight
 审批	shen pi	1181268
 神码	shen ma	206
 深埋	shen mai	146
-什么	shen me	1182044
+什么	shen me	1182156
 审美	shen mei	1349
 神秘	shen mi	3854
 神庙	shen miao	464
@@ -47243,7 +47245,7 @@ sort: by_weight
 三间	san jian	110
 散件	san jian	112
 三件	san jian	213
-三角	san jiao	876
+三角	san jiao	1182153
 三江	san jiang	201
 三姐	san jie	116
 三界	san jie	150
@@ -64294,7 +64296,7 @@ sort: by_weight
 什么叫做	shen me jiao zuo	216
 什么情况	shen me qing kuang	308
 什么程度	shen me cheng du	259
-什么时候	shen me shi hou	1181633
+什么时候	shen me shi hou	1182155
 什么时间	shen me shi jian	273
 什么事情	shen me shi qing	1123
 什么作用	shen me zuo yong	140
