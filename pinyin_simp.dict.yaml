@@ -18,7 +18,9 @@ sort: by_weight
 
 
 
-奥氮平	ao dan pin	1
+胆碱能	dan jian neng	1
+胆碱	dan jian	1
+奥氮平	ao dan pin	84038
 杭州建德	hang zhou jian de	1
 单人沙发	dan ren sa fa	4830109
 在做什么	zai zuo sheng mo	1
@@ -3658,7 +3660,7 @@ sort: by_weight
 氮	dan	516
 弹	dan	570
 担	dan	817
-胆	dan	1035
+胆	dan	4830110
 淡	dan	1981
 丹	dan	2418
 蛋	dan	2805
@@ -5015,7 +5017,7 @@ sort: by_weight
 纳	na	2103
 哪	na	1500685
 拿	na	1500511
-那	na	1500698
+那	na	1500710
 錼	nai	1
 耏	nai	1
 釢	nai	1
@@ -5109,11 +5111,11 @@ sort: by_weight
 讷	ne	144
 呐	ne	188
 哪	ne	284
-呢	ne	1500699
+呢	ne	1500712
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
-能	neng	1500704
+能	neng	1500711
 腇	nei	0
 氝	nei	1
 餒	nei	1
@@ -6822,7 +6824,7 @@ sort: by_weight
 敢	gan	7442
 感	gan	246147
 甘	gan	9371
-干	gan	22116
+干	gan	246275
 疘	gang	0
 堈	gang	1
 犅	gang	1
@@ -8512,7 +8514,7 @@ sort: by_weight
 辉	hui	2272
 灰	hui	208392
 回	hui	665332
-会	hui	665407
+会	hui	665411
 錈	juan	0
 絭	juan	1
 裐	juan	1
@@ -13365,7 +13367,7 @@ sort: by_weight
 迟	chi	126945
 池	chi	127098
 持	chi	3792
-吃	chi	126946
+吃	chi	127113
 嬦	chou	0
 懤	chou	1
 躊	chou	1
@@ -31467,8 +31469,8 @@ sort: by_weight
 口粮	kou liang	137
 口令	kou ling	595
 扣留	kou liu	194
-口干	kou gan	108
-口感	kou gan	540
+口干	kou gan	304730
+口感	kou gan	304729
 口供	kou gong	127
 扣款	kou kuan	242
 口渴	kou ke	232
@@ -34478,7 +34480,7 @@ sort: by_weight
 坚信	jian xin	983
 渐行	jian xing	179
 践行	jian xing	248
-碱性	jian xing	558478
+碱性	jian xing	558795
 检修	jian xiu	590
 见状	jian zhuang	234
 健壮	jian zhuang	307
@@ -49608,7 +49610,7 @@ sort: by_weight
 隐居	yin ju	278
 阴气	yin qi	114
 因其	yin qi	724
-引起	yin qi	13202
+引起	yin qi	614627
 殷切	yin qie	153
 殷勤	yin qin	221
 引擎	yin qing	2485
@@ -59327,7 +59329,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193349
+为什么	wei shen me	1193353
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
