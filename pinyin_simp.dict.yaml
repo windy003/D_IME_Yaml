@@ -21,7 +21,9 @@ sort: by_weight
 
 
 
-补助金	bu zhu jin	1
+
+到了吗	dao le ma	1
+补助金	bu zhu jin	591151
 重排	cong pai	2
 项目的	xiang mu de	8
 主界面	zhu jie mian	108
@@ -1121,7 +1123,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614258
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182178
+上面说的	shang mian shuo de	1182182
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1192,8 +1194,8 @@ sort: by_weight
 巴	ba	3193
 爸	ba	3625
 八	ba	6677
-把	ba	591150
-吧	ba	591148
+把	ba	591152
+吧	ba	591153
 竡	bai	0
 拝	bai	2
 擘	bai	3
@@ -1546,7 +1548,7 @@ sort: by_weight
 逼	bi	3237
 笔	bi	3249
 必	bi	3878
-比	bi	590779
+比	bi	591155
 鴘	bian	0
 稨	bian	0
 汳	bian	0
@@ -2415,7 +2417,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326059
+吗	ma	326061
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -4224,7 +4226,7 @@ sort: by_weight
 朵	duo	4829687
 夺	duo	1083
 躲	duo	2188
-多	duo	4830088
+多	duo	4830152
 頧	dui	0
 祋	dui	0
 痽	dui	1
@@ -5235,7 +5237,7 @@ sort: by_weight
 廿	nian	355
 粘	nian	816
 念	nian	4327
-年	nian	1500684
+年	nian	1500725
 樢	niao	0
 嬝	niao	0
 裊	niao	1
@@ -10659,7 +10661,7 @@ sort: by_weight
 娶	qu	1577
 佢	qu	2904
 曲	qu	331066
-取	qu	331056
+取	qu	331087
 区	qu	331082
 去	qu	331086
 愃	xuan	0
@@ -15445,7 +15447,7 @@ sort: by_weight
 斯	si	4076
 思	si	4404
 四	si	15010
-死	si	1181887
+死	si	1182181
 騪	sou	0
 颼	sou	0
 颾	sou	0
@@ -16346,7 +16348,7 @@ sort: by_weight
 腰	yao	614433
 咬	yao	3558
 药	yao	613931
-要	yao	614625
+要	yao	614634
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -17037,7 +17039,7 @@ sort: by_weight
 油	you	5961
 由	you	614609
 又	you	614583
-有	you	614628
+有	you	614633
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -17449,7 +17451,7 @@ sort: by_weight
 碗	wan	1193071
 晚	wan	1192958
 完	wan	1193241
-万	wan	1193355
+万	wan	1193359
 玩	wan	1193122
 瀇	wang	0
 輞	wang	0
@@ -18337,7 +18339,7 @@ sort: by_weight
 摆放	bai fang	978
 拜访	bai fang	1343
 白粉	bai fen	106
-百分	bai fen	178
+百分	bai fen	591154
 白费	bai fei	292
 拜佛	bai fo	127
 百搭	bai da	108
@@ -21414,7 +21416,7 @@ sort: by_weight
 每一	mei yi	325665
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	326030
+没有	mei you	326060
 没用	mei yong	325905
 美玉	mei yu	113
 美语	mei yu	128
@@ -26848,7 +26850,7 @@ sort: by_weight
 那支	na zhi	200
 那只	na zhi	1615
 哪种	na zhong	1392
-那种	na zhong	9255
+那种	na zhong	1500724
 那场	na chang	692
 拿出	na chu	3572
 那双	na shuang	623
@@ -27253,7 +27255,7 @@ sort: by_weight
 逆市	ni shi	172
 逆势	ni shi	201
 你是	ni shi	1500564
-你说	ni shuo	1500582
+你说	ni shuo	1500722
 溺水	ni shui	178
 你若	ni ruo	226
 拟在	ni zai	118
@@ -28678,7 +28680,7 @@ sort: by_weight
 粮草	liang cao	107
 两侧	liang ce	1308
 两层	liang ceng	498
-两次	liang ci	5902
+两次	liang ci	1500726
 两三	liang san	804
 两艘	liang sou	107
 两岁	liang sui	373
@@ -28842,7 +28844,7 @@ sort: by_weight
 零钱	ling qian	301
 灵巧	ling qiao	228
 领情	ling qing	139
-领取	ling qu	1500557
+领取	ling qu	1500725
 灵犀	ling xi	117
 零下	ling xia	222
 领衔	ling xian	247
@@ -30922,7 +30924,7 @@ sort: by_weight
 快慢	kuai man	169
 快门	kuai men	625
 快到	kuai dao	773
-快递	kuai di	304724
+快递	kuai di	304734
 快点	kuai dian	4611
 快艇	kuai ting	157
 快来	kuai lai	1003
@@ -31089,7 +31091,7 @@ sort: by_weight
 开山	kai shan	149
 开设	kai she	304641
 开市	kai shi	274
-开始	kai shi	304685
+开始	kai shi	304733
 楷书	kai shu	304438
 开水	kai shui	904
 凯子	kai zi	117
@@ -45910,7 +45912,7 @@ sort: by_weight
 责问	ze wen	107
 则为	ze wei	472
 择偶	ze ou	153
-怎么	zen me	975998
+怎么	zen me	976032
 怎能	zen neng	725
 怎会	zen hui	312
 怎样	zen yang	14659
@@ -49164,7 +49166,7 @@ sort: by_weight
 一行	yi hang	614021
 一号	yi hao	1768
 一盒	yi he	624
-以后	yi hou	614295
+以后	yi hou	614631
 一红	yi hong	123
 一壶	yi hu	261
 一户	yi hu	416
@@ -56932,7 +56934,7 @@ sort: by_weight
 这么慢	zhe me man	161
 这么大	zhe me da	975229
 这么点	zhe me dian	155
-这么多	zhe me duo	975231
+这么多	zhe me duo	976031
 这么难	zhe me nan	203
 这么好	zhe me hao	1318
 这么久	zhe me jiu	1002
