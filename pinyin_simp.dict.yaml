@@ -19,7 +19,9 @@ sort: by_weight
 
 
 
-项目的	xiang mu de	1
+
+重排	cong pai	2
+项目的	xiang mu de	8
 主界面	zhu jie mian	108
 只写了	zhi xie le	1
 这样子的啊	zhe yang zhi de a	2
@@ -614,7 +616,7 @@ sort: by_weight
 是怎么实现的	shi zheng mo shi xian de	4
 捏放	nie fang	6306
 双指捏放	suang zhi nie fang	2
-双指	suang zhi	1182024
+双指	suang zhi	1182025
 这个文件在做什么	zhe ge wen jian zai zuo sheng mo	3
 矢量图	shi liang tu	1
 是什么公司	shi sheng mo gong shi	1
@@ -1868,7 +1870,7 @@ sort: by_weight
 湃	pai	29
 哌	pai	120
 牌	pai	5771
-排	pai	58986
+排	pai	58997
 派	pai	6066
 拍	pai	18299
 瀊	pan	0
@@ -3773,7 +3775,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830149
+的	de	4830151
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -8205,7 +8207,7 @@ sort: by_weight
 侯	hou	665045
 後	hou	2787
 厚	hou	3079
-后	hou	665417
+后	hou	665418
 宖	hong	0
 篊	hong	0
 焢	hong	0
@@ -13446,7 +13448,7 @@ sort: by_weight
 宠	chong	1156
 虫	chong	1966
 充	chong	2904
-重	chong	4543
+重	chong	127119
 冲	chong	8294
 琡	chu	0
 檚	chu	0
@@ -31886,7 +31888,7 @@ sort: by_weight
 欢欢	huan huan	270
 换换	huan huan	383
 缓缓	huan huan	1519
-换行	huan hang	665311
+换行	huan hang	665312
 换好	huan hao	148
 换号	huan hao	375
 缓和	huan he	511
@@ -42466,7 +42468,7 @@ sort: by_weight
 丑恶	chou e	391
 崇拜	chong bai	2202
 重播	chong bo	287
-重拍	chong pai	157
+重拍	chong pai	127084
 冲泡	chong pao	170
 充沛	chong pei	429
 冲破	chong po	409
@@ -44135,7 +44137,7 @@ sort: by_weight
 时限	shi xian	470
 视线	shi xian	1181496
 事先	shi xian	2183
-实现	shi xian	1182030
+实现	shi xian	1182031
 时效	shi xiao	258
 实效	shi xiao	492
 失效	shi xiao	1015
@@ -47721,7 +47723,7 @@ sort: by_weight
 锁门	suo men	128
 所发	suo fa	307
 所犯	suo fan	105
-缩放	suo fang	1181558
+缩放	suo fang	1182151
 缩短	suo duan	1326
 所带	suo dai	149
 索道	suo dao	186
@@ -51035,7 +51037,7 @@ sort: by_weight
 温柔	wen rou	4112
 问责	wen ze	220
 蚊子	wen zi	1877
-文字	wen zi	1193346
+文字	wen zi	1193351
 温存	wen cun	168
 文采	wen cai	412
 文员	wen yuan	329
