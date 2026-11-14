@@ -17,6 +17,8 @@ sort: by_weight
 
 
 
+帮我生个孩子	bang wo sheng ge hai zhi	1
+帮我生个	bang wo sheng ge	1
 新版本	xin ban ben	1
 旧版本	jiu ban ben	1
 会有结果	hui you jie guo	1
@@ -1053,7 +1055,7 @@ sort: by_weight
 看顾	kan gu	304643
 也就是	ye jiu si	614623
 加进去	jia jin qu 20
-有哪些	you na xie	614018
+有哪些	you na xie	614637
 写一个	xie yi ge	215
 没有了	mei you le	200
 软链接	ruan lian jie	200
@@ -1149,7 +1151,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614251
 这样子	zhe yang zhi	975837
-是什么	shi sheng mo	1182179
+是什么	shi sheng mo	1182186
 简拼	jian pin	4643
 安卓	an zhuo	83988
 就这样子	jiu zhe yang zhi	100
@@ -2417,7 +2419,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326061
+吗	ma	326063
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -2679,7 +2681,7 @@ sort: by_weight
 梅	mei	3492
 美	mei	325952
 每	mei	325967
-没	mei	326032
+没	mei	326062
 鸍	mi	0
 麊	mi	0
 塓	mi	0
@@ -3779,7 +3781,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830151
+的	de	4830156
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4226,7 +4228,7 @@ sort: by_weight
 朵	duo	4829687
 夺	duo	1083
 躲	duo	2188
-多	duo	4830152
+多	duo	4830155
 頧	dui	0
 祋	dui	0
 痽	dui	1
@@ -4335,7 +4337,7 @@ sort: by_weight
 塔	ta	3616
 它	ta	344028
 她	ta	344071
-他	ta	344060
+他	ta	344081
 鮐	tai	0
 籉	tai	0
 箈	tai	0
@@ -11389,7 +11391,7 @@ sort: by_weight
 肖	xiao	2577
 晓	xiao	246517
 笑	xiao	14513
-小	xiao	246824
+小	xiao	246846
 鯗	xiang	0
 缿	xiang	0
 鱶	xiang	0
@@ -14212,7 +14214,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182086
+说	shuo	1182187
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -17451,7 +17453,7 @@ sort: by_weight
 碗	wan	1193071
 晚	wan	1192958
 完	wan	1193241
-万	wan	1193359
+万	wan	1193361
 玩	wan	1193122
 瀇	wang	0
 輞	wang	0
@@ -17756,7 +17758,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193358
+我	wo	1193360
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -17890,7 +17892,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84043
+啊	a	84045
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -19146,7 +19148,7 @@ sort: by_weight
 比价	bi jia	415
 鼻尖	bi jian	115
 比肩	bi jian	170
-比较	bi jiao	590739
+比较	bi jiao	591158
 必将	bi jiang	1643
 逼近	bi jin	622
 必经	bi jing	180
@@ -24225,7 +24227,7 @@ sort: by_weight
 等效	deng xiao	211
 灯箱	deng xiang	186
 瞪着	deng zhe	450
-等着	deng zhe	4594
+等着	deng zhe	4830157
 等值	deng zhi	121
 登场	deng chang	1066
 邓超	deng chao	138
@@ -24483,7 +24485,7 @@ sort: by_weight
 点卡	dian ka	1193
 点开	dian kai	4828948
 电控	dian kong	144
-电话	dian hua	4830098
+电话	dian hua	4830158
 电荷	dian he	177
 电弧	dian hu	233
 点火	dian huo	477
@@ -30120,7 +30122,7 @@ sort: by_weight
 更快	geng kuai	7452
 更可	geng ke	199
 更换	geng huan	3676
-更好	geng hao	246071
+更好	geng hao	246279
 更会	geng hui	198
 更佳	geng jia	337
 更加	geng jia	15198
@@ -30685,7 +30687,7 @@ sort: by_weight
 国强	guo qiang	181
 国情	guo qing	770
 国庆	guo qing	3072
-过去	guo qu	246099
+过去	guo qu	246280
 国学	guo xue	376
 过些	guo xie	137
 国信	guo xin	198
@@ -34908,7 +34910,7 @@ sort: by_weight
 奖金	jiang jin	2981
 将就	jiang jiu	429
 讲究	jiang jiu	2379
-僵局	jiang ju	219
+僵局	jiang ju	558796
 奖券	jiang quan	127
 讲起	jiang qi	215
 将其	jiang qi	3479
@@ -38323,7 +38325,7 @@ sort: by_weight
 小学	xiao xue	5051
 小西	xiao xi	179
 小溪	xiao xi	376
-消息	xiao xi	246514
+消息	xiao xi	246848
 小虾	xiao xia	114
 小夏	xiao xia	132
 小仙	xiao xian	144
@@ -38496,7 +38498,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246623
+项目	xiang mu	246847
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -45912,7 +45914,7 @@ sort: by_weight
 责问	ze wen	107
 则为	ze wei	472
 择偶	ze ou	153
-怎么	zen me	976032
+怎么	zen me	976035
 怎能	zen neng	725
 怎会	zen hui	312
 怎样	zen yang	14659
@@ -46809,7 +46811,7 @@ sort: by_weight
 藏匿	cang ni	156
 苍老	cang lao	264
 苍凉	cang liang	219
-仓库	cang ku	126925
+仓库	cang ku	127120
 仓皇	cang huang	107
 沧海	cang hai	530
 苍穹	cang qiong	203
@@ -50255,7 +50257,7 @@ sort: by_weight
 用具	yong ju	330
 涌起	yong qi	164
 勇气	yong qi	55766
-用钱	yong qian	373
+用钱	yong qian	614638
 涌现	yong xian	479
 涌向	yong xiang	149
 用心	yong xin	2079
@@ -50503,7 +50505,7 @@ sort: by_weight
 雨燕	yu yan	233
 寓言	yu yan	279
 预言	yu yan	614100
-语言	yu yan	614538
+语言	yu yan	614636
 余姚	yu yao	212
 雨夜	yu ye	212
 渔业	yu ye	574
@@ -55148,7 +55150,7 @@ sort: by_weight
 可编程	ke bian cheng	174
 可分为	ke fen wei	584
 可达到	ke da dao	250
-可读性	ke du xing	154
+可读性	ke du xing	304735
 可提供	ke ti gong	259
 课题组	ke ti zu	373
 客厅里	ke ting li	225
