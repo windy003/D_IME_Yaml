@@ -17,7 +17,11 @@ sort: by_weight
 
 
 
-帮我生个孩子	bang wo sheng ge hai zhi	1
+
+
+
+发给我	fa gei wo	1
+帮我生个孩子	bang wo sheng ge hai zhi	591159
 帮我生个	bang wo sheng ge	1
 新版本	xin ban ben	1
 旧版本	jiu ban ben	1
@@ -911,7 +915,7 @@ sort: by_weight
 是哪里的	shi na li de	1
 哪里的	na li de	348
 病残津贴	bin can jin tie	591089
-生个孩子	sheng ge hai zi	1181122
+生个孩子	sheng ge hai zi	1182190
 新台币	xin tai bi	1
 中岛美雪	zong dao mei xue	7
 发红包	fa hong bao	1
@@ -1030,7 +1034,7 @@ sort: by_weight
 好几个	hao ji ge	200
 阿里云	a li yun	83924
 周秋良	zhou qiu liang	975235
-建德	jian de	558794
+建德	jian de	558797
 在哪里	zai na li	695
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
@@ -1091,7 +1095,7 @@ sort: by_weight
 是一个	shi yi ge	1182018
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	541
-在不	zai bu	976034
+在不	zai bu	976037
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	102
 父神	fu sheng	69752
@@ -3781,7 +3785,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830156
+的	de	4830161
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4080,7 +4084,7 @@ sort: by_weight
 逗	dou	1784
 豆	dou	4828411
 斗	dou	4829646
-都	dou	4830138
+都	dou	4830159
 鶫	dong	0
 駧	dong	0
 霘	dong	0
@@ -5724,7 +5728,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500724
+了	le	1500727
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -6970,7 +6974,7 @@ sort: by_weight
 歌	ge	246270
 格	ge	246139
 各	ge	245962
-个	ge	246278
+个	ge	246282
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -7388,7 +7392,7 @@ sort: by_weight
 侩	kuai	80
 筷	kuai	102
 块	kuai	304609
-快	kuai	304722
+快	kuai	304736
 裃	ka	1
 擖	ka	1
 鉲	ka	2
@@ -11391,7 +11395,7 @@ sort: by_weight
 肖	xiao	2577
 晓	xiao	246517
 笑	xiao	14513
-小	xiao	246846
+小	xiao	246850
 鯗	xiang	0
 缿	xiang	0
 鱶	xiang	0
@@ -14090,7 +14094,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1182175
-是	shi	1182183
+是	shi	1182191
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14214,7 +14218,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182187
+说	shuo	1182192
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -17758,7 +17762,7 @@ sort: by_weight
 握	wo	1081
 窝	wo	2199
 喔	wo	3527
-我	wo	1193360
+我	wo	1193362
 齀	wu	0
 鴮	wu	0
 釫	wu	0
@@ -18612,7 +18616,7 @@ sort: by_weight
 棒子	bang zi	967
 榜样	bang yang	868
 傍晚	bang wan	1065
-帮我	bang wo	591147
+帮我	bang wo	591160
 包办	bao ban	148
 饱饱	bao bao	119
 包包	bao bao	1703
@@ -22032,7 +22036,7 @@ sort: by_weight
 发哥	fa ge	258
 发个	fa ge	1481
 发给	fa gei	69619
-发过	fa guo	69660
+发过	fa guo	69771
 法国	fa guo	7395
 法规	fa gui	2442
 罚款	fa kuan	69548
@@ -23352,7 +23356,7 @@ sort: by_weight
 大关	da guan	401
 打滚	da gun	232
 打怪	da guai	665
-大概	da gai	4830094
+大概	da gai	4830160
 大干	da gan	123
 大港	da gang	160
 大纲	da gang	688
@@ -23799,7 +23803,7 @@ sort: by_weight
 淡化	dan hua	570
 蛋黄	dan huang	352
 但还	dan hai	175
-单号	dan hao	4828546
+单号	dan hao	4830162
 单核	dan he	145
 但很	dan hen	156
 淡季	dan ji	467
@@ -27192,7 +27196,7 @@ sort: by_weight
 内务	nei wu	109
 泥巴	ni ba	358
 你比	ni bi	178
-你不	ni bu	3976
+你不	ni bu	1500727
 你怕	ni pa	151
 倪萍	ni ping	119
 你妈	ni ma	2705
@@ -27257,7 +27261,7 @@ sort: by_weight
 逆市	ni shi	172
 逆势	ni shi	201
 你是	ni shi	1500564
-你说	ni shuo	1500722
+你说	ni shuo	1500726
 溺水	ni shui	178
 你若	ni ruo	226
 拟在	ni zai	118
@@ -30180,7 +30184,7 @@ sort: by_weight
 给药	gei yao	182
 给与	gei yu	209
 给予	gei yu	2671
-给我	gei wo	246242
+给我	gei wo	246281
 购并	gou bing	114
 诟病	gou bing	209
 狗屁	gou pi	699
@@ -32424,7 +32428,7 @@ sort: by_weight
 好片	hao pian	198
 好评	hao ping	1525
 好嘛	hao ma	699
-好吗	hao ma	665373
+好吗	hao ma	665421
 号码	hao ma	665372
 好卖	hao mai	197
 豪迈	hao mai	265
@@ -33483,7 +33487,7 @@ sort: by_weight
 回音	hui yin	454
 辉映	hui ying	110
 回应	hui ying	2332
-会有	hui you	665355
+会有	hui you	665422
 会用	hui yong	826
 会玩	hui wan	132
 回望	hui wang	175
@@ -38067,7 +38071,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246843
+现在	xian zai	246851
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -42225,7 +42229,7 @@ sort: by_weight
 城关	cheng guan	140
 城管	cheng guan	981
 成功	cheng gong	127066
-成果	cheng guo	5032
+成果	cheng guo	127121
 撑开	cheng kai	178
 乘客	cheng ke	1866
 诚恳	cheng ken	608
@@ -44088,7 +44092,7 @@ sort: by_weight
 世间	shi jian	1387
 实践	shi jian	7027
 事件	shi jian	1181808
-时间	shi jian	1182108
+时间	shi jian	1182189
 市郊	shi jiao	149
 视角	shi jiao	1258
 是将	shi jiang	128
@@ -45970,7 +45974,7 @@ sort: by_weight
 滋补	zi bu	302
 自拍	zi pai	795
 自评	zi ping	112
-姊妹	zi mei	388
+姊妹	zi mei	976036
 字面	zi mian	277
 子民	zi min	134
 自明	zi ming	127
@@ -56525,7 +56529,7 @@ sort: by_weight
 效果图	xiao guo tu	516
 效果好	xiao guo hao	338
 小规模	xiao gui mo	298
-小可爱	xiao ke ai	162
+小可爱	xiao ke ai	246849
 消化道	xiao hua dao	245
 小混混	xiao hun hun	224
 小孩子	xiao hai zi	2808
@@ -64326,9 +64330,9 @@ sort: by_weight
 什么东西	shen me dong xi	1181133
 什么关系	shen me guan xi	635
 什么叫做	shen me jiao zuo	216
-什么情况	shen me qing kuang	308
+什么情况	shen me qing kuang	1182193
 什么程度	shen me cheng du	259
-什么时候	shen me shi hou	1182185
+什么时候	shen me shi hou	1182188
 什么时间	shen me shi jian	273
 什么事情	shen me shi qing	1123
 什么作用	shen me zuo yong	140
