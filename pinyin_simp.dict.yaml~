@@ -18,6 +18,8 @@ sort: by_weight
 
 
 
+
+悬浮球	xuan fu qiu	115
 划词搜索	hua ci sou suo	1
 划词	hua ci	1
 点我进入	dian wo jin ru	2
@@ -3807,7 +3809,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830212
+的	de	4830213
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -10594,11 +10596,11 @@ sort: by_weight
 仇	qiu	128
 囚	qiu	164
 裘	qiu	294
-丘	qiu	331093
+丘	qiu	331068
 邱	qiu	1432
 秋	qiu	330920
 求	qiu	331001
-球	qiu	331094
+球	qiu	8740
 斪	qu	0
 坥	qu	0
 齲	qu	0
@@ -14218,7 +14220,7 @@ sort: by_weight
 束	shu	752
 淑	shu	768
 叔	shu	1178
-鼠	shu	1388
+鼠	shu	1182230
 舒	shu	1693
 术	shu	2278
 熟	shu	2735
@@ -14577,7 +14579,7 @@ sort: by_weight
 宰	zai	836
 仔	zai	1416
 载	zai	2159
-再	zai	976066
+再	zai	976069
 在	zai	976065
 酇	zan	0
 饡	zan	0
@@ -19565,7 +19567,7 @@ sort: by_weight
 并举	bing ju	296
 摒弃	bing qi	300
 兵器	bing qi	536
-并且	bing qie	17813
+并且	bing qie	17814
 并请	bing qing	144
 病情	bing qing	1621
 冰雪	bing xue	750
@@ -37291,7 +37293,7 @@ sort: by_weight
 祛除	qu chu	136
 驱除	qu chu	184
 去处	qu chu	253
-去除	qu chu	17569
+去除	qu chu	17570
 取出	qu chu	1371
 取舍	qu she	400
 取胜	qu sheng	709
@@ -37340,7 +37342,7 @@ sort: by_weight
 炫目	xuan mu	147
 选房	xuan fang	116
 旋风	xuan feng	526
-悬浮	xuan fu	246791
+悬浮	xuan fu	234
 玄德	xuan de	125
 选定	xuan ding	1020
 宣读	xuan du	311
@@ -38081,7 +38083,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246688
+显示	xian shi	246695
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -38093,7 +38095,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246865
+现在	xian zai	246866
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -40670,7 +40672,7 @@ sort: by_weight
 执教	zhi jiao	479
 指教	zhi jiao	876
 肢解	zhi jie	130
-直接	zhi jie	975890
+直接	zhi jie	975893
 纸巾	zhi jin	375
 至今	zhi jin	5728
 致敬	zhi jing	604
@@ -44702,7 +44704,7 @@ sort: by_weight
 枢纽	shu niu	434
 熟了	shu le	250
 疏离	shu li	111
-竖立	shu li	153
+竖立	shu li	1182226
 数理	shu li	206
 书里	shu li	296
 梳理	shu li	764
@@ -49907,7 +49909,7 @@ sort: by_weight
 右臂	you bi	117
 有变	you bian	135
 邮编	you bian	1108
-右边	you bian	614301
+右边	you bian	614304
 游标	you biao	125
 有别	you bie	411
 有病	you bing	1132
