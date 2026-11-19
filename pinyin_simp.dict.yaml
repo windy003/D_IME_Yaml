@@ -16,10 +16,7 @@ sort: by_weight
 
 
 
-
-
-
-
+开起来	kai qi lai	1
 传参数	cuan can shu	1
 只跑	zhi pao	976054
 魔法值	mo fa zhi	325971
@@ -955,7 +952,7 @@ sort: by_weight
 回家的路	hui jia de lu	1
 双引号	suang yin hao	535
 文字中的	wen zhi zhong de	2
-抖音	dou yin	4830089
+抖音	dou yin	4830091
 小野坂由香	xiao ye ban you xiang	246453
 是哪里的	shi na li de	1
 哪里的	na li de	348
@@ -3096,7 +3093,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69775
+发	fa	69781
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -7248,7 +7245,7 @@ sort: by_weight
 锅	guo	1884
 郭	guo	4365
 果	guo	4532
-国	guo	246273
+国	guo	246299
 过	guo	246143
 猤	gui	0
 茥	gui	0
@@ -8092,7 +8089,7 @@ sort: by_weight
 夯	hang	135
 杭	hang	656
 航	hang	664945
-行	hang	665450
+行	hang	665451
 鰝	hao	0
 竓	hao	0
 昦	hao	0
@@ -8262,7 +8259,7 @@ sort: by_weight
 侯	hou	665045
 後	hou	2787
 厚	hou	3079
-后	hou	665448
+后	hou	665452
 宖	hong	0
 篊	hong	0
 焢	hong	0
@@ -8589,7 +8586,7 @@ sort: by_weight
 辉	hui	2272
 灰	hui	208392
 回	hui	665332
-会	hui	665439
+会	hui	665453
 錈	juan	0
 絭	juan	1
 裐	juan	1
@@ -12242,7 +12239,7 @@ sort: by_weight
 折	zhe	3927
 者	zhe	975885
 着	zhe	976048
-这	zhe	976086
+这	zhe	976089
 黰	zhen	0
 蜄	zhen	0
 縥	zhen	0
@@ -14601,7 +14598,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	976070
-在	zai	976085
+在	zai	976090
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -22110,7 +22107,7 @@ sort: by_weight
 法学	fa xue	675
 法系	fa xi	234
 罚下	fa xia	148
-发现	fa xian	69747
+发现	fa xian	69748
 发笑	fa xiao	174
 发些	fa xie	119
 发泄	fa xie	1674
@@ -23681,7 +23678,7 @@ sort: by_weight
 带兵	dai bing	118
 代步	dai bu	152
 逮捕	dai bu	800
-代码	dai ma	4828599
+代码	dai ma	4828600
 怠慢	dai man	186
 待命	dai ming	232
 代发	dai fa	146
@@ -26106,7 +26103,7 @@ sort: by_weight
 挑战	tiao zhan	5924
 挑着	tiao zhe	114
 跳着	tiao zhe	173
-调整	tiao zheng	344091
+调整	tiao zheng	344092
 调至	tiao zhi	193
 调制	tiao zhi	409
 调成	tiao cheng	203
@@ -29340,7 +29337,7 @@ sort: by_weight
 挂载	gua zai	246070
 挂在	gua zai	1390
 瓜子	gua zi	398
-关闭	guan bi	246180
+关闭	guan bi	246181
 官兵	guan bing	1163
 关门	guan men	1226
 冠名	guan ming	254
@@ -30682,7 +30679,7 @@ sort: by_weight
 国旅	guo lv	219
 过滤	guo lv	1973
 过来	guo lai	31233
-过了	guo le	7169
+过了	guo le	246299
 国力	guo li	321
 锅里	guo li	358
 国立	guo li	364
@@ -34481,7 +34478,7 @@ sort: by_weight
 简练	jian lian	159
 见谅	jian liang	436
 简陋	jian lou	534
-监管	jian guan	4132
+监管	jian guan	558793
 见怪	jian guai	118
 间隔	jian ge	1027
 建构	jian gou	439
@@ -38116,7 +38113,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246874
+现在	xian zai	246875
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -40049,7 +40046,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976088
+这个	zhe ge	976089
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40870,7 +40867,7 @@ sort: by_weight
 知足	zhi zu	656
 只做	zhi zuo	553
 之作	zhi zuo	834
-制作	zhi zuo	975688
+制作	zhi zuo	975834
 之最	zhi zui	303
 制裁	zhi cai	610
 致残	zhi can	105
@@ -43861,7 +43858,7 @@ sort: by_weight
 生涯	sheng ya	1432
 盛宴	sheng yan	463
 生意	sheng yi	6235
-声音	sheng yin	1182242
+声音	sheng yin	1182246
 生硬	sheng ying	382
 声优	sheng you	184
 省油	sheng you	346
@@ -44137,7 +44134,7 @@ sort: by_weight
 世间	shi jian	1387
 实践	shi jian	7027
 事件	shi jian	1181808
-时间	shi jian	1182207
+时间	shi jian	1182208
 市郊	shi jiao	149
 视角	shi jiao	1258
 是将	shi jiang	128
@@ -44322,7 +44319,7 @@ sort: by_weight
 市容	shi rong	315
 驶入	shi ru	183
 示弱	shi ruo	134
-是在	shi zai	1182021
+是在	shi zai	1182244
 实在	shi zai	16176
 实则	shi ze	277
 虱子	shi zi	119
@@ -46079,7 +46076,7 @@ sort: by_weight
 自觉	zi jue	2735
 子集	zi ji	112
 字迹	zi ji	251
-自己	zi ji	975894
+自己	zi ji	975902
 自驾	zi jia	260
 自家	zi jia	1157
 自荐	zi jian	156
@@ -49037,7 +49034,7 @@ sort: by_weight
 一副	yi fu	2470
 衣服	yi fu	613985
 一端	yi duan	56128
-一段	yi duan	614256
+一段	yi duan	614296
 一吨	yi dun	125
 亿吨	yi dun	174
 一顿	yi dun	2538
@@ -52999,7 +52996,7 @@ sort: by_weight
 民主党	min zhu dang	487
 民主化	min zhu hua	229
 明摆着	ming bai zhe	199
-命令行	ming ling hang	541
+命令行	ming ling hang	542
 明后天	ming hou tian	316
 名学生	ming xue sheng	338
 明细表	ming xi biao	160
@@ -56618,7 +56615,7 @@ sort: by_weight
 小猪猪	xiao zhu zhu	141
 小助手	xiao zhu shou	129
 小插曲	xiao cha qu	114
-小程序	xiao cheng xu	111
+小程序	xiao cheng xu	112
 小城镇	xiao cheng zhen	268
 小城市	xiao cheng shi	213
 小帅哥	xiao shuai ge	145
