@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-有几行	you ji hang	1
+这一行	zhe yi hang	1
+有几行	you ji hang	4930
 布伦特	bu lun te	1
 亲一下	qin yi xia	1
 德邦快递	de bang kuai di	4830261
@@ -1190,7 +1190,7 @@ sort: by_weight
 硬删除	yin san chua	207
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
-这里的	zhe li de	203
+这里的	zhe li de	204
 是什么意思	shi sheng mo yi si	1182242
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
@@ -1205,7 +1205,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975839
-是什么	shi sheng mo	1182245
+是什么	shi sheng mo	1182246
 简拼	jian pin	4643
 安卓	an zhuo	84050
 就这样子	jiu zhe yang zhi	100
@@ -2473,7 +2473,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326106
+吗	ma	326108
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3835,7 +3835,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830259
+的	de	4830263
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5778,7 +5778,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500755
+了	le	1500757
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -5847,7 +5847,7 @@ sort: by_weight
 泪	lei	2586
 雷	lei	4231
 累	lei	1500362
-类	lei	1500745
+类	lei	1500756
 蒚	li	0
 鯬	li	0
 鸝	li	0
@@ -14144,7 +14144,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1181829
 时	shi	1182229
-是	shi	1182252
+是	shi	1182255
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -25975,7 +25975,7 @@ sort: by_weight
 天极	tian ji	297
 天际	tian ji	18515
 天价	tian jia	543
-添加	tian jia	18613
+添加	tian jia	18614
 田间	tian jian	472
 天骄	tian jiao	181
 天降	tian jiang	117
@@ -28129,7 +28129,7 @@ sort: by_weight
 累积	lei ji	918
 累计	lei ji	2815
 累加	lei jia	158
-类型	lei xing	1500633
+类型	lei xing	1500637
 类中	lei zhong	105
 泪珠	lei zhu	151
 累赘	lei zhui	215
@@ -36034,7 +36034,7 @@ sort: by_weight
 聚首	ju shou	164
 举手	ju shou	555
 拘束	ju shu	232
-据说	ju shuo	558801
+据说	ju shuo	558806
 居然	ju ran	15142
 巨人	ju ren	1035
 巨乳	ju ru	152
@@ -38804,7 +38804,7 @@ sort: by_weight
 写到	xie dao	811
 写道	xie dao	246628
 写得	xie de	1795
-写的	xie de	246634
+写的	xie de	246635
 鞋底	xie di	198
 鞋垫	xie dian	154
 写点	xie dian	444
@@ -41614,7 +41614,7 @@ sort: by_weight
 窗帘	chuang lian	834
 闯关	chuang guan	112
 创刊	chuang kan	137
-窗口	chuang kou	127047
+窗口	chuang kou	127128
 窗户	chuang hu	127032
 创建	chuang jian	127014
 闯进	chuang jin	311
@@ -46040,7 +46040,7 @@ sort: by_weight
 字段	zi duan	975554
 自打	zi da	149
 自大	zi da	280
-自带	zi dai	976003
+自带	zi dai	976008
 自担	zi dan	532
 子弹	zi dan	1118
 自导	zi dao	121
@@ -49181,7 +49181,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614640
+一个	yi ge	614641
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -50559,7 +50559,7 @@ sort: by_weight
 雨燕	yu yan	233
 寓言	yu yan	279
 预言	yu yan	614100
-语言	yu yan	614638
+语言	yu yan	614645
 余姚	yu yao	212
 雨夜	yu ye	212
 渔业	yu ye	574
