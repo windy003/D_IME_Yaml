@@ -17,6 +17,9 @@ sort: by_weight
 
 
 
+
+
+运费险	yun fei xian	1
 签收了	qian sou le	1
 这一行	zhe yi hang	1
 有几行	you ji hang	4930
@@ -1205,7 +1208,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975839
-是什么	shi sheng mo	1182246
+是什么	shi sheng mo	1182257
 简拼	jian pin	4643
 安卓	an zhuo	84050
 就这样子	jiu zhe yang zhi	100
@@ -15813,7 +15816,7 @@ sort: by_weight
 源	yuan	614512
 原	yuan	614599
 远	yuan	614068
-元	yuan	614662
+元	yuan	614664
 龥	yue	0
 髺	yue	0
 抈	yue	0
@@ -17946,7 +17949,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84049
+啊	a	84051
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -23470,7 +23473,7 @@ sort: by_weight
 打假	da jia	398
 打架	da jia	2180
 大家	da jia	4830111
-大件	da jian	188
+大件	da jian	4830265
 大剑	da jian	304
 搭建	da jian	4828341
 打搅	da jiao	353
@@ -24120,7 +24123,7 @@ sort: by_weight
 到帐	dao zhang	662
 到这	dao zhe	559
 倒置	dao zhi	151
-导致	dao zhi	4828775
+导致	dao zhi	4830264
 道场	dao chang	164
 到场	dao chang	775
 倒车	dao che	331
@@ -30474,7 +30477,7 @@ sort: by_weight
 公测	gong ce	578
 公孙	gong sun	268
 公私	gong si	116
-公司	gong si	246177
+公司	gong si	246300
 公诉	gong su	222
 弓虽	gong sui	115
 公元	gong yuan	424
@@ -30576,7 +30579,7 @@ sort: by_weight
 顾家	gu jia	131
 骨架	gu jia	376
 估价	gu jia	408
-股价	gu jia	4189
+股价	gu jia	246301
 固件	gu jian	246039
 古今	gu jin	436
 古井	gu jing	138
@@ -43302,7 +43305,7 @@ sort: by_weight
 上装	shang zhuang	118
 商战	shang zhan	109
 上站	shang zhan	264
-上涨	shang zhang	7479
+上涨	shang zhang	1182256
 伤者	shang zhe	353
 上阵	shang zhen	473
 上证	shang zheng	525
@@ -49818,7 +49821,7 @@ sort: by_weight
 英里	ying li	614412
 应力	ying li	483
 赢利	ying li	853
-盈利	ying li	3157
+盈利	ying li	614663
 影楼	ying lou	238
 荧光	ying guang	390
 应该	ying gai	614637
@@ -59408,7 +59411,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193380
+为什么	wei shen me	1193390
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
