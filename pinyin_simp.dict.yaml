@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-运费险	yun fei xian	1
+脑电图	nao dian tu	1
+运费险	yun fei xian	614665
 签收了	qian sou le	1
 这一行	zhe yi hang	1
 有几行	you ji hang	4930
@@ -779,7 +779,7 @@ sort: by_weight
 词元	ci yuan	126940
 融富府	nong fu fu	1500681
 融富城	nong fu cheng	1
-意思是	yi shi si	1
+意思是	yi shi si	614666
 开恩看顾	kai en kan gu	304681
 怜悯宽恕	lian min kuan shu	1500600
 安卓的	an zuo de	1
@@ -1088,7 +1088,7 @@ sort: by_weight
 阿里云	a li yun	83924
 周秋良	zhou qiu liang	975236
 建德	jian de	558800
-在哪里	zai na li	699
+在哪里	zai na li	976091
 万事大吉	wan shi da ji	30
 开恩	kai en	304428
 藤咲紫	teng xiao zhi	20
@@ -2476,7 +2476,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326108
+吗	ma	326111
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -5194,7 +5194,7 @@ sort: by_weight
 讷	ne	144
 呐	ne	188
 哪	ne	284
-呢	ne	1500754
+呢	ne	1500758
 恁	nen	267
 嫩	nen	2645
 螚	neng	15
@@ -6966,7 +6966,7 @@ sort: by_weight
 稿	gao	1710
 告	gao	2532
 搞	gao	246268
-高	gao	246287
+高	gao	246302
 騔	ge	0
 鴐	ge	0
 鞷	ge	0
@@ -7543,7 +7543,7 @@ sort: by_weight
 拷	kao	946
 烤	kao	304432
 考	kao	16604
-靠	kao	304717
+靠	kao	304751
 嶱	ke	0
 翗	ke	0
 嵑	ke	0
@@ -8211,7 +8211,7 @@ sort: by_weight
 合	he	665396
 何	he	6636
 喝	he	15293
-和	he	665449
+和	he	665454
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -9726,7 +9726,7 @@ sort: by_weight
 旧	jiu	558613
 久	jiu	558575
 酒	jiu	558433
-就	jiu	558810
+就	jiu	558811
 鵴	ju	0
 鋦	ju	0
 郹	ju	0
@@ -10720,7 +10720,7 @@ sort: by_weight
 娶	qu	1577
 佢	qu	2904
 曲	qu	331066
-取	qu	331097
+取	qu	331100
 区	qu	331091
 去	qu	331092
 愃	xuan	0
@@ -11348,7 +11348,7 @@ sort: by_weight
 现	xian	246844
 县	xian	7573
 线	xian	246810
-先	xian	246838
+先	xian	246881
 鷍	xiao	0
 痚	xiao	0
 揱	xiao	0
@@ -12622,7 +12622,7 @@ sort: by_weight
 直	zhi	5038
 知	zhi	975641
 指	zhi	8783
-值	zhi	975970
+值	zhi	976094
 至	zhi	17782
 只	zhi	975921
 之	zhi	975925
@@ -14271,7 +14271,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182194
+说	shuo	1182258
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -17096,7 +17096,7 @@ sort: by_weight
 友	you	4041
 游	you	5120
 油	you	5961
-由	you	614659
+由	you	614667
 又	you	614583
 有	you	614660
 鯒	yong	0
@@ -20094,7 +20094,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	591160
+不是	bu shi	591185
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	590716
@@ -21027,8 +21027,8 @@ sort: by_weight
 麦克	mai ke	728
 买好	mai hao	438
 买回	mai hui	329
-卖家	mai jia	1932
-买家	mai jia	2175
+卖家	mai jia	326110
+买家	mai jia	326109
 迈进	mai jin	512
 买进	mai jin	1121
 卖钱	mai qian	238
@@ -24166,7 +24166,7 @@ sort: by_weight
 得病	de bing	264
 得不	de bu	193
 得票	de piao	124
-的吗	de ma	4828543
+的吗	de ma	4830266
 得名	de ming	325
 得分	de fen	2008
 的风	de feng	345
@@ -27259,7 +27259,7 @@ sort: by_weight
 逆风	ni feng	126
 你到	ni dao	325
 你得	ni de	441
-你的	ni de	1500635
+你的	ni de	1500759
 你得	ni dei	327
 拟订	ni ding	142
 拟定	ni ding	617
@@ -30469,7 +30469,7 @@ sort: by_weight
 工人	gong ren	4247
 攻入	gong ru	203
 公仔	gong zai	203
-公子	gong zi	246248
+公子	gong zi	246305
 工资	gong zi	13671
 工作	gong zuo	246246
 共存	gong cun	352
@@ -30579,7 +30579,7 @@ sort: by_weight
 顾家	gu jia	131
 骨架	gu jia	376
 估价	gu jia	408
-股价	gu jia	246301
+股价	gu jia	246303
 固件	gu jian	246039
 古今	gu jin	436
 古井	gu jing	138
@@ -30822,7 +30822,7 @@ sort: by_weight
 贵的	gui de	266
 跪地	gui di	115
 贵点	gui dian	130
-规定	gui ding	16419
+规定	gui ding	246304
 归队	gui dui	129
 柜台	gui tai	1293
 龟头	gui tou	394
@@ -42719,7 +42719,7 @@ sort: by_weight
 初级	chu ji	1319
 出嫁	chu jia	242
 出家	chu jia	516
-出价	chu jia	1065
+出价	chu jia	127133
 初见	chu jian	384
 触角	chu jiao	202
 出尽	chu jin	122
@@ -45090,7 +45090,7 @@ sort: by_weight
 燃放	ran fang	195
 染料	ran liao	316
 燃料	ran liao	1045
-然后	ran hou	1500630
+然后	ran hou	1500747
 染红	ran hong	141
 燃起	ran qi	264
 燃气	ran qi	1500302
@@ -45982,7 +45982,7 @@ sort: by_weight
 增肥	zeng fei	195
 增幅	zeng fu	1202
 增大	zeng da	1672
-增多	zeng duo	1829
+增多	zeng duo	976092
 增添	zeng tian	1243
 增量	zeng liang	569
 增高	zeng gao	597
@@ -46564,7 +46564,7 @@ sort: by_weight
 嘴脸	zui lian	410
 最令	zui ling	130
 最广	zui guang	163
-最高	zui gao	975990
+最高	zui gao	976093
 罪过	zui guo	472
 最贵	zui gui	518
 最快	zui kuai	1438
@@ -49184,7 +49184,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614641
+一个	yi ge	614668
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -55918,7 +55918,7 @@ sort: by_weight
 交易商	jiao yi shang	145
 叫一声	jiao yi sheng	185
 交易日	jiao yi ri	1012
-交易所	jiao yi suo	932
+交易所	jiao yi suo	558812
 交易员	jiao yi yuan	157
 交易额	jiao yi e	168
 教育部	jiao yu bu	1657
@@ -56488,7 +56488,7 @@ sort: by_weight
 县级市	xian ji shi	138
 限价房	xian jia fang	190
 现阶段	xian jie duan	767
-现金流	xian jin liu	414
+现金流	xian jin liu	246880
 先进性	xian jin xing	573
 先行者	xian xing zhe	144
 现状及	xian zhuang ji	293
