@@ -17,10 +17,9 @@ sort: by_weight
 
 
 
-
-
+都显示	dou xian shi	1
 只出现	zhi chu xian	1
-成功后	cheng gong hou	1
+成功后	cheng gong hou	23
 这个功能	zhe ge gong neng	1
 放大缩小	fang da suo xiao	2
 雨晴	yu qin	1
@@ -1158,12 +1157,12 @@ sort: by_weight
 返回键	fan hui jian	20
 我说的	wo suo de	1193211
 捞女	lao nv	200
-添加了	tian jia le	205
+添加了	tian jia le	206
 都可以	dou ke yi	4830091
 不就是	bu jiu shi	200
 房颤	fang can	200
 微信	wei xin	1193097
-下行	xia hang	246869
+下行	xia hang	246888
 上行	shang hang	200
 内间距	nei jian ju	200
 外间距	wai jian ju	200
@@ -1824,7 +1823,7 @@ sort: by_weight
 兵	bing	4611
 冰	bing	4841
 病	bing	591090
-并	bing	591136
+并	bing	591207
 鵓	bo	0
 鱍	bo	0
 挬	bo	0
@@ -3872,7 +3871,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830339
+的	de	4830341
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -12658,7 +12657,7 @@ sort: by_weight
 指	zhi	8783
 值	zhi	976121
 至	zhi	17782
-只	zhi	975921
+只	zhi	976127
 之	zhi	975925
 駎	zhou	0
 駲	zhou	0
@@ -21489,7 +21488,7 @@ sort: by_weight
 没做	mei zuo	601
 煤层	mei ceng	110
 每层	mei ceng	111
-每次	mei ci	325989
+每次	mei ci	325990
 没错	mei cuo	3056
 美色	mei se	187
 没死	mei si	328
@@ -25263,7 +25262,7 @@ sort: by_weight
 多彩	duo cai	505
 躲藏	duo cang	167
 多层	duo ceng	521
-多次	duo ci	4828402
+多次	duo ci	4830271
 哆嗦	duo suo	326
 多岁	duo sui	614
 多远	duo yuan	470
@@ -25920,7 +25919,7 @@ sort: by_weight
 提神	ti shen	182
 替身	ti shen	291
 提升	ti sheng	9608
-提示	ti shi	344073
+提示	ti shi	344099
 替人	ti ren	116
 提早	ti zao	578
 蹄子	ti zi	106
@@ -26148,7 +26147,7 @@ sort: by_weight
 挑战	tiao zhan	5924
 挑着	tiao zhe	114
 跳着	tiao zhe	173
-调整	tiao zheng	344092
+调整	tiao zheng	344093
 调至	tiao zhi	193
 调制	tiao zhi	409
 调成	tiao cheng	203
@@ -26421,7 +26420,7 @@ sort: by_weight
 同比	tong bi	1255
 通便	tong bian	114
 通病	tong bing	273
-同步	tong bu	344073
+同步	tong bu	344077
 铜牌	tong pai	196
 通篇	tong pian	148
 痛骂	tong ma	143
@@ -26560,7 +26559,7 @@ sort: by_weight
 同屋	tong wu	135
 突变	tu bian	415
 图表	tu biao	1383
-图标	tu biao	344075
+图标	tu biao	344076
 土鳖	tu bie	161
 徒步	tu bu	582
 图片	tu pian	344017
@@ -30207,7 +30206,7 @@ sort: by_weight
 更能	geng neng	1081
 更令	geng ling	154
 更广	geng guang	200
-更改	geng gai	246208
+更改	geng gai	246209
 更高	geng gao	246170
 更贵	geng gui	152
 更快	geng kuai	7452
@@ -37010,7 +37009,7 @@ sort: by_weight
 蜻蜓	qing ting	315
 倾听	qing ting	815
 青铜	qing tong	401
-请你	qing ni	331094
+请你	qing ni	331095
 青年	qing nian	5276
 青鸟	qing niao	225
 请您	qing nin	4652
@@ -38146,7 +38145,7 @@ sort: by_weight
 县市	xian shi	380
 先是	xian shi	1348
 现实	xian shi	12054
-显示	xian shi	246698
+显示	xian shi	246889
 娴熟	xian shu	269
 先说	xian shuo	622
 显然	xian ran	5436
@@ -38158,7 +38157,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246877
+现在	xian zai	246878
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -38589,7 +38588,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246873
+项目	xiang mu	246875
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -40091,7 +40090,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976104
+这个	zhe ge	976105
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -42315,7 +42314,7 @@ sort: by_weight
 成龙	cheng long	919
 城关	cheng guan	140
 城管	cheng guan	981
-成功	cheng gong	127132
+成功	cheng gong	127133
 成果	cheng guo	127129
 撑开	cheng kai	178
 乘客	cheng ke	1866
@@ -42683,9 +42682,9 @@ sort: by_weight
 出名	chu ming	1718
 出没	chu mo	333
 触摸	chu mo	889
-触发	chu fa	1037
+触发	chu fa	127082
 处罚	chu fa	2516
-出发	chu fa	5678
+出发	chu fa	127081
 触犯	chu fan	356
 出访	chu fang	304
 处方	chu fang	487
@@ -42783,7 +42782,7 @@ sort: by_weight
 初夏	chu xia	189
 初现	chu xian	110
 出线	chu xian	639
-出现	chu xian	127060
+出现	chu xian	127062
 出血	chu xie	181
 出新	chu xin	249
 雏形	chu xing	292
@@ -43348,7 +43347,7 @@ sort: by_weight
 上周	shang zhou	3323
 上桌	shang zhuo	118
 上船	shang chuan	153
-上传	shang chuan	1181952
+上传	shang chuan	1182025
 上床	shang chuang	1348
 上场	shang chang	1009
 商场	shang chang	2840
@@ -46344,7 +46343,7 @@ sort: by_weight
 总是	zong shi	975811
 总署	zong shu	108
 综述	zong shu	692
-总数	zong shu	1782
+总数	zong shu	975815
 总说	zong shuo	300
 纵然	zong ran	394
 纵容	zong rong	384
@@ -49562,7 +49561,7 @@ sort: by_weight
 一词	yi ci	593
 依次	yi ci	1279
 以此	yi ci	2283
-一次	yi ci	614525
+一次	yi ci	614527
 已从	yi cong	286
 一扫	yi sao	163
 一色	yi se	206
