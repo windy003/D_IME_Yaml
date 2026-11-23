@@ -17,6 +17,7 @@ sort: by_weight
 
 
 
+无理数	wu li shu	1
 质数	zhi shu	1
 素数	shu shu	1
 黎曼猜想	li man cai xiang	1500778
@@ -1206,7 +1207,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614259
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182195
+上面说的	shang mian shuo de	1182290
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1232,7 +1233,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975847
-是什么	shi sheng mo	1182283
+是什么	shi sheng mo	1182287
 简拼	jian pin	4643
 安卓	an zhuo	84053
 就这样子	jiu zhe yang zhi	100
@@ -1925,7 +1926,7 @@ sort: by_weight
 布	bu	4781
 补	bu	590769
 部	bu	590951
-不	bu	591189
+不	bu	591205
 汃	pa	0
 跁	pa	1
 舥	pa	1
@@ -12646,7 +12647,7 @@ sort: by_weight
 直	zhi	5038
 知	zhi	975641
 指	zhi	8783
-值	zhi	976098
+值	zhi	976121
 至	zhi	17782
 只	zhi	975921
 之	zhi	975925
@@ -14171,7 +14172,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1182279
 时	shi	1182281
-是	shi	1182274
+是	shi	1182289
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14295,7 +14296,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182267
+说	shuo	1182288
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -25437,7 +25438,7 @@ sort: by_weight
 踏实	ta shi	1119
 她是	ta shi	2244
 它是	ta shi	3364
-他是	ta shi	5165
+他是	ta shi	344096
 她说	ta shuo	2955
 他说	ta shuo	5902
 他人	ta ren	4242
@@ -35487,7 +35488,7 @@ sort: by_weight
 尽是	jin shi	338
 仅是	jin shi	534
 进食	jin shi	605
-近视	jin shi	614
+近视	jin shi	558818
 仅售	jin shou	169
 金属	jin shu	3662
 进水	jin shui	486
@@ -35517,7 +35518,7 @@ sort: by_weight
 近三	jin san	139
 金色	jin se	1298
 金丝	jin si	162
-近似	jin si	546
+近似	jin si	558819
 劲松	jin song	125
 紧锁	jin suo	129
 紧缩	jin suo	567
@@ -37596,7 +37597,7 @@ sort: by_weight
 训练	xun lian	246499
 巡逻	xun luo	728
 寻根	xun gen	106
-循环	xun huan	246372
+循环	xun huan	246887
 巡航	xun hang	148
 讯号	xun hao	162
 寻呼	xun hu	156
@@ -38480,7 +38481,7 @@ sort: by_weight
 小手	xiao shou	562
 销售	xiao shou	18926
 小树	xiao shu	271
-小数	xiao shu	246630
+小数	xiao shu	246888
 小鼠	xiao shu	460
 笑说	xiao shuo	211
 小说	xiao shuo	8070
@@ -41084,7 +41085,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	976007
+中的	zhong de	976120
 中等	zhong deng	900
 中的	zhong di	975856
 种地	zhong di	287
@@ -44804,7 +44805,7 @@ sort: by_weight
 抒情	shu qing	527
 输球	shu qiu	345
 输血	shu xue	271
-数学	shu xue	1182034
+数学	shu xue	1182286
 熟悉	shu xi	10149
 属下	shu xia	257
 树下	shu xia	383
@@ -51709,8 +51710,8 @@ sort: by_weight
 无暇	wu xia	414
 武侠	wu xia	735
 诬陷	wu xian	195
-无限	wu xian	1193101
-无线	wu xian	1193102
+无限	wu xian	1193405
+无线	wu xian	1193404
 无效	wu xiao	1192819
 五项	wu xiang	335
 无邪	wu xie	131
@@ -54673,7 +54674,7 @@ sort: by_weight
 六点半	liu dian ban	145
 流动性	liu dong xing	1406
 流通股	liu tong gu	448
-六年级	liu nian ji	156
+六年级	liu nian ji	1500779
 浏览量	liu lan liang	166
 浏览器	liu lan qi	1500749
 浏览者	liu lan zhe	132
@@ -59435,7 +59436,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193393
+为什么	wei shen me	1193403
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
