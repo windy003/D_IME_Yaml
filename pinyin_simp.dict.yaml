@@ -19,7 +19,9 @@ sort: by_weight
 
 
 
-全局快捷键	quan ju kuai jie jian	1
+
+同步到	tong bu dao	1
+全局快捷键	quan ju kuai jie jian	3
 更改了	geng gai le	230
 今天能	jin tian neng	1
 存储桶	cun chu tong	1
@@ -314,8 +316,8 @@ sort: by_weight
 弟兄姊妹	di xiong zhi mei	1
 犯的罪	fan de zui	1
 模式下	mo shi xia	1
-现在请你这样子	xian zai qin ni zhe yang zhi	6
-现在请你	xian zai qin ni	153
+现在请你这样子	xian zai qin ni zhe yang zhi	7
+现在请你	xian zai qin ni	154
 发生了	fa sheng le	302
 项目中	xiang mu zong	1083
 洪汗义	hong han yi	760
@@ -1227,7 +1229,7 @@ sort: by_weight
 这样子	zhe yang zhi	975839
 是什么	shi sheng mo	1182259
 简拼	jian pin	4643
-安卓	an zhuo	84051
+安卓	an zhuo	84052
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -3593,7 +3595,7 @@ sort: by_weight
 椴	duan	61
 缎	duan	105
 锻	duan	114
-端	duan	4830135
+端	duan	4830299
 断	duan	4835
 短	duan	4828920
 段	duan	4829364
@@ -4154,7 +4156,7 @@ sort: by_weight
 逗	dou	1784
 豆	dou	4828411
 斗	dou	4829646
-都	dou	4830270
+都	dou	4830300
 鶫	dong	0
 駧	dong	0
 霘	dong	0
@@ -5798,7 +5800,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500773
+了	le	1500774
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -14163,8 +14165,8 @@ sort: by_weight
 市	shi	1181965
 使	shi	34422
 事	shi	1181829
-时	shi	1182229
-是	shi	1182270
+时	shi	1182271
+是	shi	1182272
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14352,7 +14354,7 @@ sort: by_weight
 壤	rang	96
 嚷	rang	201
 讓	rang	311
-让	rang	1500745
+让	rang	1500749
 隢	rao	0
 襓	rao	1
 犪	rao	2
@@ -19893,7 +19895,7 @@ sort: by_weight
 部落	bu luo	2241
 不惯	bu guan	125
 不关	bu guan	590726
-不管	bu guan	590931
+不管	bu guan	590932
 不光	bu guang	1093
 不怪	bu guai	259
 不乖	bu guai	12358
@@ -21921,7 +21923,7 @@ sort: by_weight
 默然	mo ran	148
 蓦然	mo ran	157
 漠然	mo ran	189
-默认	mo ren	326033
+默认	mo ren	326039
 末日	mo ri	387
 墨子	mo zi	203
 魔族	mo zu	118
@@ -23450,7 +23452,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	4830026
+打开	da kai	4830028
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -25995,7 +25997,7 @@ sort: by_weight
 天极	tian ji	297
 天际	tian ji	18515
 天价	tian jia	543
-添加	tian jia	18616
+添加	tian jia	18617
 田间	tian jian	472
 天骄	tian jiao	181
 天降	tian jiang	117
@@ -26404,7 +26406,7 @@ sort: by_weight
 同比	tong bi	1255
 通便	tong bian	114
 通病	tong bing	273
-同步	tong bu	344055
+同步	tong bu	344067
 铜牌	tong pai	196
 通篇	tong pian	148
 痛骂	tong ma	143
@@ -31527,7 +31529,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304754
+可以	ke yi	304755
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -32333,7 +32335,7 @@ sort: by_weight
 海参	hai shen	234
 还剩	hai sheng	525
 海事	hai shi	364
-还是	hai shi	665390
+还是	hai shi	665393
 还说	hai shuo	2926
 海水	hai shui	1027
 还让	hai rang	244
@@ -35895,7 +35897,7 @@ sort: by_weight
 旧时	jiu shi	223
 九十	jiu shi	293
 救市	jiu shi	562
-就是	jiu shi	558807
+就是	jiu shi	558808
 就收	jiu shou	179
 旧书	jiu shu	191
 救赎	jiu shu	558706
@@ -40074,7 +40076,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976100
+这个	zhe ge	976101
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40829,7 +40831,7 @@ sort: by_weight
 咫尺	zhi chi	128
 智齿	zhi chi	139
 只吃	zhi chi	311
-支持	zhi chi	975487
+支持	zhi chi	975489
 直冲	zhi chong	208
 之初	zhi chu	7517
 支出	zhi chu	2596
@@ -58299,7 +58301,7 @@ sort: by_weight
 字幕组	zi mu zu	162
 字符集	zi fu ji	204
 字符串	zi fu chuan	1536
-自定义	zi ding yi	1735
+自定义	zi ding yi	1736
 自动挡	zi dong dang	114
 自动档	zi dong dang	195
 自动化	zi dong hua	1383
@@ -58447,7 +58449,7 @@ sort: by_weight
 做文章	zuo wen zhang	193
 最短的	zui duan de	275
 最大的	zui da de	8816
-最大化	zui da hua	2547
+最大化	zui da hua	2549
 最大值	zui da zhi	233
 最低点	zui di dian	8817
 最低价	zui di jia	417
