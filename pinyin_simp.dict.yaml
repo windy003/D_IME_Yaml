@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-都显示	dou xian shi	1
+总条数	zong tiao shu	1
+都显示	dou xian shi	6168
 只出现	zhi chu xian	1
 成功后	cheng gong hou	23
 这个功能	zhe ge gong neng	1
@@ -914,7 +914,7 @@ sort: by_weight
 感谢你	gan xie ni	245998
 黑岛玲衣	hei dao lin yi	1
 亮屏	liang pin	1
-现在发现	xian zai fa xian	9
+现在发现	xian zai fa xian	10
 成功过	cheng gong guo	2
 是这样子的吗	shi zhe yang zhi de ma	1
 这么样子	zhe mo yang zhi	2
@@ -923,7 +923,7 @@ sort: by_weight
 可以的	ke yi de	1
 有办法吗	you ban fa ma	2
 骄奢淫逸	jiao se yin yi	1
-我要求	wo yao qiu	114
+我要求	wo yao qiu	115
 从机	cong ji	127020
 响铃	xiang lin	246788
 没问题	mei wen ti	3
@@ -1162,7 +1162,7 @@ sort: by_weight
 不就是	bu jiu shi	200
 房颤	fang can	200
 微信	wei xin	1193097
-下行	xia hang	246888
+下行	xia hang	246889
 上行	shang hang	200
 内间距	nei jian ju	200
 外间距	wai jian ju	200
@@ -1243,7 +1243,7 @@ sort: by_weight
 这样子	zhe yang zhi	975847
 是什么	shi sheng mo	1182299
 简拼	jian pin	4643
-安卓	an zhuo	84054
+安卓	an zhuo	84056
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -1823,7 +1823,7 @@ sort: by_weight
 兵	bing	4611
 冰	bing	4841
 病	bing	591090
-并	bing	591207
+并	bing	591208
 鵓	bo	0
 鱍	bo	0
 挬	bo	0
@@ -3871,7 +3871,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830341
+的	de	4830342
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -12768,7 +12768,7 @@ sort: by_weight
 仲	zhong	3273
 钟	zhong	976029
 重	zhong	243218
-种	zhong	975285
+种	zhong	976128
 中	zhong	976116
 麆	zhu	0
 壴	zhu	0
@@ -14936,7 +14936,7 @@ sort: by_weight
 踪	zong	305
 纵	zong	840
 宗	zong	2593
-总	zong	975511
+总	zong	976129
 踤	zu	1
 葅	zu	1
 趲	zu	1
@@ -15258,7 +15258,7 @@ sort: by_weight
 丛	cong	550
 聪	cong	734
 葱	cong	869
-从	cong	127143
+从	cong	127146
 鼀	cu	0
 踀	cu	1
 踧	cu	1
@@ -17131,7 +17131,7 @@ sort: by_weight
 油	you	5961
 由	you	614685
 又	you	614583
-有	you	614686
+有	you	614694
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -17982,7 +17982,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84053
+啊	a	84056
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -21488,7 +21488,7 @@ sort: by_weight
 没做	mei zuo	601
 煤层	mei ceng	110
 每层	mei ceng	111
-每次	mei ci	325990
+每次	mei ci	325993
 没错	mei cuo	3056
 美色	mei se	187
 没死	mei si	328
@@ -23466,7 +23466,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	4830034
+打开	da kai	4830035
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -25919,7 +25919,7 @@ sort: by_weight
 提神	ti shen	182
 替身	ti shen	291
 提升	ti sheng	9608
-提示	ti shi	344099
+提示	ti shi	344100
 替人	ti ren	116
 提早	ti zao	578
 蹄子	ti zi	106
@@ -26158,7 +26158,7 @@ sort: by_weight
 跳绳	tiao sheng	182
 挑食	tiao shi	141
 调试	tiao shi	343959
-条数	tiao shu	343967
+条数	tiao shu	344101
 跳水	tiao shui	1241
 跳入	tiao ru	120
 跳蚤	tiao zao	393
@@ -26420,7 +26420,7 @@ sort: by_weight
 同比	tong bi	1255
 通便	tong bian	114
 通病	tong bing	273
-同步	tong bu	344077
+同步	tong bu	344078
 铜牌	tong pai	196
 通篇	tong pian	148
 痛骂	tong ma	143
@@ -33011,7 +33011,7 @@ sort: by_weight
 厚道	hou dao	1376
 厚的	hou de	664969
 厚度	hou du	1142
-后台	hou tai	665005
+后台	hou tai	665006
 后天	hou tian	3484
 后头	hou tou	289
 后腿	hou tui	181
@@ -33869,7 +33869,7 @@ sort: by_weight
 集体	ji ti	4920
 吉田	ji tian	813
 几天	ji tian	12190
-几条	ji tiao	558508
+几条	ji tiao	558792
 机头	ji tou	126
 寄托	ji tuo	905
 击退	ji tui	153
@@ -34044,7 +34044,7 @@ sort: by_weight
 几许	ji xu	173
 积蓄	ji xu	787
 急需	ji xu	1260
-继续	ji xu	558797
+继续	ji xu	558799
 基准	ji zhun	634
 挤占	ji zhan	117
 机战	ji zhan	148
@@ -38157,7 +38157,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246878
+现在	xian zai	246879
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -40090,7 +40090,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976105
+这个	zhe ge	976109
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -41135,7 +41135,7 @@ sort: by_weight
 重工	zhong gong	243
 中共	zhong gong	975286
 中古	zhong gu	144
-中国	zhong guo	975830
+中国	zhong guo	976106
 终归	zhong gui	287
 肿块	zhong kuai	230
 重卡	zhong ka	119
@@ -46304,7 +46304,7 @@ sort: by_weight
 总管	zong guan	318
 纵观	zong guan	374
 总工	zong gong	105
-总共	zong gong	2087
+总共	zong gong	976108
 总归	zong gui	734
 总行	zong hang	475
 总和	zong he	445
@@ -52646,7 +52646,7 @@ sort: by_weight
 殡仪馆	bin yi guan	221
 并不多	bing bu duo	584
 并不难	bing bu nan	207
-并不会	bing bu hui	593
+并不会	bing bu hui	596
 并不像	bing bu xiang	274
 并不是	bing bu shi	8120
 兵马俑	bing ma yong	203
