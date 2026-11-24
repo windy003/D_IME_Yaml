@@ -16,9 +16,8 @@ sort: by_weight
 
 
 
-
-
-蔡贞安	cai zheng an	11
+可以把	ke yi ba	1
+蔡贞安	cai zheng an	12
 总条数	zong tiao shu	2
 都显示	dou xian shi	6168
 只出现	zhi chu xian	1
@@ -1229,8 +1228,8 @@ sort: by_weight
 硬删除	yin san chua	207
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
-这里的	zhe li de	212
-是什么意思	shi sheng mo yi si	1182298
+这里的	zhe li de	213
+是什么意思	shi sheng mo yi si	1182299
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -1244,7 +1243,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975847
-是什么	shi sheng mo	1182302
+是什么	shi sheng mo	1182303
 简拼	jian pin	4643
 安卓	an zhuo	84057
 就这样子	jiu zhe yang zhi	100
@@ -3874,7 +3873,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830354
+的	de	4830359
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5303,7 +5302,7 @@ sort: by_weight
 呢	ni	2485
 尼	ni	2504
 拟	ni	2833
-你	ni	1500765
+你	ni	1500772
 躎	nian	0
 秊	nian	0
 簐	nian	0
@@ -14645,7 +14644,7 @@ sort: by_weight
 仔	zai	1416
 载	zai	2159
 再	zai	976125
-在	zai	976131
+在	zai	976134
 酇	zan	0
 饡	zan	0
 禶	zan	1
@@ -22206,7 +22205,7 @@ sort: by_weight
 发痒	fa yang	129
 发扬	fa yang	873
 法医	fa yi	69717
-发音	fa yin	1130
+发音	fa yin	69718
 法语	fa yu	1045
 发育	fa yu	1981
 法王	fa wang	169
@@ -26464,7 +26463,7 @@ sort: by_weight
 同感	tong gan	744
 通告	tong gao	815
 童工	tong gong	145
-通过	tong guo	344056
+通过	tong guo	344057
 铜矿	tong kuang	227
 痛快	tong kuai	874
 统考	tong kao	215
@@ -30103,7 +30102,7 @@ sort: by_weight
 格局	ge ju	2557
 搁浅	ge qian	257
 各区	ge qu	279
-歌曲	ge qu	246281
+歌曲	ge qu	246282
 阁下	ge xia	506
 各县	ge xian	270
 各校	ge xiao	151
@@ -30719,7 +30718,7 @@ sort: by_weight
 过头	guo tou	645
 国土	guo tu	829
 锅内	guo nei	242
-国内	guo nei	246230
+国内	guo nei	246304
 过你	guo ni	303
 过年	guo nian	2323
 果农	guo nong	125
@@ -32475,10 +32474,10 @@ sort: by_weight
 涵义	han yi	226
 含义	han yi	2188
 含有	han you	3095
-韩语	han yu	664999
+韩语	han yu	665425
 汉语	han yu	664998
 汉王	han wang	158
-韩文	han wen	294
+韩文	han wen	665145
 捍卫	han wei	598
 航班	hang ban	1593
 航母	hang mu	759
@@ -33274,7 +33273,7 @@ sort: by_weight
 火暴	huo bao	185
 火爆	huo bao	1611
 或被	huo bei	183
-货币	huo bi	2815
+货币	huo bi	665043
 或不	huo bu	425
 火炮	huo pao	224
 获批	huo pi	200
@@ -34241,7 +34240,7 @@ sort: by_weight
 家门	jia men	680
 加盟	jia meng	2577
 佳美	jia mei	115
-加密	jia mi	558603
+加密	jia mi	558736
 假面	jia mian	134
 假名	jia ming	111
 贾母	jia mu	127
@@ -35425,7 +35424,7 @@ sort: by_weight
 晋江	jin jiang	317
 进阶	jin jie	156
 紧紧	jin jin	2258
-仅仅	jin jin	558797
+仅仅	jin jin	558807
 进京	jin jing	361
 紧缺	jin que	1719
 今起	jin qi	179
@@ -40086,14 +40085,14 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	975694
 哲理	zhe li	478
-这里	zhe li	976120
+这里	zhe li	976121
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976115
+这个	zhe ge	976117
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -40157,7 +40156,7 @@ sort: by_weight
 这事	zhe shi	2491
 这时	zhe shi	4722
 这是	zhe shi	975804
-这首	zhe shou	58158
+这首	zhe shou	975816
 这书	zhe shu	131
 这让	zhe rang	699
 哲人	zhe ren	142
@@ -40423,7 +40422,7 @@ sort: by_weight
 蒸气	zheng qi	853
 整齐	zheng qi	1147
 蒸汽	zheng qi	1356
-挣钱	zheng qian	2191
+挣钱	zheng qian	975245
 正巧	zheng qiao	179
 争抢	zheng qiang	241
 征求	zheng qiu	913
@@ -40973,7 +40972,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	975967
+只有	zhi you	975972
 之用	zhi yong	469
 只用	zhi yong	975494
 之语	zhi yu	148
@@ -45560,7 +45559,7 @@ sort: by_weight
 乳化	ru hua	132
 如花	ru hua	466
 入海	ru hai	114
-如何	ru he	1500633
+如何	ru he	1500748
 入户	ru hu	440
 如火	ru huo	135
 入伙	ru huo	143
@@ -46007,7 +46006,7 @@ sort: by_weight
 责问	ze wen	107
 则为	ze wei	472
 择偶	ze ou	153
-怎么	zen me	976122
+怎么	zen me	976123
 怎能	zen neng	725
 怎会	zen hui	312
 怎样	zen yang	14659
@@ -47995,7 +47994,7 @@ sort: by_weight
 圆了	yuan le	147
 院里	yuan li	381
 远离	yuan li	2038
-原理	yuan li	614554
+原理	yuan li	614664
 原料	yuan liao	2705
 原谅	yuan liang	2394
 园林	yuan lin	977
@@ -55944,7 +55943,7 @@ sort: by_weight
 角质层	jiao zhi ceng	206
 交叉口	jiao cha kou	173
 交出来	jiao chu lai	105
-叫什么	jiao shen me	558820
+叫什么	jiao shen me	558821
 教室里	jiao shi li	391
 教师节	jiao shi jie	374
 脚手架	jiao shou jia	124
@@ -55954,7 +55953,7 @@ sort: by_weight
 交易商	jiao yi shang	145
 叫一声	jiao yi sheng	185
 交易日	jiao yi ri	1012
-交易所	jiao yi suo	558812
+交易所	jiao yi suo	558813
 交易员	jiao yi yuan	157
 交易额	jiao yi e	168
 教育部	jiao yu bu	1657
