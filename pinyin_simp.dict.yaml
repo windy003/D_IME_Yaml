@@ -17,8 +17,8 @@ sort: by_weight
 
 
 
-
-蓝牙版	lan ya ban	1
+三星手表	san xin sou biao	1
+蓝牙版	lan ya ban	1500784
 正序	zheng xu	1
 活在你的	huo zai ni de	1
 南波明花	nan bo min hua	1500773
@@ -2517,7 +2517,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326123
+吗	ma	326125
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3299,7 +3299,7 @@ sort: by_weight
 芬	fen	1301
 粉	fen	4338
 份	fen	6408
-分	fen	69727
+分	fen	69787
 飌	feng	0
 艂	feng	0
 焨	feng	0
@@ -3348,7 +3348,7 @@ sort: by_weight
 冯	feng	2510
 疯	feng	3471
 峰	feng	3510
-封	feng	69776
+封	feng	69786
 风	feng	69758
 鼣	fei	0
 胇	fei	0
@@ -3879,7 +3879,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830359
+的	de	4830362
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -7497,7 +7497,7 @@ sort: by_weight
 咔	ka	126
 咖	ka	127
 喀	ka	211
-卡	ka	304669
+卡	ka	304761
 鎎	kai	0
 塏	kai	0
 勓	kai	0
@@ -8252,7 +8252,7 @@ sort: by_weight
 合	he	665396
 何	he	6636
 喝	he	15293
-和	he	665463
+和	he	665466
 拫	hen	2
 鞎	hen	3
 痕	hen	777
@@ -14188,7 +14188,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1182279
 时	shi	1182313
-是	shi	1182317
+是	shi	1182319
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -14312,7 +14312,7 @@ sort: by_weight
 朔	shuo	263
 硕	shuo	555
 說	shuo	621
-说	shuo	1182308
+说	shuo	1182320
 裞	shui	1
 閖	shui	3
 脽	shui	3
@@ -17139,7 +17139,7 @@ sort: by_weight
 油	you	5961
 由	you	614685
 又	you	614583
-有	you	614694
+有	you	614699
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -18213,7 +18213,7 @@ sort: by_weight
 呃	e	7259
 饿	e	8284
 俄	e	11525
-额	e	12039
+额	e	162043
 峎	en	2
 奀	en	5
 蒽	en	137
@@ -20135,7 +20135,7 @@ sort: by_weight
 不时	bu shi	1037
 不适	bu shi	1265
 布什	bu shi	1906
-不是	bu shi	591189
+不是	bu shi	591211
 不守	bu shou	116
 不收	bu shou	567
 不受	bu shou	590716
@@ -21516,7 +21516,7 @@ sort: by_weight
 每一	mei yi	325665
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	326067
+没有	mei you	326124
 没用	mei yong	325905
 美玉	mei yu	113
 美语	mei yu	128
@@ -24207,7 +24207,7 @@ sort: by_weight
 得病	de bing	264
 得不	de bu	193
 得票	de piao	124
-的吗	de ma	4830266
+的吗	de ma	4830361
 得名	de ming	325
 得分	de fen	2008
 的风	de feng	345
@@ -27328,7 +27328,7 @@ sort: by_weight
 妮可	ni ke	140
 尼克	ni ke	224
 你可	ni ke	775
-你还	ni hai	3685
+你还	ni hai	1500785
 你好	ni hao	1500523
 拟合	ni he	173
 你和	ni he	862
@@ -28173,7 +28173,7 @@ sort: by_weight
 累积	lei ji	918
 累计	lei ji	2815
 累加	lei jia	158
-类型	lei xing	1500637
+类型	lei xing	1500786
 类中	lei zhong	105
 泪珠	lei zhu	151
 累赘	lei zhui	215
@@ -28686,7 +28686,7 @@ sort: by_weight
 两路	liang lu	186
 亮光	liang guang	186
 晾干	liang gan	141
-两个	liang ge	1500748
+两个	liang ge	1500785
 两根	liang gen	507
 两国	liang guo	2665
 两款	liang kuan	1093
@@ -31567,7 +31567,7 @@ sort: by_weight
 可谓	ke wei	2309
 可我	ke wo	1311
 可恶	ke wu	3908
-可爱	ke ai	304737
+可爱	ke ai	304760
 可按	ke an	261
 可儿	ke er	115
 克尔	ke er	129
@@ -32378,10 +32378,10 @@ sort: by_weight
 海岩	hai yan	207
 海燕	hai yan	259
 海洋	hai yang	2632
-还要	hai yao	665423
+还要	hai yao	665464
 还以	hai yi	255
 还应	hai ying	499
-还有	hai you	665401
+还有	hai you	665465
 还用	hai yong	907
 海域	hai yu	976
 海外	hai wai	4242
@@ -33928,7 +33928,7 @@ sort: by_weight
 技改	ji gai	271
 极高	ji gao	884
 及格	ji ge	803
-几个	ji ge	558794
+几个	ji ge	558825
 几根	ji gen	303
 寄给	ji gei	550
 机构	ji gou	13998
@@ -34134,7 +34134,7 @@ sort: by_weight
 技术	ji shu	558733
 计税	ji shui	125
 积水	ji shui	373
-既然	ji ran	558779
+既然	ji ran	558824
 己任	ji ren	222
 几人	ji ren	478
 即日	ji ri	240
@@ -41800,7 +41800,7 @@ sort: by_weight
 查收	cha shou	1399
 茶树	cha shu	191
 茶水	cha shui	355
-插入	cha ru	2681
+插入	cha ru	127151
 插在	cha zai	374
 叉子	cha zi	136
 插座	cha zuo	126987
@@ -42503,7 +42503,7 @@ sort: by_weight
 池子	chi zi	169
 斥资	chi zi	185
 赤字	chi zi	221
-尺寸	chi cun	3956
+尺寸	chi cun	127152
 持仓	chi cang	468
 吃草	chi cao	181
 吃醋	chi cu	624
@@ -43568,7 +43568,7 @@ sort: by_weight
 审批	shen pi	1181268
 神码	shen ma	206
 深埋	shen mai	146
-什么	shen me	1182182
+什么	shen me	1182318
 审美	shen mei	1349
 神秘	shen mi	3854
 神庙	shen miao	464
@@ -44049,7 +44049,7 @@ sort: by_weight
 食堂	shi tang	2227
 事体	shi ti	140
 试题	shi ti	1241
-实体	shi ti	18169
+实体	shi ti	1182321
 尸体	shi ti	18167
 十天	shi tian	630
 十条	shi tiao	279
@@ -47396,7 +47396,7 @@ sort: by_weight
 三相	san xiang	234
 三项	san xiang	754
 散心	san xin	176
-三星	san xing	1182036
+三星	san xing	1182322
 散装	san zhuang	254
 三张	san zhang	451
 三者	san zhe	480
@@ -59452,7 +59452,7 @@ sort: by_weight
 未知数	wei zhi shu	213
 胃肠道	wei chang dao	208
 未成年	wei cheng nian	1276
-为什么	wei shen me	1193403
+为什么	wei shen me	1193413
 卫生部	wei sheng bu	806
 卫生间	wei sheng jian	1359
 卫生巾	wei sheng jin	263
