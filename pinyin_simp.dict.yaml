@@ -16,8 +16,8 @@ sort: by_weight
 
 
 
-
-列表项	lie biao xiang	1
+播放暂停	bo fang zhan tin	1
+列表项	lie biao xiang	4544
 都改为	dou gai wei	128
 下行同步	xia hang tong bu	2
 硬编码	yin bian ma	3
@@ -378,7 +378,7 @@ sort: by_weight
 以赛亚	yi sai ya	1
 是什么关系	shi sheng mo guan xi	2
 不一样吗	bu yi yang ma	1
-空格键	kong ge jian	671
+空格键	kong ge jian	672
 西瓜皮	xi gua pi	1
 舞圣原	wu sheng yuan	1
 安靖	an jin	1
@@ -1919,7 +1919,7 @@ sort: by_weight
 伯	bo	1525
 拨	bo	1684
 播	bo	1755
-博	bo	590746
+博	bo	591218
 波	bo	5395
 轐	bu	1
 篰	bu	1
@@ -9279,7 +9279,7 @@ sort: by_weight
 贱	jian	558675
 减	jian	2548
 兼	jian	3049
-键	jian	558809
+键	jian	558828
 剑	jian	5532
 件	jian	558703
 建	jian	558643
@@ -17210,7 +17210,7 @@ sort: by_weight
 拥	yong	801
 勇	yong	1939
 永	yong	2712
-用	yong	614707
+用	yong	614709
 稶	yu	0
 軉	yu	0
 礖	yu	0
@@ -18092,7 +18092,7 @@ sort: by_weight
 案	an	4805
 安	an	84044
 俺	an	16897
-按	an	84062
+按	an	84063
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -24145,7 +24145,7 @@ sort: by_weight
 刀口	dao kou	115
 道口	dao kou	153
 倒还	dao hai	122
-导航	dao hang	4828550
+导航	dao hang	4830163
 倒好	dao hao	134
 盗号	dao hao	412
 道行	dao heng	128
@@ -31564,7 +31564,7 @@ sort: by_weight
 可依	ke yi	135
 可疑	ke yi	798
 刻意	ke yi	1693
-可以	ke yi	304762
+可以	ke yi	304763
 刻有	ke you	128
 可由	ke you	272
 可有	ke you	304390
@@ -37467,7 +37467,7 @@ sort: by_weight
 宣战	xuan zhan	196
 悬着	xuan zhe	206
 选址	xuan zhi	499
-选中	xuan zhong	246864
+选中	xuan zhong	246890
 宣传	xuan chuan	11468
 宣称	xuan cheng	990
 选出	xuan chu	857
@@ -37481,7 +37481,7 @@ sort: by_weight
 选人	xuan ren	169
 悬在	xuan zai	157
 玄奘	xuan zang	139
-选择	xuan ze	246858
+选择	xuan ze	246891
 选自	xuan zi	117
 选材	xuan cai	155
 轩辕	xuan yuan	478
@@ -40717,7 +40717,7 @@ sort: by_weight
 纸盒	zhi he	191
 制衡	zhi heng	205
 滞后	zhi hou	899
-之后	zhi hou	975713
+之后	zhi hou	975716
 直呼	zhi hu	110
 支护	zhi hu	119
 之火	zhi huo	233
@@ -43347,7 +43347,7 @@ sort: by_weight
 上学	shang xue	3976
 上旬	shang xun	112
 赏析	shang xi	239
-上下	shang xia	1182302
+上下	shang xia	1182339
 上限	shang xian	1277
 上线	shang xian	1181172
 上校	shang xiao	200
@@ -51109,7 +51109,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	1193402
+文件	wen jian	1193403
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -52073,7 +52073,7 @@ sort: by_weight
 案情	an qing	360
 安溪	an xi	116
 安息	an xi	230
-按下	an xia	83903
+按下	an xia	83904
 岸线	an xian	112
 暗香	an xiang	146
 安详	an xiang	290
@@ -53219,7 +53219,7 @@ sort: by_weight
 房交会	fang jiao hui	185
 防静电	fang jing dian	128
 方向盘	fang xiang pan	659
-方向键	fang xiang jian	240
+方向键	fang xiang jian	241
 方向性	fang xiang xing	110
 纺织品	fang zhi pin	636
 纺织业	fang zhi ye	136
