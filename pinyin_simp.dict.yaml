@@ -18,7 +18,10 @@ sort: by_weight
 
 
 
-明明是	min min shi	1
+
+
+是做什么用的	shi zuo sheng mo yong de	1
+明明是	min min shi	2
 有解吗	you jie ma	3
 有解	you jie	1
 确认收货	que ren sou huo	1
@@ -839,7 +842,7 @@ sort: by_weight
 词元	ci yuan	126940
 融富府	nong fu fu	1500681
 融富城	nong fu cheng	1
-意思是	yi shi si	614666
+意思是	yi shi si	614667
 开恩看顾	kai en kan gu	304681
 怜悯宽恕	lian min kuan shu	1500600
 安卓的	an zuo de	1
@@ -1055,7 +1058,7 @@ sort: by_weight
 腰果	yao guo	1
 单线程	dan xian cheng	1
 老婆孩子	lao po hai zi	1500783
-飙起来	biao qi lai	634
+飙起来	biao qi lai	635
 求你了	qiu ni le	1
 传进去	cuan jin qu	1
 腻子	nie zi	1500226
@@ -1268,7 +1271,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975847
-是什么	shi sheng mo	1182337
+是什么	shi sheng mo	1182338
 简拼	jian pin	4643
 安卓	an zhuo	84058
 就这样子	jiu zhe yang zhi	100
@@ -2536,7 +2539,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326132
+吗	ma	326134
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3898,7 +3901,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830390
+的	de	4830393
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -8330,7 +8333,7 @@ sort: by_weight
 侯	hou	665045
 後	hou	2787
 厚	hou	3079
-后	hou	665456
+后	hou	665471
 宖	hong	0
 篊	hong	0
 焢	hong	0
@@ -14207,7 +14210,7 @@ sort: by_weight
 使	shi	34422
 事	shi	1182279
 时	shi	1182343
-是	shi	1182347
+是	shi	1182349
 獣	shou	4
 綬	shou	5
 獸	shou	13
@@ -18009,7 +18012,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84061
+啊	a	84066
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -18098,7 +18101,7 @@ sort: by_weight
 案	an	4805
 安	an	84044
 俺	an	16897
-按	an	84063
+按	an	84065
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -27319,7 +27322,7 @@ sort: by_weight
 逆风	ni feng	126
 你到	ni dao	325
 你得	ni de	441
-你的	ni de	1500783
+你的	ni de	1500785
 你得	ni dei	327
 拟订	ni ding	142
 拟定	ni ding	617
@@ -30152,7 +30155,7 @@ sort: by_weight
 歌声	ge sheng	1366
 各市	ge shi	305
 各式	ge shi	385
-格式	ge shi	246301
+格式	ge shi	246302
 歌手	ge shou	2865
 个数	ge shu	118499
 个税	ge shui	337
@@ -33072,7 +33075,7 @@ sort: by_weight
 后续	hou xu	665355
 后者	hou zhe	2784
 厚重	hou zhong	560
-后缀	hou zhui	665179
+后缀	hou zhui	665431
 后场	hou chang	232
 候车	hou che	163
 后尘	hou chen	114
@@ -38184,7 +38187,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246889
+现在	xian zai	246893
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
@@ -38615,7 +38618,7 @@ sort: by_weight
 相片	xiang pian	2067
 想买	xiang mai	1319
 相貌	xiang mao	686
-项目	xiang mu	246878
+项目	xiang mu	246880
 想法	xiang fa	11816
 襄樊	xiang fan	385
 相反	xiang fan	2292
@@ -40117,7 +40120,7 @@ sort: by_weight
 这两	zhe liang	1408
 遮盖	zhe gai	975375
 这歌	zhe ge	288
-这个	zhe ge	976120
+这个	zhe ge	976123
 这跟	zhe gen	232
 这根	zhe gen	246
 这更	zhe geng	107
@@ -41120,7 +41123,7 @@ sort: by_weight
 重担	zhong dan	226
 中档	zhong dang	225
 中德	zhong de	154
-中的	zhong de	976137
+中的	zhong de	976138
 中等	zhong deng	900
 中的	zhong di	975856
 种地	zhong di	287
@@ -49244,7 +49247,7 @@ sort: by_weight
 一缸	yi gang	110
 一刚	yi gang	184
 一格	yi ge	373897
-一个	yi ge	614672
+一个	yi ge	614673
 一根	yi gen	613989
 异构	yi gou	143
 以供	yi gong	272
@@ -51115,7 +51118,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	1193404
+文件	wen jian	1193406
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -51160,7 +51163,7 @@ sort: by_weight
 温柔	wen rou	4112
 问责	wen ze	220
 蚊子	wen zi	1877
-文字	wen zi	1193355
+文字	wen zi	1193416
 温存	wen cun	168
 文采	wen cai	412
 文员	wen yuan	329
@@ -54946,7 +54949,7 @@ sort: by_weight
 葛洲坝	ge zhou ba	256
 歌唱家	ge chang jia	156
 各省市	ge sheng shi	188
-格式化	ge shi hua	1049
+格式化	ge shi hua	1050
 个字符	ge zi fu	110
 歌友会	ge you hui	165
 歌舞团	ge wu tuan	140
@@ -58342,7 +58345,7 @@ sort: by_weight
 字幕组	zi mu zu	162
 字符集	zi fu ji	204
 字符串	zi fu chuan	1536
-自定义	zi ding yi	1736
+自定义	zi ding yi	1738
 自动挡	zi dong dang	114
 自动档	zi dong dang	195
 自动化	zi dong hua	1383
@@ -63662,7 +63665,7 @@ sort: by_weight
 这个游戏	zhe ge you xi	412
 这个网站	zhe ge wang zhan	579
 这个问题	zhe ge wen ti	4153
-这个文件	zhe ge wen jian	352
+这个文件	zhe ge wen jian	353
 这件事情	zhe jian shi qing	1085
 浙江大学	zhe jiang da xue	415
 这就是说	zhe jiu shi shuo	107
