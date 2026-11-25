@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-硬编码	yin bian ma	1
+下行同步	xia hang tong bu	1
+硬编码	yin bian ma	2
 时间到期	shi jian dao qi	1
 安卓手机	an zuo sou ji	1
 物流信息	wu liu xin xi	1
@@ -934,7 +934,7 @@ sort: by_weight
 感谢你	gan xie ni	245998
 黑岛玲衣	hei dao lin yi	1
 亮屏	liang pin	1
-现在发现	xian zai fa xian	10
+现在发现	xian zai fa xian	11
 成功过	cheng gong guo	2
 是这样子的吗	shi zhe yang zhi de ma	1
 这么样子	zhe mo yang zhi	2
@@ -3157,7 +3157,7 @@ sort: by_weight
 罚	fa	1329
 伐	fa	10721
 法	fa	69516
-发	fa	69790
+发	fa	69791
 鷭	fan	0
 鱕	fan	0
 滼	fan	0
@@ -7537,7 +7537,7 @@ sort: by_weight
 恺	kai	159
 楷	kai	228
 凯	kai	1983
-开	kai	304732
+开	kai	304763
 轗	kan	1
 栞	kan	2
 衎	kan	2
@@ -11401,7 +11401,7 @@ sort: by_weight
 现	xian	246844
 县	xian	7573
 线	xian	246810
-先	xian	246881
+先	xian	246893
 鷍	xiao	0
 痚	xiao	0
 揱	xiao	0
@@ -21528,7 +21528,7 @@ sort: by_weight
 每一	mei yi	325665
 魅影	mei ying	134
 美英	mei ying	191
-没有	mei you	326124
+没有	mei you	326125
 没用	mei yong	325905
 美玉	mei yu	113
 美语	mei yu	128
@@ -23486,7 +23486,7 @@ sort: by_weight
 大卡	da ka	135
 打卡	da ka	319
 大开	da kai	264
-打开	da kai	4830036
+打开	da kai	4830037
 大可	da ke	147
 大坑	da keng	159
 大口	da kou	467
@@ -34064,7 +34064,7 @@ sort: by_weight
 几许	ji xu	173
 积蓄	ji xu	787
 急需	ji xu	1260
-继续	ji xu	558800
+继续	ji xu	558801
 基准	ji zhun	634
 挤占	ji zhan	117
 机战	ji zhan	148
@@ -35459,7 +35459,7 @@ sort: by_weight
 金曲	jin qu	204
 进取	jin qu	566
 禁区	jin qu	1366
-进去	jin qu	558730
+进去	jin qu	558732
 今夏	jin xia	196
 仅限	jin xian	206
 尽显	jin xian	322
@@ -38177,7 +38177,7 @@ sort: by_weight
 陷入	xian ru	2883
 闲杂	xian za	246280
 先在	xian zai	442
-现在	xian zai	246882
+现在	xian zai	246883
 仙子	xian zi	712
 先走	xian zou	246608
 先祖	xian zu	136
