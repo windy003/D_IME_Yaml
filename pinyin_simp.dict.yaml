@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-山扉	san fei	1
+不维护	bu wei hu	1
+山扉	san fei	1182256
 小魔	xiao mo	1
 折叠椅	zhe die yi	1739
 这样子的吗	zhe yang zhi de ma	2
@@ -827,7 +827,7 @@ sort: by_weight
 以西结	yi xi jie	614069
 这个是什么	zhe ge shi sheng mo	975559
 腾讯云	teng xun yun	792
-安卓端	an zhuo duan	9
+安卓端	an zhuo duan	10
 云函数	yun han shu	697
 是怎么样子的呢	shi zheng mo yang zi de ne	2
 消息推送	xiao xi tui song	2
@@ -1292,7 +1292,7 @@ sort: by_weight
 这样子	zhe yang zhi	975847
 是什么	shi sheng mo	1182368
 简拼	jian pin	4643
-安卓	an zhuo	84062
+安卓	an zhuo	84063
 就这样子	jiu zhe yang zhi	100
 鼥	ba	0
 釛	ba	0
@@ -5710,7 +5710,7 @@ sort: by_weight
 來	lai	457
 莱	lai	1188
 赖	lai	2186
-来	lai	1500754
+来	lai	1500794
 鑭	lan	0
 爦	lan	0
 讕	lan	1
@@ -9808,7 +9808,7 @@ sort: by_weight
 旧	jiu	558613
 久	jiu	558575
 酒	jiu	558433
-就	jiu	558830
+就	jiu	558835
 鵴	ju	0
 鋦	ju	0
 郹	ju	0
@@ -18120,7 +18120,7 @@ sort: by_weight
 案	an	4805
 安	an	84044
 俺	an	16897
-按	an	84069
+按	an	84070
 醠	ang	0
 骯	ang	1
 昻	ang	2
@@ -20255,7 +20255,7 @@ sort: by_weight
 不畏	bu wei	179
 不为	bu wei	499
 部委	bu wei	584
-部位	bu wei	2944
+部位	bu wei	591174
 不误	bu wu	149
 不无	bu wu	176
 不爱	bu ai	1597
@@ -32377,7 +32377,7 @@ sort: by_weight
 海欣	hai xin	112
 海信	hai xin	497
 海星	hai xing	130
-还行	hai xing	4453
+还行	hai xing	665387
 害羞	hai xiu	1116
 还须	hai xu	147
 还需	hai xu	751
@@ -49618,7 +49618,7 @@ sort: by_weight
 一死	yi si	213
 疑似	yi si	464
 一丝	yi si	2338
-意思	yi si	614710
+意思	yi si	614711
 一艘	yi sou	485
 移送	yi song	259
 一所	yi suo	1122
@@ -51488,7 +51488,7 @@ sort: by_weight
 我党	wo dang	144
 我倒	wo dao	1014
 我得	wo de	597
-我的	wo de	1193309
+我的	wo de	1193310
 我等	wo deng	161
 我得	wo dei	389
 卧底	wo di	386
