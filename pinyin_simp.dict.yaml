@@ -15,8 +15,11 @@ sort: by_weight
 
 
 
+
+
+可读	ke du	1
 什么决定的	sheng mo jue din de	1
-决定的	jue din de	1
+决定的	jue din de	558838
 每个字	mei ge zi	326144
 不维护	bu wei hu	1
 山扉	san fei	1182256
@@ -576,7 +579,7 @@ sort: by_weight
 这个啊	zhe ge a	2
 是这个啊	shi zhe ge a	1
 时间点	shi jian dian	751
-晚晚	wan wan	1193407
+晚晚	wan wan	1193420
 娘舅	niang jiu	1
 拿来了	na lai le	1
 扁鱼	bian yu	590907
@@ -1264,7 +1267,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614260
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182363
+上面说的	shang mian shuo de	1182383
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -1276,7 +1279,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	215
-是什么意思	shi sheng mo yi si	1182302
+是什么意思	shi sheng mo yi si	1182385
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -1290,7 +1293,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975847
-是什么	shi sheng mo	1182368
+是什么	shi sheng mo	1182384
 简拼	jian pin	4643
 安卓	an zhuo	84063
 就这样子	jiu zhe yang zhi	100
@@ -2558,7 +2561,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326142
+吗	ma	326145
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -31462,7 +31465,7 @@ sort: by_weight
 可到	ke dao	220
 可得	ke de	432
 蝌蚪	ke dou	156
-刻度	ke du	158
+刻度	ke du	304764
 可多	ke duo	120
 可对	ke dui	115
 客队	ke dui	185
@@ -34054,7 +34057,7 @@ sort: by_weight
 激起	ji qi	682
 极其	ji qi	2671
 及其	ji qi	9572
-机器	ji qi	14732
+机器	ji qi	558839
 寄钱	ji qian	137
 几千	ji qian	1366
 技巧	ji qiao	4205
@@ -40132,7 +40135,7 @@ sort: by_weight
 这轮	zhe lun	157
 这类	zhe lei	975694
 哲理	zhe li	478
-这里	zhe li	976136
+这里	zhe li	976163
 这俩	zhe lia	186
 着脸	zhe lian	375
 这辆	zhe liang	273
@@ -41019,7 +41022,7 @@ sort: by_weight
 之忧	zhi you	135
 挚友	zhi you	140
 之友	zhi you	142
-只有	zhi you	976143
+只有	zhi you	976164
 之用	zhi yong	469
 只用	zhi yong	975494
 之语	zhi yu	148
@@ -51137,7 +51140,7 @@ sort: by_weight
 问及	wen ji	341
 文集	wen ji	589
 稳健	wen jian	1173
-文件	wen jian	1193412
+文件	wen jian	1193421
 文教	wen jiao	143
 温江	wen jiang	133
 文静	wen jing	377
@@ -59760,7 +59763,7 @@ sort: by_weight
 二锅头	er guo tou	150
 二季度	er ji du	323
 二极管	er ji guan	257
-二进制	er jin zhi	398
+二进制	er jin zhi	162044
 儿媳妇	er xi fu	178
 二十八	er shi ba	271
 二十多	er shi duo	566
