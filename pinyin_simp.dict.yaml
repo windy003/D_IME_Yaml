@@ -17,9 +17,9 @@ sort: by_weight
 
 
 
-
-国行手机	guo hang sou ji	1
-国际版	guo ji ban	246323
+国行版	guo hang ban	1
+国行手机	guo hang sou ji	246325
+国际版	guo ji ban	246327
 知道了	zhi dao le	1
 拥塞	yong se	1
 降权	jiang quan	558841
@@ -803,7 +803,7 @@ sort: by_weight
 柱状	zhu zhuang	1
 拿上来	na shang lai	1
 行了吧	xin le ba	1
-了吧	le ba	1500503
+了吧	le ba	1500806
 就没用	jiu mei yong	1
 用不到	yong bu dao	582
 下来了	xia lai le	1
@@ -839,12 +839,12 @@ sort: by_weight
 流量数据	liu liang shu ju	2
 最近任务	zui jin leng wu	1
 最近应用	zui jin yin yong	975137
-三星手机	san xin shou ji	1182396
+三星手机	san xin shou ji	1182415
 纯文本	cun wen ben	1
 授权码	sou quan ma	1
 增删改查	zheng san gai ca	2
 国行的	guo hang de	1
-国行	guo hang	246069
+国行	guo hang	246330
 现在的	xian zai de	246790
 选一个	xuan yi ge	220
 怎么填	zheng mo tian	110
@@ -1262,7 +1262,7 @@ sort: by_weight
 是一个	shi yi ge	1182019
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	541
-在不	zai bu	976142
+在不	zai bu	976184
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	103
 父神	fu sheng	69796
@@ -1296,7 +1296,7 @@ sort: by_weight
 有什么区别	you sheng mo qu bie	614260
 哈希表	ha xi biao	297
 哈希	ha xi	100
-上面说的	shang mian shuo de	1182388
+上面说的	shang mian shuo de	1182414
 你能举一个例子吗	ni neng ju yi ge li zhi ma	201
 可以删除吗	ke yi san chu ma	101
 选择范围	xuan zhe fan wei	200
@@ -5174,7 +5174,7 @@ sort: by_weight
 褪	tui	201
 腿	tui	344036
 推	tui	5296
-退	tui	344094
+退	tui	344111
 唔	n	1500535
 嗯	n	31984
 餪	nuan	0
@@ -5895,7 +5895,7 @@ sort: by_weight
 叻	le	827
 勒	le	3034
 乐	le	1500402
-了	le	1500804
+了	le	1500807
 踜	leng	0
 薐	leng	1
 睖	leng	1
@@ -7141,7 +7141,7 @@ sort: by_weight
 歌	ge	246270
 格	ge	246139
 各	ge	246319
-个	ge	246310
+个	ge	246329
 揯	gen	0
 茛	gen	6
 亘	gen	63
@@ -7623,7 +7623,7 @@ sort: by_weight
 侃	kan	543
 坎	kan	660
 砍	kan	2746
-看	kan	304697
+看	kan	304771
 閌	kang	0
 匟	kang	0
 嫝	kang	0
@@ -8331,7 +8331,7 @@ sort: by_weight
 痕	hen	777
 狠	hen	3506
 恨	hen	4102
-很	hen	665383
+很	hen	665495
 鵆	heng	0
 胻	heng	0
 鑅	heng	1
@@ -16521,7 +16521,7 @@ sort: by_weight
 腰	yao	614433
 咬	yao	3558
 药	yao	613931
-要	yao	614704
+要	yao	614731
 擨	ye	0
 歋	ye	0
 抴	ye	0
@@ -18624,7 +18624,7 @@ sort: by_weight
 百万	bai wan	1647
 百位	bai wei	109
 斑斑	ban ban	494
-版本	ban ben	590821
+版本	ban ben	591241
 半杯	ban bei	105
 半边	ban bian	236
 斑驳	ban bo	188
@@ -20120,7 +20120,7 @@ sort: by_weight
 不详	bu xiang	457
 不象	bu xiang	737
 不像	bu xiang	590732
-不想	bu xiang	591140
+不想	bu xiang	591242
 布鞋	bu xie	144
 不谢	bu xie	265
 不懈	bu xie	430
@@ -20572,7 +20572,7 @@ sort: by_weight
 佩带	pei dai	164
 佩戴	pei dai	387
 配电	pei dian	173
-配对	pei dui	362
+配对	pei dui	59002
 陪他	pei ta	349
 陪她	pei ta	491
 胚胎	pei tai	375
@@ -21029,7 +21029,7 @@ sort: by_weight
 妈妈	ma ma	20017
 妈咪	ma mi	598
 麻木	ma mu	1371
-麻烦	ma fan	18902
+麻烦	ma fan	326154
 马达	ma da	417
 麻袋	ma dai	241
 骂道	ma dao	154
@@ -40155,7 +40155,7 @@ sort: by_weight
 蔗糖	zhe tang	116
 这趟	zhe tang	162
 这套	zhe tao	1290
-折腾	zhe teng	2652
+折腾	zhe teng	976183
 这天	zhe tian	741
 这条	zhe tiao	2467
 这贴	zhe tie	239
@@ -44572,7 +44572,7 @@ sort: by_weight
 手臂	shou bi	1305
 收编	shou bian	109
 手边	shou bian	225
-手表	shou biao	1182330
+手表	shou biao	1182420
 手柄	shou bing	711
 首播	shou bo	211
 手部	shou bu	160
@@ -44671,7 +44671,7 @@ sort: by_weight
 守军	shou jun	105
 手记	shou ji	234
 收集	shou ji	4781
-手机	shou ji	1182395
+手机	shou ji	1182416
 首家	shou jia	758
 售价	shou jia	2119
 收件	shou jian	181
@@ -45638,7 +45638,7 @@ sort: by_weight
 乳化	ru hua	132
 如花	ru hua	466
 入海	ru hai	114
-如何	ru he	1500792
+如何	ru he	1500794
 入户	ru hu	440
 如火	ru huo	135
 入伙	ru huo	143
@@ -47469,7 +47469,7 @@ sort: by_weight
 三相	san xiang	234
 三项	san xiang	754
 散心	san xin	176
-三星	san xing	1182398
+三星	san xing	1182419
 散装	san zhuang	254
 三张	san zhang	451
 三者	san zhe	480
@@ -51574,7 +51574,7 @@ sort: by_weight
 我先	wo xian	1551
 我笑	wo xiao	199
 我校	wo xiao	1313
-我想	wo xiang	1193350
+我想	wo xiang	1193429
 我写	wo xie	524
 我心	wo xin	754
 我找	wo zhao	1192976
@@ -57938,7 +57938,7 @@ sort: by_weight
 世博会	shi bo hui	302
 示波器	shi bo qi	168
 时不时	shi bu shi	933
-是不是	shi bu shi	1182362
+是不是	shi bu shi	1182417
 适配器	shi pei qi	353
 使皮肤	shi pi fu	420
 视频网	shi pin wang	205
@@ -61992,7 +61992,7 @@ sort: by_weight
 规划编制	gui hua bian zhi	114
 规划纲要	gui hua gang yao	130
 规划建设	gui hua jian she	281
-规划设计	gui hua she ji	284
+规划设计	gui hua she ji	246324
 规章制度	gui zhang zhi du	499
 跨国公司	kua guo gong si	911
 跨国企业	kua guo qi ye	182
