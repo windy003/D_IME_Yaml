@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-电池容量	dian ci rong liang	1
+什么时候发货	sheng mo shi hou fa huo	1
+电池容量	dian ci rong liang	4830494
 典型值	dian xin zhi	1
 测出来的	ce chu lai de	2
 测出来	ce chu lai	1
@@ -667,7 +667,7 @@ sort: by_weight
 找到了	zao dao le	1
 然一生	jie ran yi sheng	1
 铰链	jiao lian	1
-分别是	fen bie shi	69792
+分别是	fen bie shi	69800
 不支持	bu zhi ci	590974
 棒槌	bang cui	1
 不成功	bu cheng gong	1
@@ -1282,7 +1282,7 @@ sort: by_weight
 是一个	shi yi ge	1182019
 上滑按钮	shang hua an niu	200
 反斜扛	fan xie gang	541
-在不	zai bu	976196
+在不	zai bu	976206
 升序	sheng xu	1181092
 怎么实现的	zheng mo shi xian de	103
 父神	fu sheng	69796
@@ -2610,7 +2610,7 @@ sort: by_weight
 妈	ma	9875
 马	ma	325618
 嘛	ma	70738
-吗	ma	326157
+吗	ma	326159
 鷶	mai	0
 嘪	mai	1
 霢	mai	1
@@ -3972,7 +3972,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830493
+的	de	4830496
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -5194,7 +5194,7 @@ sort: by_weight
 褪	tui	201
 腿	tui	344036
 推	tui	5296
-退	tui	344111
+退	tui	344116
 唔	n	1500535
 嗯	n	31984
 餪	nuan	0
@@ -12756,7 +12756,7 @@ sort: by_weight
 直	zhi	5038
 知	zhi	975641
 指	zhi	8783
-值	zhi	976203
+值	zhi	976205
 至	zhi	17782
 只	zhi	976187
 之	zhi	975925
@@ -17232,7 +17232,7 @@ sort: by_weight
 油	you	5961
 由	you	614685
 又	you	614583
-有	you	614722
+有	you	614751
 鯒	yong	0
 郺	yong	0
 鰫	yong	0
@@ -17551,7 +17551,7 @@ sort: by_weight
 雨	yu	614697
 鱼	yu	614201
 于	yu	614564
-与	yu	614744
+与	yu	614752
 溛	wa	0
 膃	wa	1
 瓲	wa	1
@@ -18083,7 +18083,7 @@ sort: by_weight
 呵	a	337
 吖	a	3034
 阿	a	83831
-啊	a	84078
+啊	a	84080
 餲	ai	0
 溰	ai	0
 鴱	ai	1
@@ -19921,7 +19921,7 @@ sort: by_weight
 不复	bu fu	188
 不负	bu fu	372
 部副	bu fu	397
-不符	bu fu	758
+不符	bu fu	591257
 不服	bu fu	952
 不短	bu duan	155
 不断	bu duan	19068
@@ -21792,7 +21792,7 @@ sort: by_weight
 秒钟	miao zhong	325619
 秒杀	miao sha	282
 藐视	miao shi	228
-描述	miao shu	325667
+描述	miao shu	326158
 苗子	miao zi	112
 苗族	miao zu	265
 妙用	miao yong	107
@@ -25341,7 +25341,7 @@ sort: by_weight
 多出	duo chu	13435
 多杀	duo sha	182
 躲闪	duo shan	219
-多少	duo shao	4830154
+多少	duo shao	4830495
 多食	duo shi	126
 多事	duo shi	213
 多时	duo shi	4828395
@@ -33445,7 +33445,7 @@ sort: by_weight
 或许	huo xu	8387
 获准	huo zhun	324
 活着	huo zhe	3703
-或者	huo zhe	665329
+或者	huo zhe	665512
 获知	huo zhi	282
 火种	huo zhong	160
 货主	huo zhu	133
@@ -35369,8 +35369,8 @@ sort: by_weight
 届时	jie shi	1162
 解释	jie shi	12266
 接手	jie shou	712
-接收	jie shou	558571
-接受	jie shou	558467
+接收	jie shou	558863
+接受	jie shou	558864
 借书	jie shu	176
 结束	jie shu	558822
 解说	jie shuo	1059
@@ -44752,7 +44752,7 @@ sort: by_weight
 手持	shou chi	777
 受宠	shou chong	109
 收出	shou chu	110
-售出	shou chu	389
+售出	shou chu	1182456
 手刹	shou sha	105
 手上	shou shang	3083
 受伤	shou shang	3811
@@ -51629,7 +51629,7 @@ sort: by_weight
 我所	wo suo	1022
 我愿	wo yuan	305
 我院	wo yuan	691
-我要	wo yao	1193355
+我要	wo yao	1193438
 我也	wo ye	1193302
 我已	wo yi	624
 我一	wo yi	19518
