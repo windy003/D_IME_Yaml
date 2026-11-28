@@ -18,7 +18,10 @@ sort: by_weight
 
 
 
-健康度	jian kang du	1
+
+测出来的	ce chu lai de	1
+测出来	ce chu lai	1
+健康度	jian kang du	2
 长点的	chang dian de	1
 不方便	bu fang bian	521
 配置信息	pei zhi xin xi	2
@@ -1095,7 +1098,7 @@ sort: by_weight
 抖音	dou yin	4830091
 小野坂由香	xiao ye ban you xiang	246453
 是哪里的	shi na li de	1
-哪里的	na li de	348
+哪里的	na li de	491
 病残津贴	bin can jin tie	591089
 生个孩子	sheng ge hai zi	1182190
 新台币	xin tai bi	1
@@ -1337,7 +1340,7 @@ sort: by_weight
 常用语	chang yong yu	328
 一定	yi din	614294
 这样子	zhe yang zhi	975850
-是什么	shi sheng mo	1182402
+是什么	shi sheng mo	1182403
 简拼	jian pin	4643
 安卓	an zhuo	84079
 就这样子	jiu zhe yang zhi	100
@@ -44220,7 +44223,7 @@ sort: by_weight
 十块	shi kuai	152
 石块	shi kuai	274
 试看	shi kan	108
-是看	shi kan	198
+是看	shi kan	1182422
 是靠	shi kao	841
 石刻	shi ke	148
 食客	shi ke	249
