@@ -18,8 +18,8 @@ sort: by_weight
 
 
 
-
-测出来的	ce chu lai de	1
+典型值	dian xin zhi	1
+测出来的	ce chu lai de	2
 测出来	ce chu lai	1
 健康度	jian kang du	2
 长点的	chang dian de	1
@@ -1326,7 +1326,7 @@ sort: by_weight
 软删除	ruan san chu	136
 删了	san le	1371硬删除	yin san chua	100
 这里的	zhe li de	218
-是什么意思	shi sheng mo yi si	1182434
+是什么意思	shi sheng mo yi si	1182435
 加了	jia le	100
 树状结构	shu zhuang jie gou	100
 时间戳	shi jian cuo	798
@@ -12754,7 +12754,7 @@ sort: by_weight
 直	zhi	5038
 知	zhi	975641
 指	zhi	8783
-值	zhi	976121
+值	zhi	976203
 至	zhi	17782
 只	zhi	976187
 之	zhi	975925
@@ -24702,7 +24702,7 @@ sort: by_weight
 电线	dian xian	4830086
 点心	dian xin	965
 电信	dian xin	7187
-典型	dian xing	4669
+典型	dian xing	4830372
 电站	dian zhan	482
 店长	dian zhang	334
 点着	dian zhe	129
@@ -45027,7 +45027,7 @@ sort: by_weight
 说声	shuo sheng	413
 说事	shuo shi	350
 硕士	shuo shi	2373
-说是	shuo shi	1181555
+说是	shuo shi	1182144
 说说	shuo shuo	1181178
 说辞	shuo ci	132
 说错	shuo cuo	1181752
