@@ -16,6 +16,9 @@ sort: by_weight
 
 
 
+
+
+健康度	jian kang du	1
 长点的	chang dian de	1
 不方便	bu fang bian	521
 配置信息	pei zhi xin xi	2
@@ -773,7 +776,7 @@ sort: by_weight
 寄快递	ji kuai di	1
 中通	zong tong	975230
 青田悠华	qin tian you hua	1
-有吗	you ma	614702
+有吗	you ma	614703
 有电源吗	you dian yuan ma	614102
 还有吗	hai you ma	665012
 同意一下	tong yi yi xia	1
@@ -3964,7 +3967,7 @@ sort: by_weight
 德	de	7178
 地	de	4830112
 得	de	4829502
-的	de	4830489
+的	de	4830493
 扥	den	6
 扽	den	350
 璒	deng	0
@@ -4126,9 +4129,9 @@ sort: by_weight
 典	dian	809
 垫	dian	4828869
 殿	dian	1153
-电	dian	4830475
+电	dian	4830490
 店	dian	4828528
-点	dian	4830474
+点	dian	4830491
 窵	diao	0
 奝	diao	0
 簓	diao	0
@@ -13339,7 +13342,7 @@ sort: by_weight
 厂	chang	5991
 常	chang	127006
 唱	chang	127105
-长	chang	127118
+长	chang	127173
 窲	chao	0
 轈	chao	0
 巐	chao	0
@@ -24708,7 +24711,7 @@ sort: by_weight
 电厂	dian chang	883
 电车	dian che	301
 滇池	dian chi	121
-电池	dian chi	4830485
+电池	dian chi	4830486
 电扇	dian shan	230
 点上	dian shang	538
 电视	dian shi	4828865
@@ -44584,7 +44587,7 @@ sort: by_weight
 手臂	shou bi	1305
 收编	shou bian	109
 手边	shou bian	225
-手表	shou biao	1182451
+手表	shou biao	1182452
 手柄	shou bing	711
 首播	shou bo	211
 手部	shou bu	160
@@ -47481,7 +47484,7 @@ sort: by_weight
 三相	san xiang	234
 三项	san xiang	754
 散心	san xin	176
-三星	san xing	1182448
+三星	san xing	1182449
 散装	san zhuang	254
 三张	san zhang	451
 三者	san zhe	480
